@@ -1,0 +1,17 @@
+{
+  "name": "github-radar",
+  "version": "1.0.0",
+  "description": "Daily trending GitHub repos digest — AI, Crypto, Web3 & general. Auto-generated via GitHub Actions with Telegram notifications.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "build": "node src/build-index.js",
+    "radar": "node src/index.js && node src/build-index.js"
+  },
+  "author": "@xnotok",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xnotok-ops/github-radar"
+  }
+}
