@@ -1,10 +1,12 @@
 /**
- * GitHub Radar - Generate Digest
+ * GitHub Radar - Generate Digest v2
+ * Now includes weekly persistent & monthly consistent sections
  */
 
 const fs = require("fs");
 const path = require("path");
 const { formatNum } = require("./fetch-trending");
+const { getWeeklyTrending, getMonthlyConsistent, getDroppedOff } = require("./history-tracker");
 
 function getToday() {
   return new Date().toISOString().split("T")[0];
@@ -17,20 +19,72 @@ function generateMarkdown(data) {
     (sum, cat) => sum + cat.repos.filter(r => r.stars_per_day >= 5).length, 0
   );
 
+  const weeklyTrending = getWeeklyTrending();
+  const monthlyConsistent = getMonthlyConsistent();
+  const droppedOff = getDroppedOff();
+
   let md = "";
+
   md += `# 🔭 GitHub Radar — Daily Digest\n\n`;
   md += `**Date:** ${today}  \n`;
   md += `**Repos tracked:** ${totalRepos} | **Hot (5+ ⭐/day):** ${hotRepos}  \n`;
+  md += `**Weekly persistent:** ${weeklyTrending.length} | **Monthly consistent:** ${monthlyConsistent.length}  \n`;
   md += `**Categories:** AI/LLM/Agents, Crypto/Web3, General Trending  \n\n`;
   md += `---\n\n`;
 
   md += `## Contents\n\n`;
+  md += `- [Weekly Persistent Repos](#weekly-persistent) — trending 3+ days this week\n`;
+  md += `- [Monthly Consistent Repos](#monthly-consistent) — trending 10+ days this month\n`;
+  if (droppedOff.length > 0) {
+    md += `- [Dropped Off](#dropped-off) — popular last week, gone this week\n`;
+  }
   for (const [id, cat] of Object.entries(data)) {
     if (cat.repos.length > 0) {
       md += `- [${cat.name}](#${id}) (${cat.repos.length} repos)\n`;
     }
   }
   md += `\n---\n\n`;
+
+  md += `## 📅 Weekly Persistent Repos\n\n`;
+  md += `> Repos that appeared in trending **3+ days in the last 7 days**. These aren't just one-day hype — they have staying power.\n\n`;
+
+  if (weeklyTrending.length > 0) {
+    md += `| # | Repo | ⭐ Stars | ⭐/day | Days (7d) | Language | Status |\n`;
+    md += `|---|------|---------|--------|-----------|----------|--------|\n`;
+    weeklyTrending.forEach((r, i) => {
+      const status = r.appearances >= 6 ? "🔥 Dominant" : r.appearances >= 4 ? "📈 Strong" : "✅ Steady";
+      md += `| ${i + 1} | [${r.full_name}](${r.html_url}) | ${formatNum(r.stars)} | +${r.stars_per_day} | ${r.appearances}/7 | ${r.language || "?"} | ${status} |\n`;
+    });
+    md += `\n`;
+  } else {
+    md += `*Not enough data yet — need at least 3 days of digests to show weekly trends.*\n\n`;
+  }
+  md += `---\n\n`;
+
+  md += `## 📆 Monthly Consistent Repos\n\n`;
+  md += `> Repos that appeared in trending **10+ days in the last 30 days**. Proven long-term growth, not just hype.\n\n`;
+
+  if (monthlyConsistent.length > 0) {
+    md += `| # | Repo | ⭐ Stars | Days (30d) | Language | Verdict |\n`;
+    md += `|---|------|---------|------------|----------|--------|\n`;
+    monthlyConsistent.forEach((r, i) => {
+      const verdict = r.appearances >= 20 ? "🏆 Dominant" : r.appearances >= 15 ? "💎 Solid" : "📊 Consistent";
+      md += `| ${i + 1} | [${r.full_name}](${r.html_url}) | ${formatNum(r.stars)} | ${r.appearances}/30 | ${r.language || "?"} | ${verdict} |\n`;
+    });
+    md += `\n`;
+  } else {
+    md += `*Not enough data yet — need at least 10 days of digests to show monthly trends.*\n\n`;
+  }
+  md += `---\n\n`;
+
+  if (droppedOff.length > 0) {
+    md += `## 📉 Dropped Off\n\n`;
+    md += `> Were popular last week (3+ days) but haven't appeared this week. The hype may be over.\n\n`;
+    droppedOff.slice(0, 10).forEach((r, i) => {
+      md += `${i + 1}. ~~[${r.full_name}](${r.html_url})~~ — was ${r.appearances} days last week, now gone\n`;
+    });
+    md += `\n---\n\n`;
+  }
 
   for (const [id, cat] of Object.entries(data)) {
     if (cat.repos.length === 0) continue;
@@ -39,7 +93,7 @@ function generateMarkdown(data) {
 
     const top3 = cat.repos.slice(0, 3);
     if (top3.length > 0) {
-      md += `### 🏆 Top 3\n\n`;
+      md += `### 🏆 Top 3 Today\n\n`;
       top3.forEach((r, i) => {
         const medal = ["🥇", "🥈", "🥉"][i];
         const hotTag = r.stars_per_day >= 5 ? " 🔥" : "";
@@ -75,6 +129,15 @@ function generateMarkdown(data) {
     md += `\n`;
   }
 
+  md += `### 📈 Trend Overview\n\n`;
+  md += `- **Today:** ${totalRepos} repos tracked, ${hotRepos} hot\n`;
+  md += `- **This week:** ${weeklyTrending.length} repos persistent (3+ days)\n`;
+  md += `- **This month:** ${monthlyConsistent.length} repos consistent (10+ days)\n`;
+  if (droppedOff.length > 0) {
+    md += `- **Dropped off:** ${droppedOff.length} repos lost momentum\n`;
+  }
+  md += `\n`;
+
   const langCount = {};
   allRepos.forEach(r => {
     langCount[r.language] = (langCount[r.language] || 0) + 1;
@@ -109,16 +172,25 @@ function generateTelegramMessage(data) {
   const today = getToday();
   const allRepos = Object.values(data).flatMap(cat => cat.repos);
   const hottest = allRepos.filter(r => r.stars_per_day >= 5).sort((a, b) => b.stars_per_day - a.stars_per_day).slice(0, 5);
+  const weeklyTrending = getWeeklyTrending();
 
   let msg = `🔭 <b>GitHub Radar — ${today}</b>\n\n`;
 
   if (hottest.length > 0) {
-    msg += `🔥 <b>Hottest repos:</b>\n\n`;
+    msg += `🔥 <b>Hottest today:</b>\n\n`;
     hottest.forEach((r, i) => {
       msg += `${i + 1}. <a href="${r.html_url}">${r.full_name}</a>\n`;
       msg += `   ⭐ ${formatNum(r.stars)} (+${r.stars_per_day}/day) | ${r.language}\n`;
       msg += `   ${r.description.slice(0, 80)}\n\n`;
     });
+  }
+
+  if (weeklyTrending.length > 0) {
+    msg += `📅 <b>Still trending this week (${weeklyTrending.length}):</b>\n`;
+    weeklyTrending.slice(0, 3).forEach(r => {
+      msg += `• <a href="${r.html_url}">${r.full_name}</a> (${r.appearances}/7 days)\n`;
+    });
+    msg += `\n`;
   }
 
   for (const [id, cat] of Object.entries(data)) {
