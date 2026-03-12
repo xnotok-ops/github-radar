@@ -1,6 +1,6 @@
 /**
- * GitHub Radar - Generate Digest v2
- * Now includes weekly persistent & monthly consistent sections
+ * GitHub Radar - Generate Digest v3
+ * HN AI News at top + weekly/monthly sections
  */
 
 const fs = require("fs");
@@ -12,7 +12,7 @@ function getToday() {
   return new Date().toISOString().split("T")[0];
 }
 
-function generateMarkdown(data) {
+function generateMarkdown(data, hnStories) {
   const today = getToday();
   const totalRepos = Object.values(data).reduce((sum, cat) => sum + cat.repos.length, 0);
   const hotRepos = Object.values(data).reduce(
@@ -28,11 +28,14 @@ function generateMarkdown(data) {
   md += `# 🔭 GitHub Radar — Daily Digest\n\n`;
   md += `**Date:** ${today}  \n`;
   md += `**Repos tracked:** ${totalRepos} | **Hot (5+ ⭐/day):** ${hotRepos}  \n`;
-  md += `**Weekly persistent:** ${weeklyTrending.length} | **Monthly consistent:** ${monthlyConsistent.length}  \n`;
+  md += `**HN AI stories:** ${hnStories ? hnStories.length : 0} | **Weekly persistent:** ${weeklyTrending.length} | **Monthly consistent:** ${monthlyConsistent.length}  \n`;
   md += `**Categories:** AI/LLM/Agents, Crypto/Web3, General Trending  \n\n`;
   md += `---\n\n`;
 
   md += `## Contents\n\n`;
+  if (hnStories && hnStories.length > 0) {
+    md += `- [📰 Hacker News AI](#hn-ai-news) — top AI stories today\n`;
+  }
   md += `- [Weekly Persistent Repos](#weekly-persistent) — trending 3+ days this week\n`;
   md += `- [Monthly Consistent Repos](#monthly-consistent) — trending 10+ days this month\n`;
   if (droppedOff.length > 0) {
@@ -44,6 +47,19 @@ function generateMarkdown(data) {
     }
   }
   md += `\n---\n\n`;
+
+  if (hnStories && hnStories.length > 0) {
+    md += `## 📰 Hacker News AI\n\n`;
+    md += `> Top AI/ML/LLM stories from Hacker News in the last 24 hours, ranked by points.\n\n`;
+
+    md += `| # | Story | ⬆️ Points | 💬 Comments | Author |\n`;
+    md += `|---|-------|----------|-------------|--------|\n`;
+    hnStories.forEach((s, i) => {
+      const title = s.title.length > 70 ? s.title.slice(0, 70) + "..." : s.title;
+      md += `| ${i + 1} | [${title}](${s.url}) ([discuss](${s.hn_url})) | ${s.points} | ${s.comments} | ${s.author} |\n`;
+    });
+    md += `\n---\n\n`;
+  }
 
   md += `## 📅 Weekly Persistent Repos\n\n`;
   md += `> Repos that appeared in trending **3+ days in the last 7 days**. These aren't just one-day hype — they have staying power.\n\n`;
@@ -131,6 +147,7 @@ function generateMarkdown(data) {
 
   md += `### 📈 Trend Overview\n\n`;
   md += `- **Today:** ${totalRepos} repos tracked, ${hotRepos} hot\n`;
+  md += `- **HN AI:** ${hnStories ? hnStories.length : 0} stories\n`;
   md += `- **This week:** ${weeklyTrending.length} repos persistent (3+ days)\n`;
   md += `- **This month:** ${monthlyConsistent.length} repos consistent (10+ days)\n`;
   if (droppedOff.length > 0) {
@@ -168,7 +185,7 @@ function saveDigest(markdown) {
   return filePath;
 }
 
-function generateTelegramMessage(data) {
+function generateTelegramMessage(data, hnStories) {
   const today = getToday();
   const allRepos = Object.values(data).flatMap(cat => cat.repos);
   const hottest = allRepos.filter(r => r.stars_per_day >= 5).sort((a, b) => b.stars_per_day - a.stars_per_day).slice(0, 5);
@@ -176,8 +193,17 @@ function generateTelegramMessage(data) {
 
   let msg = `🔭 <b>GitHub Radar — ${today}</b>\n\n`;
 
+  if (hnStories && hnStories.length > 0) {
+    msg += `📰 <b>HN AI Top Stories:</b>\n`;
+    hnStories.slice(0, 3).forEach((s, i) => {
+      const title = s.title.length > 50 ? s.title.slice(0, 50) + "..." : s.title;
+      msg += `${i + 1}. <a href="${s.hn_url}">${title}</a> (⬆️${s.points})\n`;
+    });
+    msg += `\n`;
+  }
+
   if (hottest.length > 0) {
-    msg += `🔥 <b>Hottest today:</b>\n\n`;
+    msg += `🔥 <b>Hottest repos:</b>\n\n`;
     hottest.forEach((r, i) => {
       msg += `${i + 1}. <a href="${r.html_url}">${r.full_name}</a>\n`;
       msg += `   ⭐ ${formatNum(r.stars)} (+${r.stars_per_day}/day) | ${r.language}\n`;
