@@ -1,11 +1,12 @@
 /**
- * GitHub Radar - Main Entry Point
- * Runs: Fetch → Generate Digest → Save → Notify Telegram
+ * GitHub Radar - Main Entry Point v2
+ * Now with history tracking for weekly/monthly trends
  */
 
 const { fetchAllTopics } = require("./fetch-trending");
 const { generateMarkdown, saveDigest, generateTelegramMessage } = require("./generate-digest");
 const { sendTelegram } = require("./telegram");
+const { recordDaily } = require("./history-tracker");
 
 async function main() {
   console.log("🔭 GitHub Radar — Starting daily scan...\n");
@@ -20,6 +21,10 @@ async function main() {
 
   const totalRepos = Object.values(data).reduce((sum, cat) => sum + cat.repos.length, 0);
   console.log(`\n✅ Fetched ${totalRepos} repos across ${Object.keys(data).length} categories`);
+
+  const history = recordDaily(data);
+  const totalTracked = Object.keys(history.repos).length;
+  console.log(`📊 History: ${totalTracked} unique repos tracked`);
 
   const markdown = generateMarkdown(data);
   const filePath = saveDigest(markdown);
