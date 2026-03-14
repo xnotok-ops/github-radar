@@ -735,14 +735,382 @@
           "description": "Remote Control for Codex. 24/7 version on the way"
         }
       ]
+    },
+    "2026-03-14": {
+      "ai-llm": [
+        {
+          "full_name": "KeyID-AI/agent-kit",
+          "stars": 312,
+          "stars_per_day": 312,
+          "language": "JavaScript",
+          "html_url": "https://github.com/KeyID-AI/agent-kit",
+          "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup."
+        },
+        {
+          "full_name": "aiming-lab/MetaClaw",
+          "stars": 992,
+          "stars_per_day": 248,
+          "language": "Python",
+          "html_url": "https://github.com/aiming-lab/MetaClaw",
+          "description": "Just talk to your agent — it learns and EVOLVES."
+        },
+        {
+          "full_name": "wanshuiyin/Auto-claude-code-research-in-sleep",
+          "stars": 524,
+          "stars_per_day": 174.7,
+          "language": "TeX",
+          "html_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+          "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discove"
+        },
+        {
+          "full_name": "Kaleighc793/freqtrade-bot",
+          "stars": 554,
+          "stars_per_day": 138.5,
+          "language": "Python",
+          "html_url": "https://github.com/Kaleighc793/freqtrade-bot",
+          "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting"
+        },
+        {
+          "full_name": "CopilotKit/OpenGenerativeUI",
+          "stars": 116,
+          "stars_per_day": 116,
+          "language": "TypeScript",
+          "html_url": "https://github.com/CopilotKit/OpenGenerativeUI",
+          "description": "Open-Source Generative UI Framework"
+        },
+        {
+          "full_name": "Rohit24567/HyperLiquid-Claw",
+          "stars": 424,
+          "stars_per_day": 106,
+          "language": "Rust",
+          "html_url": "https://github.com/Rohit24567/HyperLiquid-Claw",
+          "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX"
+        },
+        {
+          "full_name": "asonglin/crypto-liquidity-ai-trading-bot",
+          "stars": 104,
+          "stars_per_day": 104,
+          "language": "JavaScript",
+          "html_url": "https://github.com/asonglin/crypto-liquidity-ai-trading-bot",
+          "description": "Crypto liquidity detection & algorithmic trading bot. Order book analysis, stop-loss clusters, liquidity sweeps. Multi-e"
+        },
+        {
+          "full_name": "moltlaunch/cashclaw",
+          "stars": 224,
+          "stars_per_day": 74.7,
+          "language": "TypeScript",
+          "html_url": "https://github.com/moltlaunch/cashclaw",
+          "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it."
+        },
+        {
+          "full_name": "get-Lucid/Lucid",
+          "stars": 260,
+          "stars_per_day": 65,
+          "language": "TypeScript",
+          "html_url": "https://github.com/get-Lucid/Lucid",
+          "description": "An intelligence layer grounding autonomous agents in verified, real-time knowledge at scale."
+        },
+        {
+          "full_name": "flightlesstux/prompt-caching",
+          "stars": 64,
+          "stars_per_day": 64,
+          "language": "TypeScript",
+          "html_url": "https://github.com/flightlesstux/prompt-caching",
+          "description": "Automatic prompt caching for Claude Code. Cuts token costs by up to 90% on repeated file reads, bug fix sessions, and lo"
+        },
+        {
+          "full_name": "hyperspaceai/agi",
+          "stars": 299,
+          "stars_per_day": 59.8,
+          "language": "Unknown",
+          "html_url": "https://github.com/hyperspaceai/agi",
+          "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via "
+        },
+        {
+          "full_name": "robertorobotics/Nextis-AIRA-3D",
+          "stars": 184,
+          "stars_per_day": 36.8,
+          "language": "Python",
+          "html_url": "https://github.com/robertorobotics/Nextis-AIRA-3D",
+          "description": "Open-source 7DoF 3D-printable robotic arm with LeRobot integration. "
+        },
+        {
+          "full_name": "claw-eval/claw-eval",
+          "stars": 73,
+          "stars_per_day": 36.5,
+          "language": "Python",
+          "html_url": "https://github.com/claw-eval/claw-eval",
+          "description": "Claw-Eval is an evaluation harness for evaluating LLM as agents. All tasks verified by humans."
+        },
+        {
+          "full_name": "dance-of-tal/dot-studio",
+          "stars": 32,
+          "stars_per_day": 32,
+          "language": "TypeScript",
+          "html_url": "https://github.com/dance-of-tal/dot-studio",
+          "description": "figma-style AI orchestration tool"
+        },
+        {
+          "full_name": "PatrikFehrenbach/h1-brain",
+          "stars": 95,
+          "stars_per_day": 31.7,
+          "language": "Python",
+          "html_url": "https://github.com/PatrikFehrenbach/h1-brain",
+          "description": "MCP server that connects AI assistants to HackerOne for bug bounty hunting"
+        }
+      ],
+      "crypto-web3": [
+        {
+          "full_name": "Justi1980/Dawn-Validator-BOT",
+          "stars": 537,
+          "stars_per_day": 134.3,
+          "language": "Python",
+          "html_url": "https://github.com/Justi1980/Dawn-Validator-BOT",
+          "description": "Dawn Validator BOT — Automated node validation bot for Dawn Protocol testnet with multi-account support, proxy rotation,"
+        },
+        {
+          "full_name": "asonglin/crypto-liquidity-ai-trading-bot",
+          "stars": 104,
+          "stars_per_day": 104,
+          "language": "JavaScript",
+          "html_url": "https://github.com/asonglin/crypto-liquidity-ai-trading-bot",
+          "description": "Crypto liquidity detection & algorithmic trading bot. Order book analysis, stop-loss clusters, liquidity sweeps. Multi-e"
+        },
+        {
+          "full_name": "marilyn4120shaz3/KiteAI",
+          "stars": 253,
+          "stars_per_day": 63.3,
+          "language": "Python",
+          "html_url": "https://github.com/marilyn4120shaz3/KiteAI",
+          "description": "Automated multi-account farming tool for Kite AI decentralized payment network with faucet claims, token staking, DEX sw"
+        },
+        {
+          "full_name": "martinez88668/MasterCryptoFarmBot",
+          "stars": 243,
+          "stars_per_day": 60.8,
+          "language": "Python",
+          "html_url": "https://github.com/martinez88668/MasterCryptoFarmBot",
+          "description": "MasterCryptoFarmBot CLI — Universal crypto farming bot manager with multi-bot orchestration, automated Telegram mini-app"
+        },
+        {
+          "full_name": "michelleoincx/Bunkr-Downloader-Python",
+          "stars": 168,
+          "stars_per_day": 56,
+          "language": "JavaScript",
+          "html_url": "https://github.com/michelleoincx/Bunkr-Downloader-Python",
+          "description": "No description"
+        },
+        {
+          "full_name": "aelf-hzz780/AI-bounty-skill",
+          "stars": 13,
+          "stars_per_day": 6.5,
+          "language": "Unknown",
+          "html_url": "https://github.com/aelf-hzz780/AI-bounty-skill",
+          "description": "Public Codex skill for claiming AI bounty on aelf tDVV via RewardClaimContract, supporting EOA Claim() and Portkey CA Cl"
+        },
+        {
+          "full_name": "AnimocaMinds/Animoca-Minds-Tips",
+          "stars": 16,
+          "stars_per_day": 5.3,
+          "language": "Unknown",
+          "html_url": "https://github.com/AnimocaMinds/Animoca-Minds-Tips",
+          "description": "Animoca Minds skills directory and content archive — animocaminds.ai"
+        },
+        {
+          "full_name": "alanisme/deeplens",
+          "stars": 5,
+          "stars_per_day": 5,
+          "language": "TypeScript",
+          "html_url": "https://github.com/alanisme/deeplens",
+          "description": "🔍 EVM blockchain analytics, real-time monitoring, address profiling, entity mapping, fund-path tracing"
+        },
+        {
+          "full_name": "nirholas/pumpfun-claims-bot",
+          "stars": 3,
+          "stars_per_day": 3,
+          "language": "TypeScript",
+          "html_url": "https://github.com/nirholas/pumpfun-claims-bot",
+          "description": "PumpFun GitHub social fee claim monitor — real-time Telegram feed for first-time creator fee claims on Solana"
+        },
+        {
+          "full_name": "nirholas/solana-launchpad-ui",
+          "stars": 3,
+          "stars_per_day": 3,
+          "language": "HTML",
+          "html_url": "https://github.com/nirholas/solana-launchpad-ui",
+          "description": "Token launchpad UI template inspired by pump.fun — dark theme, bonding curves, trading panel, 4 pages, pure HTML/CSS/JS,"
+        },
+        {
+          "full_name": "Rezzecup/autonomous-ai-trading-agent-llama3",
+          "stars": 3,
+          "stars_per_day": 3,
+          "language": "Python",
+          "html_url": "https://github.com/Rezzecup/autonomous-ai-trading-agent-llama3",
+          "description": "Agentic crypto trading bot powered by local Llama 3. Chain-of-Thought reasoning across RSI, MACD & live news. 100+ excha"
+        },
+        {
+          "full_name": "Odessacool1/crypto-security-toolkit",
+          "stars": 3,
+          "stars_per_day": 3,
+          "language": "Unknown",
+          "html_url": "https://github.com/Odessacool1/crypto-security-toolkit",
+          "description": "awesome-crypto-security, Essential tools, security stack and infrastructure every crypto trader should know."
+        },
+        {
+          "full_name": "dicethedev/MerkleForge",
+          "stars": 13,
+          "stars_per_day": 2.6,
+          "language": "Rust",
+          "html_url": "https://github.com/dicethedev/MerkleForge",
+          "description": "A high-performance, unified Merkle tree library for Rust featuring optimized Binary, Sparse, and Patricia variants with "
+        },
+        {
+          "full_name": "proxygate-official/cli",
+          "stars": 4,
+          "stars_per_day": 2,
+          "language": "TypeScript",
+          "html_url": "https://github.com/proxygate-official/cli",
+          "description": "ProxyGate CLI — buy APIs, sell agent capacity, and post jobs on the autonomous agent marketplace. USDC on Solana."
+        },
+        {
+          "full_name": "shuvonsec/web3-bug-bounty-hunting-ai-skills",
+          "stars": 2,
+          "stars_per_day": 2,
+          "language": "Unknown",
+          "html_url": "https://github.com/shuvonsec/web3-bug-bounty-hunting-ai-skills",
+          "description": "18 Claude Code skill files for smart contract security — built from 2,749 Immunefi reports, 681 DeFiHack reproductions, "
+        }
+      ],
+      "general": [
+        {
+          "full_name": "garrytan/gstack",
+          "stars": 6523,
+          "stars_per_day": 3261.5,
+          "language": "TypeScript",
+          "html_url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engi"
+        },
+        {
+          "full_name": "HKUDS/CLI-Anything",
+          "stars": 11923,
+          "stars_per_day": 2384.6,
+          "language": "Python",
+          "html_url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "CLI-Anything: Making ALL Software Agent-Native"
+        },
+        {
+          "full_name": "tanweai/pua",
+          "stars": 6662,
+          "stars_per_day": 1332.4,
+          "language": "TypeScript",
+          "html_url": "https://github.com/tanweai/pua",
+          "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  You are a P8-level engineer who once had hig"
+        },
+        {
+          "full_name": "davebcn87/pi-autoresearch",
+          "stars": 1200,
+          "stars_per_day": 600,
+          "language": "TypeScript",
+          "html_url": "https://github.com/davebcn87/pi-autoresearch",
+          "description": "Autonomous experiment loop extension for pi"
+        },
+        {
+          "full_name": "TianyiDataScience/openclaw-control-center",
+          "stars": 1038,
+          "stars_per_day": 519,
+          "language": "TypeScript",
+          "html_url": "https://github.com/TianyiDataScience/openclaw-control-center",
+          "description": "No description"
+        },
+        {
+          "full_name": "gsd-build/gsd-2",
+          "stars": 1002,
+          "stars_per_day": 501,
+          "language": "TypeScript",
+          "html_url": "https://github.com/gsd-build/gsd-2",
+          "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long p"
+        },
+        {
+          "full_name": "chrisworsey55/atlas-gic",
+          "stars": 740,
+          "stars_per_day": 370,
+          "language": "Unknown",
+          "html_url": "https://github.com/chrisworsey55/atlas-gic",
+          "description": "ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch"
+        },
+        {
+          "full_name": "aiming-lab/MetaClaw",
+          "stars": 992,
+          "stars_per_day": 248,
+          "language": "Python",
+          "html_url": "https://github.com/aiming-lab/MetaClaw",
+          "description": "Just talk to your agent — it learns and EVOLVES."
+        },
+        {
+          "full_name": "photon-hq/qclaw-wechat-client",
+          "stars": 721,
+          "stars_per_day": 240.3,
+          "language": "TypeScript",
+          "html_url": "https://github.com/photon-hq/qclaw-wechat-client",
+          "description": "Reverse-engineered TypeScript client for QClaw's WeChat Access API."
+        },
+        {
+          "full_name": "FreedomIntelligence/OpenClaw-Medical-Skills",
+          "stars": 1126,
+          "stars_per_day": 225.2,
+          "language": "Python",
+          "html_url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
+          "description": "The largest open-source medical AI skills library for OpenClaw🦞."
+        },
+        {
+          "full_name": "larksuite/openclaw-lark",
+          "stars": 846,
+          "stars_per_day": 211.5,
+          "language": "TypeScript",
+          "html_url": "https://github.com/larksuite/openclaw-lark",
+          "description": "飞书官方出品的 OpenClaw 飞书/Lark Channel 插件"
+        },
+        {
+          "full_name": "knowsuchagency/mcp2cli",
+          "stars": 836,
+          "stars_per_day": 209,
+          "language": "Python",
+          "html_url": "https://github.com/knowsuchagency/mcp2cli",
+          "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen"
+        },
+        {
+          "full_name": "jackwener/xiaohongshu-cli",
+          "stars": 932,
+          "stars_per_day": 186.4,
+          "language": "Python",
+          "html_url": "https://github.com/jackwener/xiaohongshu-cli",
+          "description": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API"
+        },
+        {
+          "full_name": "NawfalMotii79/PLFM_RADAR",
+          "stars": 904,
+          "stars_per_day": 180.8,
+          "language": "C",
+          "html_url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+          "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system"
+        },
+        {
+          "full_name": "trevin-creator/autoresearch-mlx",
+          "stars": 681,
+          "stars_per_day": 136.2,
+          "language": "Python",
+          "html_url": "https://github.com/trevin-creator/autoresearch-mlx",
+          "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required."
+        }
+      ]
     }
   },
   "repos": {
     "Kaleighc793/freqtrade-bot": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 5,
-      "peak_stars": 552,
+      "last_seen": "2026-03-14",
+      "days_seen": 6,
+      "peak_stars": 554,
       "peak_spd": 273,
       "language": "Python",
       "html_url": "https://github.com/Kaleighc793/freqtrade-bot",
@@ -750,29 +1118,29 @@
     },
     "aiming-lab/MetaClaw": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 4,
-      "peak_stars": 710,
-      "peak_spd": 236.7,
+      "last_seen": "2026-03-14",
+      "days_seen": 6,
+      "peak_stars": 992,
+      "peak_spd": 248,
       "language": "Python",
       "html_url": "https://github.com/aiming-lab/MetaClaw",
       "description": "Just talk to your agent — it learns and EVOLVES."
     },
     "wanshuiyin/Auto-claude-code-research-in-sleep": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 3,
-      "peak_stars": 282,
-      "peak_spd": 141,
+      "last_seen": "2026-03-14",
+      "days_seen": 4,
+      "peak_stars": 524,
+      "peak_spd": 174.7,
       "language": "Unknown",
       "html_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
       "description": "Claude Code skills for autonomous ML research: cross-model review loops via Codex MCP"
     },
     "get-Lucid/Lucid": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 3,
-      "peak_stars": 248,
+      "last_seen": "2026-03-14",
+      "days_seen": 4,
+      "peak_stars": 260,
       "peak_spd": 108.5,
       "language": "TypeScript",
       "html_url": "https://github.com/get-Lucid/Lucid",
@@ -800,9 +1168,9 @@
     },
     "PatrikFehrenbach/h1-brain": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 3,
-      "peak_stars": 76,
+      "last_seen": "2026-03-14",
+      "days_seen": 4,
+      "peak_stars": 95,
       "peak_spd": 41,
       "language": "Python",
       "html_url": "https://github.com/PatrikFehrenbach/h1-brain",
@@ -850,10 +1218,10 @@
     },
     "hyperspaceai/agi": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 3,
-      "peak_stars": 106,
-      "peak_spd": 27,
+      "last_seen": "2026-03-14",
+      "days_seen": 4,
+      "peak_stars": 299,
+      "peak_spd": 59.8,
       "language": "Unknown",
       "html_url": "https://github.com/hyperspaceai/agi",
       "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via "
@@ -890,8 +1258,8 @@
     },
     "michelleoincx/Bunkr-Downloader-Python": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 3,
+      "last_seen": "2026-03-14",
+      "days_seen": 4,
       "peak_stars": 170,
       "peak_spd": 170,
       "language": "HTML",
@@ -900,8 +1268,8 @@
     },
     "Justi1980/Dawn-Validator-BOT": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 3,
+      "last_seen": "2026-03-14",
+      "days_seen": 4,
       "peak_stars": 537,
       "peak_spd": 179,
       "language": "Python",
@@ -910,8 +1278,8 @@
     },
     "marilyn4120shaz3/KiteAI": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 3,
+      "last_seen": "2026-03-14",
+      "days_seen": 4,
       "peak_stars": 253,
       "peak_spd": 126.5,
       "language": "Python",
@@ -920,8 +1288,8 @@
     },
     "martinez88668/MasterCryptoFarmBot": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 3,
+      "last_seen": "2026-03-14",
+      "days_seen": 4,
       "peak_stars": 243,
       "peak_spd": 121.5,
       "language": "Python",
@@ -960,8 +1328,8 @@
     },
     "proxygate-official/cli": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 3,
+      "last_seen": "2026-03-14",
+      "days_seen": 4,
       "peak_stars": 4,
       "peak_spd": 4,
       "language": "TypeScript",
@@ -980,9 +1348,9 @@
     },
     "dicethedev/MerkleForge": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 3,
-      "peak_stars": 12,
+      "last_seen": "2026-03-14",
+      "days_seen": 4,
+      "peak_stars": 13,
       "peak_spd": 4,
       "language": "Rust",
       "html_url": "https://github.com/dicethedev/MerkleForge",
@@ -1050,19 +1418,19 @@
     },
     "HKUDS/CLI-Anything": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 3,
-      "peak_stars": 9239,
-      "peak_spd": 2309.8,
+      "last_seen": "2026-03-14",
+      "days_seen": 4,
+      "peak_stars": 11923,
+      "peak_spd": 2384.6,
       "language": "Python",
       "html_url": "https://github.com/HKUDS/CLI-Anything",
       "description": "CLI-Anything: Making ALL Software Agent-Native"
     },
     "tanweai/pua": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 3,
-      "peak_stars": 5453,
+      "last_seen": "2026-03-14",
+      "days_seen": 4,
+      "peak_stars": 6662,
       "peak_spd": 1363.3,
       "language": "TypeScript",
       "html_url": "https://github.com/tanweai/pua",
@@ -1070,9 +1438,9 @@
     },
     "photon-hq/qclaw-wechat-client": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 3,
-      "peak_stars": 708,
+      "last_seen": "2026-03-14",
+      "days_seen": 4,
+      "peak_stars": 721,
       "peak_spd": 651,
       "language": "TypeScript",
       "html_url": "https://github.com/photon-hq/qclaw-wechat-client",
@@ -1080,9 +1448,9 @@
     },
     "gsd-build/gsd-2": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 3,
-      "peak_stars": 790,
+      "last_seen": "2026-03-14",
+      "days_seen": 4,
+      "peak_stars": 1002,
       "peak_spd": 790,
       "language": "TypeScript",
       "html_url": "https://github.com/gsd-build/gsd-2",
@@ -1100,9 +1468,9 @@
     },
     "FreedomIntelligence/OpenClaw-Medical-Skills": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 3,
-      "peak_stars": 1085,
+      "last_seen": "2026-03-14",
+      "days_seen": 4,
+      "peak_stars": 1126,
       "peak_spd": 338,
       "language": "Python",
       "html_url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
@@ -1110,9 +1478,9 @@
     },
     "larksuite/openclaw-lark": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 3,
-      "peak_stars": 763,
+      "last_seen": "2026-03-14",
+      "days_seen": 4,
+      "peak_stars": 846,
       "peak_spd": 294,
       "language": "TypeScript",
       "html_url": "https://github.com/larksuite/openclaw-lark",
@@ -1130,9 +1498,9 @@
     },
     "jackwener/xiaohongshu-cli": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 3,
-      "peak_stars": 796,
+      "last_seen": "2026-03-14",
+      "days_seen": 4,
+      "peak_stars": 932,
       "peak_spd": 233,
       "language": "Python",
       "html_url": "https://github.com/jackwener/xiaohongshu-cli",
@@ -1140,9 +1508,9 @@
     },
     "knowsuchagency/mcp2cli": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 3,
-      "peak_stars": 698,
+      "last_seen": "2026-03-14",
+      "days_seen": 4,
+      "peak_stars": 836,
       "peak_spd": 232.7,
       "language": "Python",
       "html_url": "https://github.com/knowsuchagency/mcp2cli",
@@ -1150,9 +1518,9 @@
     },
     "trevin-creator/autoresearch-mlx": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 3,
-      "peak_stars": 597,
+      "last_seen": "2026-03-14",
+      "days_seen": 4,
+      "peak_stars": 681,
       "peak_spd": 181.3,
       "language": "Python",
       "html_url": "https://github.com/trevin-creator/autoresearch-mlx",
@@ -1180,19 +1548,19 @@
     },
     "asonglin/crypto-liquidity-ai-trading-bot": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 4,
-      "peak_stars": 103,
-      "peak_spd": 103,
+      "last_seen": "2026-03-14",
+      "days_seen": 6,
+      "peak_stars": 104,
+      "peak_spd": 104,
       "language": "JavaScript",
       "html_url": "https://github.com/asonglin/crypto-liquidity-ai-trading-bot",
       "description": "Crypto liquidity detection & algorithmic trading bot. Order book analysis, stop-loss clusters, liquidity sweeps. Multi-e"
     },
     "claw-eval/claw-eval": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 2,
-      "peak_stars": 59,
+      "last_seen": "2026-03-14",
+      "days_seen": 3,
+      "peak_stars": 73,
       "peak_spd": 59,
       "language": "Python",
       "html_url": "https://github.com/claw-eval/claw-eval",
@@ -1210,18 +1578,18 @@
     },
     "robertorobotics/Nextis-AIRA-3D": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 2,
-      "peak_stars": 121,
-      "peak_spd": 30.3,
+      "last_seen": "2026-03-14",
+      "days_seen": 3,
+      "peak_stars": 184,
+      "peak_spd": 36.8,
       "language": "Python",
       "html_url": "https://github.com/robertorobotics/Nextis-AIRA-3D",
       "description": "Open-source 7DoF 3D-printable robotic arm with LeRobot integration. "
     },
     "Rezzecup/autonomous-ai-trading-agent-llama3": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 2,
+      "last_seen": "2026-03-14",
+      "days_seen": 3,
       "peak_stars": 3,
       "peak_spd": 3,
       "language": "Unknown",
@@ -1240,8 +1608,8 @@
     },
     "nirholas/pumpfun-claims-bot": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 2,
+      "last_seen": "2026-03-14",
+      "days_seen": 3,
       "peak_stars": 3,
       "peak_spd": 3,
       "language": "TypeScript",
@@ -1250,20 +1618,20 @@
     },
     "garrytan/gstack": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-13",
-      "days_seen": 2,
-      "peak_stars": 2967,
-      "peak_spd": 2967,
+      "last_seen": "2026-03-14",
+      "days_seen": 3,
+      "peak_stars": 6523,
+      "peak_spd": 3261.5,
       "language": "TypeScript",
       "html_url": "https://github.com/garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engi"
     },
     "dance-of-tal/dot-studio": {
       "first_seen": "2026-03-13",
-      "last_seen": "2026-03-13",
-      "days_seen": 1,
-      "peak_stars": 25,
-      "peak_spd": 25,
+      "last_seen": "2026-03-14",
+      "days_seen": 2,
+      "peak_stars": 32,
+      "peak_spd": 32,
       "language": "TypeScript",
       "html_url": "https://github.com/dance-of-tal/dot-studio",
       "description": "figma-style AI orchestration tool"
@@ -1280,8 +1648,8 @@
     },
     "nirholas/solana-launchpad-ui": {
       "first_seen": "2026-03-13",
-      "last_seen": "2026-03-13",
-      "days_seen": 1,
+      "last_seen": "2026-03-14",
+      "days_seen": 2,
       "peak_stars": 3,
       "peak_spd": 3,
       "language": "HTML",
@@ -1290,19 +1658,19 @@
     },
     "alanisme/deeplens": {
       "first_seen": "2026-03-13",
-      "last_seen": "2026-03-13",
-      "days_seen": 1,
-      "peak_stars": 3,
-      "peak_spd": 3,
+      "last_seen": "2026-03-14",
+      "days_seen": 2,
+      "peak_stars": 5,
+      "peak_spd": 5,
       "language": "TypeScript",
       "html_url": "https://github.com/alanisme/deeplens",
       "description": "🔍 EVM blockchain analytics, real-time monitoring, address profiling, entity mapping, fund-path tracing"
     },
     "chrisworsey55/atlas-gic": {
       "first_seen": "2026-03-13",
-      "last_seen": "2026-03-13",
-      "days_seen": 1,
-      "peak_stars": 639,
+      "last_seen": "2026-03-14",
+      "days_seen": 2,
+      "peak_stars": 740,
       "peak_spd": 639,
       "language": "Unknown",
       "html_url": "https://github.com/chrisworsey55/atlas-gic",
@@ -1317,6 +1685,126 @@
       "language": "Swift",
       "html_url": "https://github.com/Emanuele-web04/remodex",
       "description": "Remote Control for Codex. 24/7 version on the way"
+    },
+    "KeyID-AI/agent-kit": {
+      "first_seen": "2026-03-14",
+      "last_seen": "2026-03-14",
+      "days_seen": 1,
+      "peak_stars": 312,
+      "peak_spd": 312,
+      "language": "JavaScript",
+      "html_url": "https://github.com/KeyID-AI/agent-kit",
+      "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup."
+    },
+    "CopilotKit/OpenGenerativeUI": {
+      "first_seen": "2026-03-14",
+      "last_seen": "2026-03-14",
+      "days_seen": 1,
+      "peak_stars": 116,
+      "peak_spd": 116,
+      "language": "TypeScript",
+      "html_url": "https://github.com/CopilotKit/OpenGenerativeUI",
+      "description": "Open-Source Generative UI Framework"
+    },
+    "Rohit24567/HyperLiquid-Claw": {
+      "first_seen": "2026-03-14",
+      "last_seen": "2026-03-14",
+      "days_seen": 1,
+      "peak_stars": 424,
+      "peak_spd": 106,
+      "language": "Rust",
+      "html_url": "https://github.com/Rohit24567/HyperLiquid-Claw",
+      "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX"
+    },
+    "moltlaunch/cashclaw": {
+      "first_seen": "2026-03-14",
+      "last_seen": "2026-03-14",
+      "days_seen": 1,
+      "peak_stars": 224,
+      "peak_spd": 74.7,
+      "language": "TypeScript",
+      "html_url": "https://github.com/moltlaunch/cashclaw",
+      "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it."
+    },
+    "flightlesstux/prompt-caching": {
+      "first_seen": "2026-03-14",
+      "last_seen": "2026-03-14",
+      "days_seen": 1,
+      "peak_stars": 64,
+      "peak_spd": 64,
+      "language": "TypeScript",
+      "html_url": "https://github.com/flightlesstux/prompt-caching",
+      "description": "Automatic prompt caching for Claude Code. Cuts token costs by up to 90% on repeated file reads, bug fix sessions, and lo"
+    },
+    "aelf-hzz780/AI-bounty-skill": {
+      "first_seen": "2026-03-14",
+      "last_seen": "2026-03-14",
+      "days_seen": 1,
+      "peak_stars": 13,
+      "peak_spd": 6.5,
+      "language": "Unknown",
+      "html_url": "https://github.com/aelf-hzz780/AI-bounty-skill",
+      "description": "Public Codex skill for claiming AI bounty on aelf tDVV via RewardClaimContract, supporting EOA Claim() and Portkey CA Cl"
+    },
+    "AnimocaMinds/Animoca-Minds-Tips": {
+      "first_seen": "2026-03-14",
+      "last_seen": "2026-03-14",
+      "days_seen": 1,
+      "peak_stars": 16,
+      "peak_spd": 5.3,
+      "language": "Unknown",
+      "html_url": "https://github.com/AnimocaMinds/Animoca-Minds-Tips",
+      "description": "Animoca Minds skills directory and content archive — animocaminds.ai"
+    },
+    "Odessacool1/crypto-security-toolkit": {
+      "first_seen": "2026-03-14",
+      "last_seen": "2026-03-14",
+      "days_seen": 1,
+      "peak_stars": 3,
+      "peak_spd": 3,
+      "language": "Unknown",
+      "html_url": "https://github.com/Odessacool1/crypto-security-toolkit",
+      "description": "awesome-crypto-security, Essential tools, security stack and infrastructure every crypto trader should know."
+    },
+    "shuvonsec/web3-bug-bounty-hunting-ai-skills": {
+      "first_seen": "2026-03-14",
+      "last_seen": "2026-03-14",
+      "days_seen": 1,
+      "peak_stars": 2,
+      "peak_spd": 2,
+      "language": "Unknown",
+      "html_url": "https://github.com/shuvonsec/web3-bug-bounty-hunting-ai-skills",
+      "description": "18 Claude Code skill files for smart contract security — built from 2,749 Immunefi reports, 681 DeFiHack reproductions, "
+    },
+    "davebcn87/pi-autoresearch": {
+      "first_seen": "2026-03-14",
+      "last_seen": "2026-03-14",
+      "days_seen": 1,
+      "peak_stars": 1200,
+      "peak_spd": 600,
+      "language": "TypeScript",
+      "html_url": "https://github.com/davebcn87/pi-autoresearch",
+      "description": "Autonomous experiment loop extension for pi"
+    },
+    "TianyiDataScience/openclaw-control-center": {
+      "first_seen": "2026-03-14",
+      "last_seen": "2026-03-14",
+      "days_seen": 1,
+      "peak_stars": 1038,
+      "peak_spd": 519,
+      "language": "TypeScript",
+      "html_url": "https://github.com/TianyiDataScience/openclaw-control-center",
+      "description": "No description"
+    },
+    "NawfalMotii79/PLFM_RADAR": {
+      "first_seen": "2026-03-14",
+      "last_seen": "2026-03-14",
+      "days_seen": 1,
+      "peak_stars": 904,
+      "peak_spd": 180.8,
+      "language": "C",
+      "html_url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system"
     }
   }
 }
