@@ -2207,6 +2207,374 @@
           "description": "ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch"
         }
       ]
+    },
+    "2026-03-18": {
+      "ai-llm": [
+        {
+          "full_name": "sstklen/trump-code",
+          "stars": 477,
+          "stars_per_day": 159,
+          "language": "Python",
+          "html_url": "https://github.com/sstklen/trump-code",
+          "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open so"
+        },
+        {
+          "full_name": "CopilotKit/OpenGenerativeUI",
+          "stars": 638,
+          "stars_per_day": 127.6,
+          "language": "TypeScript",
+          "html_url": "https://github.com/CopilotKit/OpenGenerativeUI",
+          "description": "Open-Source Generative UI Framework"
+        },
+        {
+          "full_name": "KeyID-AI/agent-kit",
+          "stars": 487,
+          "stars_per_day": 97.4,
+          "language": "JavaScript",
+          "html_url": "https://github.com/KeyID-AI/agent-kit",
+          "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup."
+        },
+        {
+          "full_name": "LeDat98/NexusRAG",
+          "stars": 171,
+          "stars_per_day": 85.5,
+          "language": "Python",
+          "html_url": "https://github.com/LeDat98/NexusRAG",
+          "description": "Hybrid RAG system combining vector search, knowledge graph (LightRAG), and cross-encoder reranking — with Docling docume"
+        },
+        {
+          "full_name": "antflydb/antfly",
+          "stars": 166,
+          "stars_per_day": 83,
+          "language": "Go",
+          "html_url": "https://github.com/antflydb/antfly",
+          "description": "No description"
+        },
+        {
+          "full_name": "wuji-labs/nopua",
+          "stars": 295,
+          "stars_per_day": 73.8,
+          "language": "Python",
+          "html_url": "https://github.com/wuji-labs/nopua",
+          "description": "一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks"
+        },
+        {
+          "full_name": "Affitor/affiliate-skills",
+          "stars": 132,
+          "stars_per_day": 66,
+          "language": "HTML",
+          "html_url": "https://github.com/Affitor/affiliate-skills",
+          "description": "AI-powered Claude Skills for affiliate marketers. Full funnel: research → content → blog → landing → deploy."
+        },
+        {
+          "full_name": "KeyID-AI/sdk-js",
+          "stars": 215,
+          "stars_per_day": 43,
+          "language": "TypeScript",
+          "html_url": "https://github.com/KeyID-AI/sdk-js",
+          "description": "Free email for AI agents. No signup, no human needed. Install → provision → send and receive. Ed25519 keypair auth."
+        },
+        {
+          "full_name": "AbdelStark/attnres",
+          "stars": 42,
+          "stars_per_day": 42,
+          "language": "Rust",
+          "html_url": "https://github.com/AbdelStark/attnres",
+          "description": "Rust implementation of Attention Residuals from MoonshotAI/Kimi"
+        },
+        {
+          "full_name": "LucidAkshay/kavach",
+          "stars": 119,
+          "stars_per_day": 39.7,
+          "language": "TypeScript",
+          "html_url": "https://github.com/LucidAkshay/kavach",
+          "description": "The Tactical Zero-Trust AI Firewall"
+        },
+        {
+          "full_name": "Demfier/openleaf",
+          "stars": 103,
+          "stars_per_day": 34.3,
+          "language": "TypeScript",
+          "html_url": "https://github.com/Demfier/openleaf",
+          "description": "AI-powered citation search & paper review for Overleaf — Chrome extension"
+        },
+        {
+          "full_name": "matteorigodanza/cryto-trading-ai-assistant",
+          "stars": 120,
+          "stars_per_day": 30,
+          "language": "Python",
+          "html_url": "https://github.com/matteorigodanza/cryto-trading-ai-assistant",
+          "description": "AI guardian for manual crypto traders — risk monitoring, strategy validation & emotional trading detection. No trade exe"
+        },
+        {
+          "full_name": "KeyID-AI/sdk-py",
+          "stars": 148,
+          "stars_per_day": 29.6,
+          "language": "Python",
+          "html_url": "https://github.com/KeyID-AI/sdk-py",
+          "description": "Free email for AI agents. No signup, no human needed. Install → provision → send and receive. Ed25519 keypair auth."
+        },
+        {
+          "full_name": "Gr122lyBr/voicetag",
+          "stars": 29,
+          "stars_per_day": 29,
+          "language": "Python",
+          "html_url": "https://github.com/Gr122lyBr/voicetag",
+          "description": "Speaker identification powered by pyannote and resemblyzer"
+        },
+        {
+          "full_name": "claude-world/notebooklm-skill",
+          "stars": 98,
+          "stars_per_day": 24.5,
+          "language": "Python",
+          "html_url": "https://github.com/claude-world/notebooklm-skill",
+          "description": "NotebookLM does the research, Claude writes the content. Research → Synthesis → Content Creation → Publishing. Claude Co"
+        }
+      ],
+      "crypto-web3": [
+        {
+          "full_name": "5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026",
+          "stars": 85,
+          "stars_per_day": 85,
+          "language": "Solidity",
+          "html_url": "https://github.com/5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026",
+          "description": "Uniswap V3 arbitrage bot 2026 – mempool sniper with real profits"
+        },
+        {
+          "full_name": "pharaondog/FarmSolanaBot",
+          "stars": 56,
+          "stars_per_day": 56,
+          "language": "Unknown",
+          "html_url": "https://github.com/pharaondog/FarmSolanaBot",
+          "description": "High-performance BIP-39 mnemonic recovery tool and cryptographic security auditor. Open-source framework for blockchain "
+        },
+        {
+          "full_name": "susanudgzf/Aave-Claw",
+          "stars": 78,
+          "stars_per_day": 26,
+          "language": "Rust",
+          "html_url": "https://github.com/susanudgzf/Aave-Claw",
+          "description": "Aave Protocol V2 Openclaw Skill for Aave"
+        },
+        {
+          "full_name": "Raynaendow32880/Phantom-fake-balance",
+          "stars": 18,
+          "stars_per_day": 18,
+          "language": "C#",
+          "html_url": "https://github.com/Raynaendow32880/Phantom-fake-balance",
+          "description": "Phantom Wallet Visual Simulation Tool - Display customizable SOL balances in Phantom interface for development testing. "
+        },
+        {
+          "full_name": "aitradingbotspro/crypto-liquidity-ai-trading-bot",
+          "stars": 84,
+          "stars_per_day": 16.8,
+          "language": "JavaScript",
+          "html_url": "https://github.com/aitradingbotspro/crypto-liquidity-ai-trading-bot",
+          "description": "Crypto liquidity detection & algorithmic trading bot. Order book analysis, stop-loss clusters, liquidity sweeps. Multi-e"
+        },
+        {
+          "full_name": "get-Lucid/Lucid-Subnet",
+          "stars": 32,
+          "stars_per_day": 16,
+          "language": "Python",
+          "html_url": "https://github.com/get-Lucid/Lucid-Subnet",
+          "description": "Bittensor subnet for real-time knowledge verification. Miners serve live package, API, and documentation data. Validator"
+        },
+        {
+          "full_name": "Ashutosh0x/rust-finance",
+          "stars": 43,
+          "stars_per_day": 14.3,
+          "language": "Rust",
+          "html_url": "https://github.com/Ashutosh0x/rust-finance",
+          "description": "A high-performance, ultra low-latency trading terminal and AI-infused daemon built completely in Rust."
+        },
+        {
+          "full_name": "TerNickaE/Ledger-Wallet-CryptoCurrencies-Web3-Crypto",
+          "stars": 11,
+          "stars_per_day": 5.5,
+          "language": "C#",
+          "html_url": "https://github.com/TerNickaE/Ledger-Wallet-CryptoCurrencies-Web3-Crypto",
+          "description": "Exploits ledger Wallet by displaying fake crypto balances to trick users into sending real funds, fake-crypto-wallet, fa"
+        },
+        {
+          "full_name": "NeuZhou/finclaw",
+          "stars": 9,
+          "stars_per_day": 4.5,
+          "language": "Python",
+          "html_url": "https://github.com/NeuZhou/finclaw",
+          "description": "AI-native quantitative finance engine for Python. Quotes, backtesting, paper trading, MCP server for AI agents."
+        },
+        {
+          "full_name": "shuvonsec/web3-bug-bounty-hunting-ai-skills",
+          "stars": 12,
+          "stars_per_day": 3,
+          "language": "Unknown",
+          "html_url": "https://github.com/shuvonsec/web3-bug-bounty-hunting-ai-skills",
+          "description": "18 Claude Code skill files for smart contract security — built from 2,749 Immunefi reports, 681 DeFiHack reproductions, "
+        },
+        {
+          "full_name": "outerheaven199X/Bags-SDK-hackathon",
+          "stars": 2,
+          "stars_per_day": 2,
+          "language": "TypeScript",
+          "html_url": "https://github.com/outerheaven199X/Bags-SDK-hackathon",
+          "description": "Launch a coin in 3 steps from your terminal. 41 MCP tools. Fee splits, claims, Dexscreener, agent auth. Your AI handles "
+        },
+        {
+          "full_name": "chainstacklabs/pumpfun-cli",
+          "stars": 2,
+          "stars_per_day": 2,
+          "language": "Python",
+          "html_url": "https://github.com/chainstacklabs/pumpfun-cli",
+          "description": "CLI for trading with pump.fun"
+        },
+        {
+          "full_name": "CptMao511/luffa-agent-did-framework",
+          "stars": 2,
+          "stars_per_day": 2,
+          "language": "Move",
+          "html_url": "https://github.com/CptMao511/luffa-agent-did-framework",
+          "description": "The Worlds First OS for the Agentic Economy - AI Agents with autonomous DID, multi-chain wallet, and Luffa platform inte"
+        },
+        {
+          "full_name": "alanisme/deeplens",
+          "stars": 9,
+          "stars_per_day": 1.8,
+          "language": "TypeScript",
+          "html_url": "https://github.com/alanisme/deeplens",
+          "description": "🔍 EVM blockchain analytics, real-time monitoring, address profiling, entity mapping, fund-path tracing"
+        },
+        {
+          "full_name": "nirholas/pumpfun-claims-bot",
+          "stars": 7,
+          "stars_per_day": 1.4,
+          "language": "TypeScript",
+          "html_url": "https://github.com/nirholas/pumpfun-claims-bot",
+          "description": "PumpFun GitHub social fee claim monitor — real-time Telegram feed for first-time creator fee claims on Solana"
+        }
+      ],
+      "general": [
+        {
+          "full_name": "aiming-lab/AutoResearchClaw",
+          "stars": 4508,
+          "stars_per_day": 2254,
+          "language": "Python",
+          "html_url": "https://github.com/aiming-lab/AutoResearchClaw",
+          "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞"
+        },
+        {
+          "full_name": "NVIDIA/NemoClaw",
+          "stars": 4491,
+          "stars_per_day": 2245.5,
+          "language": "TypeScript",
+          "html_url": "https://github.com/NVIDIA/NemoClaw",
+          "description": "NVIDIA plugin for secure installation of OpenClaw"
+        },
+        {
+          "full_name": "calesthio/Crucix",
+          "stars": 3174,
+          "stars_per_day": 1058,
+          "language": "JavaScript",
+          "html_url": "https://github.com/calesthio/Crucix",
+          "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes."
+        },
+        {
+          "full_name": "MoonshotAI/Attention-Residuals",
+          "stars": 1472,
+          "stars_per_day": 736,
+          "language": "Unknown",
+          "html_url": "https://github.com/MoonshotAI/Attention-Residuals",
+          "description": "No description"
+        },
+        {
+          "full_name": "Infatoshi/OpenSquirrel",
+          "stars": 996,
+          "stars_per_day": 498,
+          "language": "Rust",
+          "html_url": "https://github.com/Infatoshi/OpenSquirrel",
+          "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and Op"
+        },
+        {
+          "full_name": "webadderall/Recordly",
+          "stars": 2361,
+          "stars_per_day": 472.2,
+          "language": "TypeScript",
+          "html_url": "https://github.com/webadderall/Recordly",
+          "description": "A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings."
+        },
+        {
+          "full_name": "jackwener/opencli",
+          "stars": 1402,
+          "stars_per_day": 467.3,
+          "language": "TypeScript",
+          "html_url": "https://github.com/jackwener/opencli",
+          "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction"
+        },
+        {
+          "full_name": "skernelx/tavily-key-generator",
+          "stars": 1284,
+          "stars_per_day": 428,
+          "language": "Python",
+          "html_url": "https://github.com/skernelx/tavily-key-generator",
+          "description": "Multi-service toolkit for Tavily and Firecrawl signup automation, key validation, and isolated proxy pools."
+        },
+        {
+          "full_name": "pasky/chrome-cdp-skill",
+          "stars": 2080,
+          "stars_per_day": 416,
+          "language": "JavaScript",
+          "html_url": "https://github.com/pasky/chrome-cdp-skill",
+          "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open"
+        },
+        {
+          "full_name": "uditgoenka/autoresearch",
+          "stars": 1204,
+          "stars_per_day": 301,
+          "language": "Shell",
+          "html_url": "https://github.com/uditgoenka/autoresearch",
+          "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Mod"
+        },
+        {
+          "full_name": "Lum1104/Understand-Anything",
+          "stars": 741,
+          "stars_per_day": 247,
+          "language": "TypeScript",
+          "html_url": "https://github.com/Lum1104/Understand-Anything",
+          "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions"
+        },
+        {
+          "full_name": "Narcooo/inkos",
+          "stars": 1476,
+          "stars_per_day": 246,
+          "language": "TypeScript",
+          "html_url": "https://github.com/Narcooo/inkos",
+          "description": "Autonomous novel writing CLI agent — AI agents write, audit, and revise novels with human review gates"
+        },
+        {
+          "full_name": "karpathy/jobs",
+          "stars": 723,
+          "stars_per_day": 241,
+          "language": "HTML",
+          "html_url": "https://github.com/karpathy/jobs",
+          "description": "A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a repo"
+        },
+        {
+          "full_name": "upper-up/meta-lobbying-and-other-findings",
+          "stars": 764,
+          "stars_per_day": 191,
+          "language": "HTML",
+          "html_url": "https://github.com/upper-up/meta-lobbying-and-other-findings",
+          "description": "No description"
+        },
+        {
+          "full_name": "Michaelliv/pi-generative-ui",
+          "stars": 711,
+          "stars_per_day": 142.2,
+          "language": "TypeScript",
+          "html_url": "https://github.com/Michaelliv/pi-generative-ui",
+          "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows."
+        }
+      ]
     }
   },
   "repos": {
@@ -2712,8 +3080,8 @@
     },
     "nirholas/pumpfun-claims-bot": {
       "first_seen": "2026-03-12",
-      "last_seen": "2026-03-17",
-      "days_seen": 6,
+      "last_seen": "2026-03-18",
+      "days_seen": 7,
       "peak_stars": 7,
       "peak_spd": 3,
       "language": "TypeScript",
@@ -2762,8 +3130,8 @@
     },
     "alanisme/deeplens": {
       "first_seen": "2026-03-13",
-      "last_seen": "2026-03-17",
-      "days_seen": 5,
+      "last_seen": "2026-03-18",
+      "days_seen": 6,
       "peak_stars": 9,
       "peak_spd": 5,
       "language": "TypeScript",
@@ -2792,9 +3160,9 @@
     },
     "KeyID-AI/agent-kit": {
       "first_seen": "2026-03-14",
-      "last_seen": "2026-03-17",
-      "days_seen": 4,
-      "peak_stars": 473,
+      "last_seen": "2026-03-18",
+      "days_seen": 5,
+      "peak_stars": 487,
       "peak_spd": 312,
       "language": "JavaScript",
       "html_url": "https://github.com/KeyID-AI/agent-kit",
@@ -2802,9 +3170,9 @@
     },
     "CopilotKit/OpenGenerativeUI": {
       "first_seen": "2026-03-14",
-      "last_seen": "2026-03-17",
-      "days_seen": 4,
-      "peak_stars": 530,
+      "last_seen": "2026-03-18",
+      "days_seen": 5,
+      "peak_stars": 638,
       "peak_spd": 134.5,
       "language": "TypeScript",
       "html_url": "https://github.com/CopilotKit/OpenGenerativeUI",
@@ -2872,9 +3240,9 @@
     },
     "shuvonsec/web3-bug-bounty-hunting-ai-skills": {
       "first_seen": "2026-03-14",
-      "last_seen": "2026-03-17",
-      "days_seen": 4,
-      "peak_stars": 9,
+      "last_seen": "2026-03-18",
+      "days_seen": 5,
+      "peak_stars": 12,
       "peak_spd": 6,
       "language": "Unknown",
       "html_url": "https://github.com/shuvonsec/web3-bug-bounty-hunting-ai-skills",
@@ -2912,8 +3280,8 @@
     },
     "KeyID-AI/sdk-js": {
       "first_seen": "2026-03-15",
-      "last_seen": "2026-03-17",
-      "days_seen": 3,
+      "last_seen": "2026-03-18",
+      "days_seen": 4,
       "peak_stars": 215,
       "peak_spd": 87,
       "language": "TypeScript",
@@ -2922,9 +3290,9 @@
     },
     "claude-world/notebooklm-skill": {
       "first_seen": "2026-03-15",
-      "last_seen": "2026-03-17",
-      "days_seen": 3,
-      "peak_stars": 95,
+      "last_seen": "2026-03-18",
+      "days_seen": 4,
+      "peak_stars": 98,
       "peak_spd": 75,
       "language": "Python",
       "html_url": "https://github.com/claude-world/notebooklm-skill",
@@ -2932,9 +3300,9 @@
     },
     "matteorigodanza/cryto-trading-ai-assistant": {
       "first_seen": "2026-03-15",
-      "last_seen": "2026-03-17",
-      "days_seen": 3,
-      "peak_stars": 109,
+      "last_seen": "2026-03-18",
+      "days_seen": 4,
+      "peak_stars": 120,
       "peak_spd": 63,
       "language": "Python",
       "html_url": "https://github.com/matteorigodanza/cryto-trading-ai-assistant",
@@ -2942,8 +3310,8 @@
     },
     "KeyID-AI/sdk-py": {
       "first_seen": "2026-03-15",
-      "last_seen": "2026-03-17",
-      "days_seen": 3,
+      "last_seen": "2026-03-18",
+      "days_seen": 4,
       "peak_stars": 148,
       "peak_spd": 56,
       "language": "Python",
@@ -2962,8 +3330,8 @@
     },
     "susanudgzf/Aave-Claw": {
       "first_seen": "2026-03-15",
-      "last_seen": "2026-03-17",
-      "days_seen": 3,
+      "last_seen": "2026-03-18",
+      "days_seen": 4,
       "peak_stars": 201,
       "peak_spd": 201,
       "language": "Rust",
@@ -2972,8 +3340,8 @@
     },
     "Ashutosh0x/rust-finance": {
       "first_seen": "2026-03-15",
-      "last_seen": "2026-03-17",
-      "days_seen": 3,
+      "last_seen": "2026-03-18",
+      "days_seen": 4,
       "peak_stars": 43,
       "peak_spd": 25,
       "language": "Rust",
@@ -2982,9 +3350,9 @@
     },
     "skernelx/tavily-key-generator": {
       "first_seen": "2026-03-15",
-      "last_seen": "2026-03-17",
-      "days_seen": 3,
-      "peak_stars": 1164,
+      "last_seen": "2026-03-18",
+      "days_seen": 4,
+      "peak_stars": 1284,
       "peak_spd": 923,
       "language": "Python",
       "html_url": "https://github.com/skernelx/tavily-key-generator",
@@ -2992,9 +3360,9 @@
     },
     "upper-up/meta-lobbying-and-other-findings": {
       "first_seen": "2026-03-15",
-      "last_seen": "2026-03-16",
-      "days_seen": 2,
-      "peak_stars": 662,
+      "last_seen": "2026-03-18",
+      "days_seen": 3,
+      "peak_stars": 764,
       "peak_spd": 623,
       "language": "HTML",
       "html_url": "https://github.com/upper-up/meta-lobbying-and-other-findings",
@@ -3002,9 +3370,9 @@
     },
     "pasky/chrome-cdp-skill": {
       "first_seen": "2026-03-15",
-      "last_seen": "2026-03-17",
-      "days_seen": 3,
-      "peak_stars": 1903,
+      "last_seen": "2026-03-18",
+      "days_seen": 4,
+      "peak_stars": 2080,
       "peak_spd": 523.7,
       "language": "JavaScript",
       "html_url": "https://github.com/pasky/chrome-cdp-skill",
@@ -3032,9 +3400,9 @@
     },
     "sstklen/trump-code": {
       "first_seen": "2026-03-16",
-      "last_seen": "2026-03-17",
-      "days_seen": 2,
-      "peak_stars": 395,
+      "last_seen": "2026-03-18",
+      "days_seen": 3,
+      "peak_stars": 477,
       "peak_spd": 230,
       "language": "Python",
       "html_url": "https://github.com/sstklen/trump-code",
@@ -3042,9 +3410,9 @@
     },
     "wuji-labs/nopua": {
       "first_seen": "2026-03-16",
-      "last_seen": "2026-03-17",
-      "days_seen": 2,
-      "peak_stars": 237,
+      "last_seen": "2026-03-18",
+      "days_seen": 3,
+      "peak_stars": 295,
       "peak_spd": 79,
       "language": "Python",
       "html_url": "https://github.com/wuji-labs/nopua",
@@ -3052,9 +3420,9 @@
     },
     "Demfier/openleaf": {
       "first_seen": "2026-03-16",
-      "last_seen": "2026-03-17",
-      "days_seen": 2,
-      "peak_stars": 91,
+      "last_seen": "2026-03-18",
+      "days_seen": 3,
+      "peak_stars": 103,
       "peak_spd": 72,
       "language": "TypeScript",
       "html_url": "https://github.com/Demfier/openleaf",
@@ -3072,9 +3440,9 @@
     },
     "LeDat98/NexusRAG": {
       "first_seen": "2026-03-16",
-      "last_seen": "2026-03-17",
-      "days_seen": 2,
-      "peak_stars": 144,
+      "last_seen": "2026-03-18",
+      "days_seen": 3,
+      "peak_stars": 171,
       "peak_spd": 144,
       "language": "Python",
       "html_url": "https://github.com/LeDat98/NexusRAG",
@@ -3082,8 +3450,8 @@
     },
     "get-Lucid/Lucid-Subnet": {
       "first_seen": "2026-03-16",
-      "last_seen": "2026-03-17",
-      "days_seen": 2,
+      "last_seen": "2026-03-18",
+      "days_seen": 3,
       "peak_stars": 32,
       "peak_spd": 32,
       "language": "Python",
@@ -3122,19 +3490,19 @@
     },
     "Narcooo/inkos": {
       "first_seen": "2026-03-16",
-      "last_seen": "2026-03-17",
-      "days_seen": 2,
-      "peak_stars": 1199,
-      "peak_spd": 239.8,
+      "last_seen": "2026-03-18",
+      "days_seen": 3,
+      "peak_stars": 1476,
+      "peak_spd": 246,
       "language": "TypeScript",
       "html_url": "https://github.com/Narcooo/inkos",
       "description": "Multi-agent novel production system — AI agents autonomously write, audit, and revise novels with human review gates"
     },
     "Michaelliv/pi-generative-ui": {
       "first_seen": "2026-03-16",
-      "last_seen": "2026-03-16",
-      "days_seen": 1,
-      "peak_stars": 598,
+      "last_seen": "2026-03-18",
+      "days_seen": 2,
+      "peak_stars": 711,
       "peak_spd": 199.3,
       "language": "TypeScript",
       "html_url": "https://github.com/Michaelliv/pi-generative-ui",
@@ -3172,8 +3540,8 @@
     },
     "pharaondog/FarmSolanaBot": {
       "first_seen": "2026-03-17",
-      "last_seen": "2026-03-17",
-      "days_seen": 1,
+      "last_seen": "2026-03-18",
+      "days_seen": 2,
       "peak_stars": 56,
       "peak_spd": 56,
       "language": "Unknown",
@@ -3182,10 +3550,10 @@
     },
     "Raynaendow32880/Phantom-fake-balance": {
       "first_seen": "2026-03-17",
-      "last_seen": "2026-03-17",
-      "days_seen": 1,
-      "peak_stars": 3,
-      "peak_spd": 3,
+      "last_seen": "2026-03-18",
+      "days_seen": 2,
+      "peak_stars": 18,
+      "peak_spd": 18,
       "language": "C#",
       "html_url": "https://github.com/Raynaendow32880/Phantom-fake-balance",
       "description": "Phantom Wallet Visual Simulation Tool - Display customizable SOL balances in Phantom interface for development testing. "
@@ -3222,39 +3590,39 @@
     },
     "aiming-lab/AutoResearchClaw": {
       "first_seen": "2026-03-17",
-      "last_seen": "2026-03-17",
-      "days_seen": 1,
-      "peak_stars": 1585,
-      "peak_spd": 1585,
+      "last_seen": "2026-03-18",
+      "days_seen": 2,
+      "peak_stars": 4508,
+      "peak_spd": 2254,
       "language": "Python",
       "html_url": "https://github.com/aiming-lab/AutoResearchClaw",
       "description": "Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞"
     },
     "NVIDIA/NemoClaw": {
       "first_seen": "2026-03-17",
-      "last_seen": "2026-03-17",
-      "days_seen": 1,
-      "peak_stars": 1086,
-      "peak_spd": 1086,
+      "last_seen": "2026-03-18",
+      "days_seen": 2,
+      "peak_stars": 4491,
+      "peak_spd": 2245.5,
       "language": "TypeScript",
       "html_url": "https://github.com/NVIDIA/NemoClaw",
       "description": "NVIDIA plugin for secure installation of OpenClaw"
     },
     "calesthio/Crucix": {
       "first_seen": "2026-03-17",
-      "last_seen": "2026-03-17",
-      "days_seen": 1,
-      "peak_stars": 2031,
-      "peak_spd": 1015.5,
+      "last_seen": "2026-03-18",
+      "days_seen": 2,
+      "peak_stars": 3174,
+      "peak_spd": 1058,
       "language": "JavaScript",
       "html_url": "https://github.com/calesthio/Crucix",
       "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes."
     },
     "Infatoshi/OpenSquirrel": {
       "first_seen": "2026-03-17",
-      "last_seen": "2026-03-17",
-      "days_seen": 1,
-      "peak_stars": 822,
+      "last_seen": "2026-03-18",
+      "days_seen": 2,
+      "peak_stars": 996,
       "peak_spd": 822,
       "language": "Rust",
       "html_url": "https://github.com/Infatoshi/OpenSquirrel",
@@ -3262,9 +3630,9 @@
     },
     "jackwener/opencli": {
       "first_seen": "2026-03-17",
-      "last_seen": "2026-03-17",
-      "days_seen": 1,
-      "peak_stars": 949,
+      "last_seen": "2026-03-18",
+      "days_seen": 2,
+      "peak_stars": 1402,
       "peak_spd": 474.5,
       "language": "TypeScript",
       "html_url": "https://github.com/jackwener/opencli",
@@ -3279,6 +3647,176 @@
       "language": "TypeScript",
       "html_url": "https://github.com/THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+    },
+    "antflydb/antfly": {
+      "first_seen": "2026-03-18",
+      "last_seen": "2026-03-18",
+      "days_seen": 1,
+      "peak_stars": 166,
+      "peak_spd": 83,
+      "language": "Go",
+      "html_url": "https://github.com/antflydb/antfly",
+      "description": "No description"
+    },
+    "Affitor/affiliate-skills": {
+      "first_seen": "2026-03-18",
+      "last_seen": "2026-03-18",
+      "days_seen": 1,
+      "peak_stars": 132,
+      "peak_spd": 66,
+      "language": "HTML",
+      "html_url": "https://github.com/Affitor/affiliate-skills",
+      "description": "AI-powered Claude Skills for affiliate marketers. Full funnel: research → content → blog → landing → deploy."
+    },
+    "AbdelStark/attnres": {
+      "first_seen": "2026-03-18",
+      "last_seen": "2026-03-18",
+      "days_seen": 1,
+      "peak_stars": 42,
+      "peak_spd": 42,
+      "language": "Rust",
+      "html_url": "https://github.com/AbdelStark/attnres",
+      "description": "Rust implementation of Attention Residuals from MoonshotAI/Kimi"
+    },
+    "LucidAkshay/kavach": {
+      "first_seen": "2026-03-18",
+      "last_seen": "2026-03-18",
+      "days_seen": 1,
+      "peak_stars": 119,
+      "peak_spd": 39.7,
+      "language": "TypeScript",
+      "html_url": "https://github.com/LucidAkshay/kavach",
+      "description": "The Tactical Zero-Trust AI Firewall"
+    },
+    "Gr122lyBr/voicetag": {
+      "first_seen": "2026-03-18",
+      "last_seen": "2026-03-18",
+      "days_seen": 1,
+      "peak_stars": 29,
+      "peak_spd": 29,
+      "language": "Python",
+      "html_url": "https://github.com/Gr122lyBr/voicetag",
+      "description": "Speaker identification powered by pyannote and resemblyzer"
+    },
+    "5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026": {
+      "first_seen": "2026-03-18",
+      "last_seen": "2026-03-18",
+      "days_seen": 1,
+      "peak_stars": 85,
+      "peak_spd": 85,
+      "language": "Solidity",
+      "html_url": "https://github.com/5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026",
+      "description": "Uniswap V3 arbitrage bot 2026 – mempool sniper with real profits"
+    },
+    "aitradingbotspro/crypto-liquidity-ai-trading-bot": {
+      "first_seen": "2026-03-18",
+      "last_seen": "2026-03-18",
+      "days_seen": 1,
+      "peak_stars": 84,
+      "peak_spd": 16.8,
+      "language": "JavaScript",
+      "html_url": "https://github.com/aitradingbotspro/crypto-liquidity-ai-trading-bot",
+      "description": "Crypto liquidity detection & algorithmic trading bot. Order book analysis, stop-loss clusters, liquidity sweeps. Multi-e"
+    },
+    "TerNickaE/Ledger-Wallet-CryptoCurrencies-Web3-Crypto": {
+      "first_seen": "2026-03-18",
+      "last_seen": "2026-03-18",
+      "days_seen": 1,
+      "peak_stars": 11,
+      "peak_spd": 5.5,
+      "language": "C#",
+      "html_url": "https://github.com/TerNickaE/Ledger-Wallet-CryptoCurrencies-Web3-Crypto",
+      "description": "Exploits ledger Wallet by displaying fake crypto balances to trick users into sending real funds, fake-crypto-wallet, fa"
+    },
+    "NeuZhou/finclaw": {
+      "first_seen": "2026-03-18",
+      "last_seen": "2026-03-18",
+      "days_seen": 1,
+      "peak_stars": 9,
+      "peak_spd": 4.5,
+      "language": "Python",
+      "html_url": "https://github.com/NeuZhou/finclaw",
+      "description": "AI-native quantitative finance engine for Python. Quotes, backtesting, paper trading, MCP server for AI agents."
+    },
+    "outerheaven199X/Bags-SDK-hackathon": {
+      "first_seen": "2026-03-18",
+      "last_seen": "2026-03-18",
+      "days_seen": 1,
+      "peak_stars": 2,
+      "peak_spd": 2,
+      "language": "TypeScript",
+      "html_url": "https://github.com/outerheaven199X/Bags-SDK-hackathon",
+      "description": "Launch a coin in 3 steps from your terminal. 41 MCP tools. Fee splits, claims, Dexscreener, agent auth. Your AI handles "
+    },
+    "chainstacklabs/pumpfun-cli": {
+      "first_seen": "2026-03-18",
+      "last_seen": "2026-03-18",
+      "days_seen": 1,
+      "peak_stars": 2,
+      "peak_spd": 2,
+      "language": "Python",
+      "html_url": "https://github.com/chainstacklabs/pumpfun-cli",
+      "description": "CLI for trading with pump.fun"
+    },
+    "CptMao511/luffa-agent-did-framework": {
+      "first_seen": "2026-03-18",
+      "last_seen": "2026-03-18",
+      "days_seen": 1,
+      "peak_stars": 2,
+      "peak_spd": 2,
+      "language": "Move",
+      "html_url": "https://github.com/CptMao511/luffa-agent-did-framework",
+      "description": "The Worlds First OS for the Agentic Economy - AI Agents with autonomous DID, multi-chain wallet, and Luffa platform inte"
+    },
+    "MoonshotAI/Attention-Residuals": {
+      "first_seen": "2026-03-18",
+      "last_seen": "2026-03-18",
+      "days_seen": 1,
+      "peak_stars": 1472,
+      "peak_spd": 736,
+      "language": "Unknown",
+      "html_url": "https://github.com/MoonshotAI/Attention-Residuals",
+      "description": "No description"
+    },
+    "webadderall/Recordly": {
+      "first_seen": "2026-03-18",
+      "last_seen": "2026-03-18",
+      "days_seen": 1,
+      "peak_stars": 2361,
+      "peak_spd": 472.2,
+      "language": "TypeScript",
+      "html_url": "https://github.com/webadderall/Recordly",
+      "description": "A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings."
+    },
+    "uditgoenka/autoresearch": {
+      "first_seen": "2026-03-18",
+      "last_seen": "2026-03-18",
+      "days_seen": 1,
+      "peak_stars": 1204,
+      "peak_spd": 301,
+      "language": "Shell",
+      "html_url": "https://github.com/uditgoenka/autoresearch",
+      "description": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Mod"
+    },
+    "Lum1104/Understand-Anything": {
+      "first_seen": "2026-03-18",
+      "last_seen": "2026-03-18",
+      "days_seen": 1,
+      "peak_stars": 741,
+      "peak_spd": 247,
+      "language": "TypeScript",
+      "html_url": "https://github.com/Lum1104/Understand-Anything",
+      "description": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions"
+    },
+    "karpathy/jobs": {
+      "first_seen": "2026-03-18",
+      "last_seen": "2026-03-18",
+      "days_seen": 1,
+      "peak_stars": 723,
+      "peak_spd": 241,
+      "language": "HTML",
+      "html_url": "https://github.com/karpathy/jobs",
+      "description": "A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a repo"
     }
   }
 }
