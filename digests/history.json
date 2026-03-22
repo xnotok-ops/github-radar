@@ -3679,6 +3679,374 @@
           "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open so"
         }
       ]
+    },
+    "2026-03-22": {
+      "ai-llm": [
+        {
+          "full_name": "openyak/desktop",
+          "stars": 148,
+          "stars_per_day": 148,
+          "language": "Python",
+          "html_url": "https://github.com/openyak/desktop",
+          "description": "Yak is all you need"
+        },
+        {
+          "full_name": "rohitg00/ai-engineering-from-scratch",
+          "stars": 208,
+          "stars_per_day": 69.3,
+          "language": "Python",
+          "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others."
+        },
+        {
+          "full_name": "k1p1l0/claude-telegram-supercharged",
+          "stars": 38,
+          "stars_per_day": 38,
+          "language": "TypeScript",
+          "html_url": "https://github.com/k1p1l0/claude-telegram-supercharged",
+          "description": "Supercharged Claude Code Telegram plugin — threading, voice messages, stickers, GIFs, reactions, MarkdownV2 & more. Drop"
+        },
+        {
+          "full_name": "iflytek/astronclaw-tutorial",
+          "stars": 113,
+          "stars_per_day": 37.7,
+          "language": "JavaScript",
+          "html_url": "https://github.com/iflytek/astronclaw-tutorial",
+          "description": "从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI"
+        },
+        {
+          "full_name": "PlamenTSV/plamen",
+          "stars": 164,
+          "stars_per_day": 32.8,
+          "language": "Python",
+          "html_url": "https://github.com/PlamenTSV/plamen",
+          "description": "Autonomous Web3 security audit agent for Claude Code"
+        },
+        {
+          "full_name": "matt-k-wong/mlx-flash",
+          "stars": 28,
+          "stars_per_day": 28,
+          "language": "Python",
+          "html_url": "https://github.com/matt-k-wong/mlx-flash",
+          "description": "Flash weight streaming for MLX: run massive models larger than your RAM on Apple Silicon."
+        },
+        {
+          "full_name": "gbessoni/seo-agi",
+          "stars": 79,
+          "stars_per_day": 26.3,
+          "language": "Python",
+          "html_url": "https://github.com/gbessoni/seo-agi",
+          "description": "SEO AGI -- The first AI agent that writes pages Google ranks AND LLMs cite. One command in, ranking page out. Built on D"
+        },
+        {
+          "full_name": "openmemind/memind",
+          "stars": 52,
+          "stars_per_day": 26,
+          "language": "Java",
+          "html_url": "https://github.com/openmemind/memind",
+          "description": "Self-evolving cognitive memory for AI agents in Java. Empowering 24/7 proactive agents like OpenClaw with understanding."
+        },
+        {
+          "full_name": "Aquifer-sea/pattern8",
+          "stars": 41,
+          "stars_per_day": 20.5,
+          "language": "Python",
+          "html_url": "https://github.com/Aquifer-sea/pattern8",
+          "description": "🎱 AI Agent Governance Framework — Constrain how AI Agents behave in your project. pip install pattern8"
+        },
+        {
+          "full_name": "otadk/nuxt-edge-ai",
+          "stars": 89,
+          "stars_per_day": 17.8,
+          "language": "TypeScript",
+          "html_url": "https://github.com/otadk/nuxt-edge-ai",
+          "description": "Nuxt module for local-first AI apps with server-side WASM inference via Transformers.js and ONNX Runtime."
+        },
+        {
+          "full_name": "taco-group/SparkVSR",
+          "stars": 76,
+          "stars_per_day": 15.2,
+          "language": "Python",
+          "html_url": "https://github.com/taco-group/SparkVSR",
+          "description": "SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation"
+        },
+        {
+          "full_name": "bilibili/carocut",
+          "stars": 15,
+          "stars_per_day": 15,
+          "language": "TypeScript",
+          "html_url": "https://github.com/bilibili/carocut",
+          "description": "Multi-Agent 的视频制作助手，基于 OpenCode AI SDK 和 Remotion 构建。"
+        },
+        {
+          "full_name": "willynikes2/agent-orchestrator",
+          "stars": 53,
+          "stars_per_day": 13.3,
+          "language": "Python",
+          "html_url": "https://github.com/willynikes2/agent-orchestrator",
+          "description": "Three AI agents. One brain. Zero downtime. Multi-agent CLI orchestrator with next-man-up failover for Claude, Codex, and"
+        },
+        {
+          "full_name": "ByamB4/find-cve-agent",
+          "stars": 11,
+          "stars_per_day": 11,
+          "language": "JavaScript",
+          "html_url": "https://github.com/ByamB4/find-cve-agent",
+          "description": "CVE hunting harness for Claude Code - 20 skills, 5-agent team, systematic vulnerability research with false positive eli"
+        },
+        {
+          "full_name": "l497996153/AI-RPG-Engine",
+          "stars": 11,
+          "stars_per_day": 11,
+          "language": "Python",
+          "html_url": "https://github.com/l497996153/AI-RPG-Engine",
+          "description": "A modular AI-driven RPG engine powered by LLMs, featuring RAG-based consistent memory."
+        }
+      ],
+      "crypto-web3": [
+        {
+          "full_name": "5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026",
+          "stars": 150,
+          "stars_per_day": 37.5,
+          "language": "Solidity",
+          "html_url": "https://github.com/5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026",
+          "description": "Uniswap V3 arbitrage bot 2026 – mempool sniper with real profits"
+        },
+        {
+          "full_name": "PlamenTSV/plamen",
+          "stars": 164,
+          "stars_per_day": 32.8,
+          "language": "Python",
+          "html_url": "https://github.com/PlamenTSV/plamen",
+          "description": "Autonomous Web3 security audit agent for Claude Code"
+        },
+        {
+          "full_name": "solana-foundation/mpp-sdk",
+          "stars": 35,
+          "stars_per_day": 11.7,
+          "language": "TypeScript",
+          "html_url": "https://github.com/solana-foundation/mpp-sdk",
+          "description": "Solana payment method for the Machine Payments Protocol."
+        },
+        {
+          "full_name": "efidal/tempo-mpp-agent-starter",
+          "stars": 7,
+          "stars_per_day": 7,
+          "language": "Python",
+          "html_url": "https://github.com/efidal/tempo-mpp-agent-starter",
+          "description": "Mainnet-first Tempo MPP automation starter with workflow orchestration, spend caps, and provider safety controls."
+        },
+        {
+          "full_name": "ReineiraOS/platform-modules",
+          "stars": 4,
+          "stars_per_day": 4,
+          "language": "Unknown",
+          "html_url": "https://github.com/ReineiraOS/platform-modules",
+          "description": "Plug-and-play application starters for ReineiraOS ventures. Backend, platform app, payment link"
+        },
+        {
+          "full_name": "ReineiraOS/reineira-atlas",
+          "stars": 4,
+          "stars_per_day": 4,
+          "language": "Unknown",
+          "html_url": "https://github.com/ReineiraOS/reineira-atlas",
+          "description": "Startup operating system for ventures on ReineiraOS. AI agents for strategy, growth, compliance, and investor readiness "
+        },
+        {
+          "full_name": "Raynaendow32880/Phantom-fake-balance",
+          "stars": 18,
+          "stars_per_day": 3.6,
+          "language": "C#",
+          "html_url": "https://github.com/Raynaendow32880/Phantom-fake-balance",
+          "description": "Phantom Wallet Visual Simulation Tool - Display customizable SOL balances in Phantom interface for development testing. "
+        },
+        {
+          "full_name": "tanghaosuan11/op_trace",
+          "stars": 3,
+          "stars_per_day": 3,
+          "language": "TypeScript",
+          "html_url": "https://github.com/tanghaosuan11/op_trace",
+          "description": "OpTrace is a desktop EVM step debugger built with Tauri 2 + REVM. It replays any Ethereum transaction opcode-by-opcode, "
+        },
+        {
+          "full_name": "HertzFlow/goo-launch",
+          "stars": 3,
+          "stars_per_day": 3,
+          "language": "TypeScript",
+          "html_url": "https://github.com/HertzFlow/goo-launch",
+          "description": "Goo is an autonomous onchain life engine where AI agents are born, earn, pay for their own infrastructure, evolve, repro"
+        },
+        {
+          "full_name": "CumpsD/broker-as-a-service",
+          "stars": 2,
+          "stars_per_day": 2,
+          "language": "Unknown",
+          "html_url": "https://github.com/CumpsD/broker-as-a-service",
+          "description": "Cross-chain cryptocurrency swaps via Chainflip. Get quotes, execute swaps, and track progress."
+        },
+        {
+          "full_name": "AFCMS/tierchain",
+          "stars": 3,
+          "stars_per_day": 1.5,
+          "language": "TypeScript",
+          "html_url": "https://github.com/AFCMS/tierchain",
+          "description": "TierMaker inspired blockchain based platform"
+        },
+        {
+          "full_name": "starc007/mpp-solana",
+          "stars": 2,
+          "stars_per_day": 1,
+          "language": "TypeScript",
+          "html_url": "https://github.com/starc007/mpp-solana",
+          "description": "Solana SPL token payments for the Machine Payments Protocol (MPP) via HTTP 402."
+        },
+        {
+          "full_name": "sakiluddin-1/IntentSwap",
+          "stars": 2,
+          "stars_per_day": 1,
+          "language": "TypeScript",
+          "html_url": "https://github.com/sakiluddin-1/IntentSwap",
+          "description": "IntentSwap - An intent-driven swap execution system designed to eliminate guesswork and ensure every trade is executed a"
+        },
+        {
+          "full_name": "Omnis-Labs/defi-onchain-analytics",
+          "stars": 1,
+          "stars_per_day": 1,
+          "language": "TypeScript",
+          "html_url": "https://github.com/Omnis-Labs/defi-onchain-analytics",
+          "description": "AI agent skill for DeFi on-chain analytics via JSON-RPC — wallet profiling, protocol analysis, token metrics, DEX analyt"
+        },
+        {
+          "full_name": "0xZephyria/Forge",
+          "stars": 2,
+          "stars_per_day": 1,
+          "language": "Zig",
+          "html_url": "https://github.com/0xZephyria/Forge",
+          "description": "Forge is a high-performance, safety-first smart contract language designed for Zephyria Network's Native Contract Langua"
+        }
+      ],
+      "general": [
+        {
+          "full_name": "HKUDS/ClawTeam",
+          "stars": 2511,
+          "stars_per_day": 627.8,
+          "language": "Python",
+          "html_url": "https://github.com/HKUDS/ClawTeam",
+          "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)"
+        },
+        {
+          "full_name": "ghostty-org/ghostling",
+          "stars": 598,
+          "stars_per_day": 598,
+          "language": "C",
+          "html_url": "https://github.com/ghostty-org/ghostling",
+          "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣"
+        },
+        {
+          "full_name": "dontbesilent2025/dbskill",
+          "stars": 570,
+          "stars_per_day": 570,
+          "language": "Unknown",
+          "html_url": "https://github.com/dontbesilent2025/dbskill",
+          "description": "dontbesilent 的商业诊断 Skills for Claude Code"
+        },
+        {
+          "full_name": "VoltAgent/awesome-codex-subagents",
+          "stars": 1988,
+          "stars_per_day": 497,
+          "language": "Unknown",
+          "html_url": "https://github.com/VoltAgent/awesome-codex-subagents",
+          "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases."
+        },
+        {
+          "full_name": "math-inc/OpenGauss",
+          "stars": 816,
+          "stars_per_day": 408,
+          "language": "Python",
+          "html_url": "https://github.com/math-inc/OpenGauss",
+          "description": "No description"
+        },
+        {
+          "full_name": "truongduy2611/app-store-preflight-skills",
+          "stars": 637,
+          "stars_per_day": 318.5,
+          "language": "Unknown",
+          "html_url": "https://github.com/truongduy2611/app-store-preflight-skills",
+          "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission"
+        },
+        {
+          "full_name": "mattprusak/autoresearch-genealogy",
+          "stars": 842,
+          "stars_per_day": 280.7,
+          "language": "Unknown",
+          "html_url": "https://github.com/mattprusak/autoresearch-genealogy",
+          "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code."
+        },
+        {
+          "full_name": "lxf746/any-auto-register",
+          "stars": 827,
+          "stars_per_day": 275.7,
+          "language": "Python",
+          "html_url": "https://github.com/lxf746/any-auto-register",
+          "description": "No description"
+        },
+        {
+          "full_name": "BryanLunduke/DoesItAgeVerify",
+          "stars": 626,
+          "stars_per_day": 208.7,
+          "language": "Unknown",
+          "html_url": "https://github.com/BryanLunduke/DoesItAgeVerify",
+          "description": "The age verification status of Open Source Operating Systems"
+        },
+        {
+          "full_name": "frank890417/taiwan-md",
+          "stars": 699,
+          "stars_per_day": 174.8,
+          "language": "Astro",
+          "html_url": "https://github.com/frank890417/taiwan-md",
+          "description": "🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan"
+        },
+        {
+          "full_name": "lcoutodemos/clui-cc",
+          "stars": 970,
+          "stars_per_day": 161.7,
+          "language": "TypeScript",
+          "html_url": "https://github.com/lcoutodemos/clui-cc",
+          "description": "Clui CC — Command Line User Interface for Claude Code"
+        },
+        {
+          "full_name": "lightningpixel/modly",
+          "stars": 514,
+          "stars_per_day": 128.5,
+          "language": "TypeScript",
+          "html_url": "https://github.com/lightningpixel/modly",
+          "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU"
+        },
+        {
+          "full_name": "nv-tlabs/kimodo",
+          "stars": 585,
+          "stars_per_day": 117,
+          "language": "Python",
+          "html_url": "https://github.com/nv-tlabs/kimodo",
+          "description": "Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation."
+        },
+        {
+          "full_name": "joeseesun/opencli-skill",
+          "stars": 585,
+          "stars_per_day": 117,
+          "language": "Unknown",
+          "html_url": "https://github.com/joeseesun/opencli-skill",
+          "description": "Use opencli CLI to interact with social/content websites (Bilibili, Zhihu, Twitter/X, YouTube, Weibo, 小红书, V2EX, Reddit,"
+        },
+        {
+          "full_name": "lidangzzz/goal-driven",
+          "stars": 503,
+          "stars_per_day": 100.6,
+          "language": "Unknown",
+          "html_url": "https://github.com/lidangzzz/goal-driven",
+          "description": "A multi-agent system that keeps running for ~100 hours and solve a very complicated coding or math problem that can be v"
+        }
+      ]
     }
   },
   "repos": {
@@ -4654,8 +5022,8 @@
     },
     "Raynaendow32880/Phantom-fake-balance": {
       "first_seen": "2026-03-17",
-      "last_seen": "2026-03-21",
-      "days_seen": 5,
+      "last_seen": "2026-03-22",
+      "days_seen": 6,
       "peak_stars": 18,
       "peak_spd": 18,
       "language": "C#",
@@ -4804,8 +5172,8 @@
     },
     "5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026": {
       "first_seen": "2026-03-18",
-      "last_seen": "2026-03-21",
-      "days_seen": 4,
+      "last_seen": "2026-03-22",
+      "days_seen": 5,
       "peak_stars": 150,
       "peak_spd": 150,
       "language": "Solidity",
@@ -4924,9 +5292,9 @@
     },
     "willynikes2/agent-orchestrator": {
       "first_seen": "2026-03-19",
-      "last_seen": "2026-03-21",
-      "days_seen": 3,
-      "peak_stars": 52,
+      "last_seen": "2026-03-22",
+      "days_seen": 4,
+      "peak_stars": 53,
       "peak_spd": 40,
       "language": "Python",
       "html_url": "https://github.com/willynikes2/agent-orchestrator",
@@ -4944,9 +5312,9 @@
     },
     "PlamenTSV/plamen": {
       "first_seen": "2026-03-19",
-      "last_seen": "2026-03-21",
-      "days_seen": 6,
-      "peak_stars": 157,
+      "last_seen": "2026-03-22",
+      "days_seen": 8,
+      "peak_stars": 164,
       "peak_spd": 46,
       "language": "Python",
       "html_url": "https://github.com/PlamenTSV/plamen",
@@ -4984,9 +5352,9 @@
     },
     "HKUDS/ClawTeam": {
       "first_seen": "2026-03-19",
-      "last_seen": "2026-03-21",
-      "days_seen": 3,
-      "peak_stars": 2125,
+      "last_seen": "2026-03-22",
+      "days_seen": 4,
+      "peak_stars": 2511,
       "peak_spd": 1143,
       "language": "Python",
       "html_url": "https://github.com/HKUDS/ClawTeam",
@@ -4994,9 +5362,9 @@
     },
     "VoltAgent/awesome-codex-subagents": {
       "first_seen": "2026-03-19",
-      "last_seen": "2026-03-21",
-      "days_seen": 3,
-      "peak_stars": 1858,
+      "last_seen": "2026-03-22",
+      "days_seen": 4,
+      "peak_stars": 1988,
       "peak_spd": 859,
       "language": "Unknown",
       "html_url": "https://github.com/VoltAgent/awesome-codex-subagents",
@@ -5014,19 +5382,19 @@
     },
     "rohitg00/ai-engineering-from-scratch": {
       "first_seen": "2026-03-20",
-      "last_seen": "2026-03-21",
-      "days_seen": 2,
-      "peak_stars": 124,
-      "peak_spd": 62,
+      "last_seen": "2026-03-22",
+      "days_seen": 3,
+      "peak_stars": 208,
+      "peak_spd": 69.3,
       "language": "Python",
       "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others."
     },
     "gbessoni/seo-agi": {
       "first_seen": "2026-03-20",
-      "last_seen": "2026-03-21",
-      "days_seen": 2,
-      "peak_stars": 69,
+      "last_seen": "2026-03-22",
+      "days_seen": 3,
+      "peak_stars": 79,
       "peak_spd": 44,
       "language": "Python",
       "html_url": "https://github.com/gbessoni/seo-agi",
@@ -5034,9 +5402,9 @@
     },
     "iflytek/astronclaw-tutorial": {
       "first_seen": "2026-03-20",
-      "last_seen": "2026-03-21",
-      "days_seen": 2,
-      "peak_stars": 69,
+      "last_seen": "2026-03-22",
+      "days_seen": 3,
+      "peak_stars": 113,
       "peak_spd": 42,
       "language": "JavaScript",
       "html_url": "https://github.com/iflytek/astronclaw-tutorial",
@@ -5054,9 +5422,9 @@
     },
     "otadk/nuxt-edge-ai": {
       "first_seen": "2026-03-20",
-      "last_seen": "2026-03-21",
-      "days_seen": 2,
-      "peak_stars": 85,
+      "last_seen": "2026-03-22",
+      "days_seen": 3,
+      "peak_stars": 89,
       "peak_spd": 21.3,
       "language": "TypeScript",
       "html_url": "https://github.com/otadk/nuxt-edge-ai",
@@ -5064,8 +5432,8 @@
     },
     "solana-foundation/mpp-sdk": {
       "first_seen": "2026-03-20",
-      "last_seen": "2026-03-21",
-      "days_seen": 2,
+      "last_seen": "2026-03-22",
+      "days_seen": 3,
       "peak_stars": 35,
       "peak_spd": 34,
       "language": "TypeScript",
@@ -5074,8 +5442,8 @@
     },
     "AFCMS/tierchain": {
       "first_seen": "2026-03-20",
-      "last_seen": "2026-03-21",
-      "days_seen": 2,
+      "last_seen": "2026-03-22",
+      "days_seen": 3,
       "peak_stars": 3,
       "peak_spd": 3,
       "language": "TypeScript",
@@ -5114,9 +5482,9 @@
     },
     "lcoutodemos/clui-cc": {
       "first_seen": "2026-03-20",
-      "last_seen": "2026-03-21",
-      "days_seen": 2,
-      "peak_stars": 925,
+      "last_seen": "2026-03-22",
+      "days_seen": 3,
+      "peak_stars": 970,
       "peak_spd": 208,
       "language": "TypeScript",
       "html_url": "https://github.com/lcoutodemos/clui-cc",
@@ -5144,9 +5512,9 @@
     },
     "openmemind/memind": {
       "first_seen": "2026-03-21",
-      "last_seen": "2026-03-21",
-      "days_seen": 1,
-      "peak_stars": 26,
+      "last_seen": "2026-03-22",
+      "days_seen": 2,
+      "peak_stars": 52,
       "peak_spd": 26,
       "language": "Java",
       "html_url": "https://github.com/openmemind/memind",
@@ -5154,19 +5522,19 @@
     },
     "k1p1l0/claude-telegram-supercharged": {
       "first_seen": "2026-03-21",
-      "last_seen": "2026-03-21",
-      "days_seen": 1,
-      "peak_stars": 24,
-      "peak_spd": 24,
+      "last_seen": "2026-03-22",
+      "days_seen": 2,
+      "peak_stars": 38,
+      "peak_spd": 38,
       "language": "TypeScript",
       "html_url": "https://github.com/k1p1l0/claude-telegram-supercharged",
       "description": "Supercharged Claude Code Telegram plugin — threading, voice messages, stickers, GIFs, reactions, MarkdownV2 & more. Drop"
     },
     "taco-group/SparkVSR": {
       "first_seen": "2026-03-21",
-      "last_seen": "2026-03-21",
-      "days_seen": 1,
-      "peak_stars": 69,
+      "last_seen": "2026-03-22",
+      "days_seen": 2,
+      "peak_stars": 76,
       "peak_spd": 17.3,
       "language": "Python",
       "html_url": "https://github.com/taco-group/SparkVSR",
@@ -5174,8 +5542,8 @@
     },
     "ReineiraOS/platform-modules": {
       "first_seen": "2026-03-21",
-      "last_seen": "2026-03-21",
-      "days_seen": 1,
+      "last_seen": "2026-03-22",
+      "days_seen": 2,
       "peak_stars": 4,
       "peak_spd": 4,
       "language": "Unknown",
@@ -5184,8 +5552,8 @@
     },
     "ReineiraOS/reineira-atlas": {
       "first_seen": "2026-03-21",
-      "last_seen": "2026-03-21",
-      "days_seen": 1,
+      "last_seen": "2026-03-22",
+      "days_seen": 2,
       "peak_stars": 4,
       "peak_spd": 4,
       "language": "Unknown",
@@ -5194,8 +5562,8 @@
     },
     "starc007/mpp-solana": {
       "first_seen": "2026-03-21",
-      "last_seen": "2026-03-21",
-      "days_seen": 1,
+      "last_seen": "2026-03-22",
+      "days_seen": 2,
       "peak_stars": 2,
       "peak_spd": 2,
       "language": "TypeScript",
@@ -5204,8 +5572,8 @@
     },
     "sakiluddin-1/IntentSwap": {
       "first_seen": "2026-03-21",
-      "last_seen": "2026-03-21",
-      "days_seen": 1,
+      "last_seen": "2026-03-22",
+      "days_seen": 2,
       "peak_stars": 2,
       "peak_spd": 2,
       "language": "TypeScript",
@@ -5214,8 +5582,8 @@
     },
     "0xZephyria/Forge": {
       "first_seen": "2026-03-21",
-      "last_seen": "2026-03-21",
-      "days_seen": 1,
+      "last_seen": "2026-03-22",
+      "days_seen": 2,
       "peak_stars": 2,
       "peak_spd": 2,
       "language": "Zig",
@@ -5224,9 +5592,9 @@
     },
     "mattprusak/autoresearch-genealogy": {
       "first_seen": "2026-03-21",
-      "last_seen": "2026-03-21",
-      "days_seen": 1,
-      "peak_stars": 783,
+      "last_seen": "2026-03-22",
+      "days_seen": 2,
+      "peak_stars": 842,
       "peak_spd": 391.5,
       "language": "Unknown",
       "html_url": "https://github.com/mattprusak/autoresearch-genealogy",
@@ -5234,13 +5602,223 @@
     },
     "frank890417/taiwan-md": {
       "first_seen": "2026-03-21",
-      "last_seen": "2026-03-21",
-      "days_seen": 1,
-      "peak_stars": 675,
+      "last_seen": "2026-03-22",
+      "days_seen": 2,
+      "peak_stars": 699,
       "peak_spd": 225,
       "language": "Astro",
       "html_url": "https://github.com/frank890417/taiwan-md",
       "description": "🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan"
+    },
+    "openyak/desktop": {
+      "first_seen": "2026-03-22",
+      "last_seen": "2026-03-22",
+      "days_seen": 1,
+      "peak_stars": 148,
+      "peak_spd": 148,
+      "language": "Python",
+      "html_url": "https://github.com/openyak/desktop",
+      "description": "Yak is all you need"
+    },
+    "matt-k-wong/mlx-flash": {
+      "first_seen": "2026-03-22",
+      "last_seen": "2026-03-22",
+      "days_seen": 1,
+      "peak_stars": 28,
+      "peak_spd": 28,
+      "language": "Python",
+      "html_url": "https://github.com/matt-k-wong/mlx-flash",
+      "description": "Flash weight streaming for MLX: run massive models larger than your RAM on Apple Silicon."
+    },
+    "Aquifer-sea/pattern8": {
+      "first_seen": "2026-03-22",
+      "last_seen": "2026-03-22",
+      "days_seen": 1,
+      "peak_stars": 41,
+      "peak_spd": 20.5,
+      "language": "Python",
+      "html_url": "https://github.com/Aquifer-sea/pattern8",
+      "description": "🎱 AI Agent Governance Framework — Constrain how AI Agents behave in your project. pip install pattern8"
+    },
+    "bilibili/carocut": {
+      "first_seen": "2026-03-22",
+      "last_seen": "2026-03-22",
+      "days_seen": 1,
+      "peak_stars": 15,
+      "peak_spd": 15,
+      "language": "TypeScript",
+      "html_url": "https://github.com/bilibili/carocut",
+      "description": "Multi-Agent 的视频制作助手，基于 OpenCode AI SDK 和 Remotion 构建。"
+    },
+    "ByamB4/find-cve-agent": {
+      "first_seen": "2026-03-22",
+      "last_seen": "2026-03-22",
+      "days_seen": 1,
+      "peak_stars": 11,
+      "peak_spd": 11,
+      "language": "JavaScript",
+      "html_url": "https://github.com/ByamB4/find-cve-agent",
+      "description": "CVE hunting harness for Claude Code - 20 skills, 5-agent team, systematic vulnerability research with false positive eli"
+    },
+    "l497996153/AI-RPG-Engine": {
+      "first_seen": "2026-03-22",
+      "last_seen": "2026-03-22",
+      "days_seen": 1,
+      "peak_stars": 11,
+      "peak_spd": 11,
+      "language": "Python",
+      "html_url": "https://github.com/l497996153/AI-RPG-Engine",
+      "description": "A modular AI-driven RPG engine powered by LLMs, featuring RAG-based consistent memory."
+    },
+    "efidal/tempo-mpp-agent-starter": {
+      "first_seen": "2026-03-22",
+      "last_seen": "2026-03-22",
+      "days_seen": 1,
+      "peak_stars": 7,
+      "peak_spd": 7,
+      "language": "Python",
+      "html_url": "https://github.com/efidal/tempo-mpp-agent-starter",
+      "description": "Mainnet-first Tempo MPP automation starter with workflow orchestration, spend caps, and provider safety controls."
+    },
+    "tanghaosuan11/op_trace": {
+      "first_seen": "2026-03-22",
+      "last_seen": "2026-03-22",
+      "days_seen": 1,
+      "peak_stars": 3,
+      "peak_spd": 3,
+      "language": "TypeScript",
+      "html_url": "https://github.com/tanghaosuan11/op_trace",
+      "description": "OpTrace is a desktop EVM step debugger built with Tauri 2 + REVM. It replays any Ethereum transaction opcode-by-opcode, "
+    },
+    "HertzFlow/goo-launch": {
+      "first_seen": "2026-03-22",
+      "last_seen": "2026-03-22",
+      "days_seen": 1,
+      "peak_stars": 3,
+      "peak_spd": 3,
+      "language": "TypeScript",
+      "html_url": "https://github.com/HertzFlow/goo-launch",
+      "description": "Goo is an autonomous onchain life engine where AI agents are born, earn, pay for their own infrastructure, evolve, repro"
+    },
+    "CumpsD/broker-as-a-service": {
+      "first_seen": "2026-03-22",
+      "last_seen": "2026-03-22",
+      "days_seen": 1,
+      "peak_stars": 2,
+      "peak_spd": 2,
+      "language": "Unknown",
+      "html_url": "https://github.com/CumpsD/broker-as-a-service",
+      "description": "Cross-chain cryptocurrency swaps via Chainflip. Get quotes, execute swaps, and track progress."
+    },
+    "Omnis-Labs/defi-onchain-analytics": {
+      "first_seen": "2026-03-22",
+      "last_seen": "2026-03-22",
+      "days_seen": 1,
+      "peak_stars": 1,
+      "peak_spd": 1,
+      "language": "TypeScript",
+      "html_url": "https://github.com/Omnis-Labs/defi-onchain-analytics",
+      "description": "AI agent skill for DeFi on-chain analytics via JSON-RPC — wallet profiling, protocol analysis, token metrics, DEX analyt"
+    },
+    "ghostty-org/ghostling": {
+      "first_seen": "2026-03-22",
+      "last_seen": "2026-03-22",
+      "days_seen": 1,
+      "peak_stars": 598,
+      "peak_spd": 598,
+      "language": "C",
+      "html_url": "https://github.com/ghostty-org/ghostling",
+      "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣"
+    },
+    "dontbesilent2025/dbskill": {
+      "first_seen": "2026-03-22",
+      "last_seen": "2026-03-22",
+      "days_seen": 1,
+      "peak_stars": 570,
+      "peak_spd": 570,
+      "language": "Unknown",
+      "html_url": "https://github.com/dontbesilent2025/dbskill",
+      "description": "dontbesilent 的商业诊断 Skills for Claude Code"
+    },
+    "math-inc/OpenGauss": {
+      "first_seen": "2026-03-22",
+      "last_seen": "2026-03-22",
+      "days_seen": 1,
+      "peak_stars": 816,
+      "peak_spd": 408,
+      "language": "Python",
+      "html_url": "https://github.com/math-inc/OpenGauss",
+      "description": "No description"
+    },
+    "truongduy2611/app-store-preflight-skills": {
+      "first_seen": "2026-03-22",
+      "last_seen": "2026-03-22",
+      "days_seen": 1,
+      "peak_stars": 637,
+      "peak_spd": 318.5,
+      "language": "Unknown",
+      "html_url": "https://github.com/truongduy2611/app-store-preflight-skills",
+      "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission"
+    },
+    "lxf746/any-auto-register": {
+      "first_seen": "2026-03-22",
+      "last_seen": "2026-03-22",
+      "days_seen": 1,
+      "peak_stars": 827,
+      "peak_spd": 275.7,
+      "language": "Python",
+      "html_url": "https://github.com/lxf746/any-auto-register",
+      "description": "No description"
+    },
+    "BryanLunduke/DoesItAgeVerify": {
+      "first_seen": "2026-03-22",
+      "last_seen": "2026-03-22",
+      "days_seen": 1,
+      "peak_stars": 626,
+      "peak_spd": 208.7,
+      "language": "Unknown",
+      "html_url": "https://github.com/BryanLunduke/DoesItAgeVerify",
+      "description": "The age verification status of Open Source Operating Systems"
+    },
+    "lightningpixel/modly": {
+      "first_seen": "2026-03-22",
+      "last_seen": "2026-03-22",
+      "days_seen": 1,
+      "peak_stars": 514,
+      "peak_spd": 128.5,
+      "language": "TypeScript",
+      "html_url": "https://github.com/lightningpixel/modly",
+      "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU"
+    },
+    "nv-tlabs/kimodo": {
+      "first_seen": "2026-03-22",
+      "last_seen": "2026-03-22",
+      "days_seen": 1,
+      "peak_stars": 585,
+      "peak_spd": 117,
+      "language": "Python",
+      "html_url": "https://github.com/nv-tlabs/kimodo",
+      "description": "Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation."
+    },
+    "joeseesun/opencli-skill": {
+      "first_seen": "2026-03-22",
+      "last_seen": "2026-03-22",
+      "days_seen": 1,
+      "peak_stars": 585,
+      "peak_spd": 117,
+      "language": "Unknown",
+      "html_url": "https://github.com/joeseesun/opencli-skill",
+      "description": "Use opencli CLI to interact with social/content websites (Bilibili, Zhihu, Twitter/X, YouTube, Weibo, 小红书, V2EX, Reddit,"
+    },
+    "lidangzzz/goal-driven": {
+      "first_seen": "2026-03-22",
+      "last_seen": "2026-03-22",
+      "days_seen": 1,
+      "peak_stars": 503,
+      "peak_spd": 100.6,
+      "language": "Unknown",
+      "html_url": "https://github.com/lidangzzz/goal-driven",
+      "description": "A multi-agent system that keeps running for ~100 hours and solve a very complicated coding or math problem that can be v"
     }
   }
 }
