@@ -4047,6 +4047,374 @@
           "description": "A multi-agent system that keeps running for ~100 hours and solve a very complicated coding or math problem that can be v"
         }
       ]
+    },
+    "2026-03-23": {
+      "ai-llm": [
+        {
+          "full_name": "openyak/desktop",
+          "stars": 332,
+          "stars_per_day": 166,
+          "language": "Python",
+          "html_url": "https://github.com/openyak/desktop",
+          "description": "Yak is all you need"
+        },
+        {
+          "full_name": "mnfst/awesome-free-llm-apis",
+          "stars": 140,
+          "stars_per_day": 140,
+          "language": "Unknown",
+          "html_url": "https://github.com/mnfst/awesome-free-llm-apis",
+          "description": "Permanent Free LLM API List (API Keys) 😎🔑"
+        },
+        {
+          "full_name": "rohitg00/ai-engineering-from-scratch",
+          "stars": 340,
+          "stars_per_day": 85,
+          "language": "Python",
+          "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others."
+        },
+        {
+          "full_name": "dubermandeer/Worm-GPT-LLM-2026",
+          "stars": 74,
+          "stars_per_day": 74,
+          "language": "C++",
+          "html_url": "https://github.com/dubermandeer/Worm-GPT-LLM-2026",
+          "description": "High-performance C++ execution engine for LLM red-teaming and prompt engineering. Deploy dynamic jailbreak payloads, byp"
+        },
+        {
+          "full_name": "robbiecalvin/codexmaster",
+          "stars": 44,
+          "stars_per_day": 44,
+          "language": "HTML",
+          "html_url": "https://github.com/robbiecalvin/codexmaster",
+          "description": "Master Codex with this Framework file system + Prompt Generator consisting of 32 markdown files that will set such stric"
+        },
+        {
+          "full_name": "iflytek/astronclaw-tutorial",
+          "stars": 168,
+          "stars_per_day": 42,
+          "language": "JavaScript",
+          "html_url": "https://github.com/iflytek/astronclaw-tutorial",
+          "description": "从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI"
+        },
+        {
+          "full_name": "pharaongayd/Album-Formula-Ai-2026-Update",
+          "stars": 40,
+          "stars_per_day": 40,
+          "language": "Unknown",
+          "html_url": "https://github.com/pharaongayd/Album-Formula-Ai-2026-Update",
+          "description": "Album | Formula | Ai | Photo | Artivicial Intelligence | Creative | Tools | Generation |"
+        },
+        {
+          "full_name": "krzysztofdudek/ResearcherSkill",
+          "stars": 27,
+          "stars_per_day": 27,
+          "language": "Unknown",
+          "html_url": "https://github.com/krzysztofdudek/ResearcherSkill",
+          "description": "One file. Your AI coding agent becomes a scientist. Autonomous experimentation skill for Claude Code, Codex, or any othe"
+        },
+        {
+          "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
+          "stars": 24,
+          "stars_per_day": 24,
+          "language": "Markdown",
+          "html_url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
+          "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers."
+        },
+        {
+          "full_name": "Aquifer-sea/pattern8",
+          "stars": 71,
+          "stars_per_day": 23.7,
+          "language": "Python",
+          "html_url": "https://github.com/Aquifer-sea/pattern8",
+          "description": "🎱 AI Agent Governance Framework — Constrain how AI Agents behave in your project. pip install pattern8"
+        },
+        {
+          "full_name": "gbessoni/seo-agi",
+          "stars": 93,
+          "stars_per_day": 23.3,
+          "language": "Python",
+          "html_url": "https://github.com/gbessoni/seo-agi",
+          "description": "SEO AGI -- The first AI agent that writes pages Google ranks AND LLMs cite. One command in, ranking page out. Built on D"
+        },
+        {
+          "full_name": "k1p1l0/claude-telegram-supercharged",
+          "stars": 45,
+          "stars_per_day": 22.5,
+          "language": "TypeScript",
+          "html_url": "https://github.com/k1p1l0/claude-telegram-supercharged",
+          "description": "Supercharged Claude Code Telegram plugin — threading, voice messages, stickers, GIFs, reactions, MarkdownV2 & more. Drop"
+        },
+        {
+          "full_name": "openmemind/memind",
+          "stars": 65,
+          "stars_per_day": 21.7,
+          "language": "Java",
+          "html_url": "https://github.com/openmemind/memind",
+          "description": "Self-evolving cognitive memory for AI agents in Java. Empowering 24/7 proactive agents like OpenClaw with understanding."
+        },
+        {
+          "full_name": "matt-k-wong/mlx-flash",
+          "stars": 42,
+          "stars_per_day": 21,
+          "language": "Python",
+          "html_url": "https://github.com/matt-k-wong/mlx-flash",
+          "description": "Flash weight streaming for MLX: run massive models larger than your RAM on Apple Silicon."
+        },
+        {
+          "full_name": "kellyvv/wechat-to-anything",
+          "stars": 18,
+          "stars_per_day": 18,
+          "language": "JavaScript",
+          "html_url": "https://github.com/kellyvv/wechat-to-anything",
+          "description": "一条命令，把微信变成任何 AI Agent 的入口 | Connect WeChat to any AI Agent with one command"
+        }
+      ],
+      "crypto-web3": [
+        {
+          "full_name": "iwanexs/Robinhood-Chain-testnet-bot",
+          "stars": 130,
+          "stars_per_day": 130,
+          "language": "Unknown",
+          "html_url": "https://github.com/iwanexs/Robinhood-Chain-testnet-bot",
+          "description": "Automated multi-account bot for Robinhood Chain testnet — completes on-chain tasks, maintains streaks, and farms points "
+        },
+        {
+          "full_name": "alex01947/Nado-Trading-Bot",
+          "stars": 126,
+          "stars_per_day": 126,
+          "language": "Unknown",
+          "html_url": "https://github.com/alex01947/Nado-Trading-Bot",
+          "description": "Trading bot for Nado DEX with multi-timeframe technical analysis and automatic volume order execution."
+        },
+        {
+          "full_name": "Junaidawan537/Miden-testnet-bot",
+          "stars": 125,
+          "stars_per_day": 125,
+          "language": "Unknown",
+          "html_url": "https://github.com/Junaidawan537/Miden-testnet-bot",
+          "description": "Automated multi-account bot for Miden testnet — executes 25 different on-chain tasks, maintains streaks, and farms point"
+        },
+        {
+          "full_name": "viet64th2/Polymarket-trade-bot",
+          "stars": 113,
+          "stars_per_day": 113,
+          "language": "Unknown",
+          "html_url": "https://github.com/viet64th2/Polymarket-trade-bot",
+          "description": "Automated multi-account bot for Polymarket — places predictions, farms volume, completes streaks, and maximizes rewards "
+        },
+        {
+          "full_name": "5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026",
+          "stars": 221,
+          "stars_per_day": 44.2,
+          "language": "Solidity",
+          "html_url": "https://github.com/5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026",
+          "description": "Uniswap V3 arbitrage bot 2026 – mempool sniper with real profits"
+        },
+        {
+          "full_name": "Neutral-Debug/Mexc-Trading-Bot",
+          "stars": 99,
+          "stars_per_day": 33,
+          "language": "Unknown",
+          "html_url": "https://github.com/Neutral-Debug/Mexc-Trading-Bot",
+          "description": "Automated trading bot for MEXC built for 0-fee markets — three independent strategies, zero commissions eating your edge"
+        },
+        {
+          "full_name": "Alessandroitz/Predict-Fun-Farming-Bot",
+          "stars": 115,
+          "stars_per_day": 28.8,
+          "language": "Unknown",
+          "html_url": "https://github.com/Alessandroitz/Predict-Fun-Farming-Bot",
+          "description": "Automated multi-account bot for predict.fun — places predictions, completes daily tasks, and farms points across unlimit"
+        },
+        {
+          "full_name": "31Priyansh/xStocks-Strategy-Trading-Bot",
+          "stars": 103,
+          "stars_per_day": 25.8,
+          "language": "Unknown",
+          "html_url": "https://github.com/31Priyansh/xStocks-Strategy-Trading-Bot",
+          "description": "Automated trading bot for xStocks with three independent strategies"
+        },
+        {
+          "full_name": "FURiOus-ParADox/bsc-bnb-sniper-bot",
+          "stars": 23,
+          "stars_per_day": 23,
+          "language": "Python",
+          "html_url": "https://github.com/FURiOus-ParADox/bsc-bnb-sniper-bot",
+          "description": "Python CLI bot: Binance Spot catalog + BSC, sniping UI, Web3"
+        },
+        {
+          "full_name": "AnmolMittal09/Perle-Labs-Testnet-Bot",
+          "stars": 78,
+          "stars_per_day": 19.5,
+          "language": "Unknown",
+          "html_url": "https://github.com/AnmolMittal09/Perle-Labs-Testnet-Bot",
+          "description": "Automated multi-account bot for Perle — completes testnet tasks and posts activity to Twitter across unlimited accounts "
+        },
+        {
+          "full_name": "solana-foundation/mpp-sdk",
+          "stars": 35,
+          "stars_per_day": 8.8,
+          "language": "TypeScript",
+          "html_url": "https://github.com/solana-foundation/mpp-sdk",
+          "description": "Solana payment method for the Machine Payments Protocol."
+        },
+        {
+          "full_name": "CumpsD/broker-as-a-service",
+          "stars": 8,
+          "stars_per_day": 8,
+          "language": "Unknown",
+          "html_url": "https://github.com/CumpsD/broker-as-a-service",
+          "description": "Cross-chain cryptocurrency swaps via Chainflip. Get quotes, execute swaps, and track progress."
+        },
+        {
+          "full_name": "efidal/tempo-mpp-agent-starter",
+          "stars": 9,
+          "stars_per_day": 4.5,
+          "language": "Python",
+          "html_url": "https://github.com/efidal/tempo-mpp-agent-starter",
+          "description": "Mainnet-first Tempo MPP automation starter with workflow orchestration, spend caps, and provider safety controls."
+        },
+        {
+          "full_name": "Raynaendow32880/Phantom-fake-balance",
+          "stars": 18,
+          "stars_per_day": 3,
+          "language": "C#",
+          "html_url": "https://github.com/Raynaendow32880/Phantom-fake-balance",
+          "description": "Phantom Wallet Visual Simulation Tool - Display customizable SOL balances in Phantom interface for development testing. "
+        },
+        {
+          "full_name": "ReineiraOS/platform-modules",
+          "stars": 4,
+          "stars_per_day": 2,
+          "language": "Unknown",
+          "html_url": "https://github.com/ReineiraOS/platform-modules",
+          "description": "Plug-and-play application starters for ReineiraOS ventures. Backend, platform app, payment link"
+        }
+      ],
+      "general": [
+        {
+          "full_name": "louislva/claude-peers-mcp",
+          "stars": 644,
+          "stars_per_day": 644,
+          "language": "TypeScript",
+          "html_url": "https://github.com/louislva/claude-peers-mcp",
+          "description": "Allow all your Claude Codes to message each other ad-hoc!"
+        },
+        {
+          "full_name": "HKUDS/ClawTeam",
+          "stars": 2906,
+          "stars_per_day": 581.2,
+          "language": "Python",
+          "html_url": "https://github.com/HKUDS/ClawTeam",
+          "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)"
+        },
+        {
+          "full_name": "dontbesilent2025/dbskill",
+          "stars": 963,
+          "stars_per_day": 481.5,
+          "language": "Unknown",
+          "html_url": "https://github.com/dontbesilent2025/dbskill",
+          "description": "dontbesilent 的商业诊断 Skills for Claude Code"
+        },
+        {
+          "full_name": "MiniMax-AI/skills",
+          "stars": 2108,
+          "stars_per_day": 421.6,
+          "language": "C#",
+          "html_url": "https://github.com/MiniMax-AI/skills",
+          "description": "No description"
+        },
+        {
+          "full_name": "VoltAgent/awesome-codex-subagents",
+          "stars": 2099,
+          "stars_per_day": 419.8,
+          "language": "Unknown",
+          "html_url": "https://github.com/VoltAgent/awesome-codex-subagents",
+          "description": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases."
+        },
+        {
+          "full_name": "ghostty-org/ghostling",
+          "stars": 716,
+          "stars_per_day": 358,
+          "language": "C",
+          "html_url": "https://github.com/ghostty-org/ghostling",
+          "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣"
+        },
+        {
+          "full_name": "math-inc/OpenGauss",
+          "stars": 1024,
+          "stars_per_day": 341.3,
+          "language": "Python",
+          "html_url": "https://github.com/math-inc/OpenGauss",
+          "description": "No description"
+        },
+        {
+          "full_name": "danveloper/flash-moe",
+          "stars": 1284,
+          "stars_per_day": 321,
+          "language": "Objective-C",
+          "html_url": "https://github.com/danveloper/flash-moe",
+          "description": "Running a big model on a small laptop"
+        },
+        {
+          "full_name": "truongduy2611/app-store-preflight-skills",
+          "stars": 855,
+          "stars_per_day": 285,
+          "language": "Unknown",
+          "html_url": "https://github.com/truongduy2611/app-store-preflight-skills",
+          "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission"
+        },
+        {
+          "full_name": "lxf746/any-auto-register",
+          "stars": 998,
+          "stars_per_day": 249.5,
+          "language": "Python",
+          "html_url": "https://github.com/lxf746/any-auto-register",
+          "description": "No description"
+        },
+        {
+          "full_name": "mattprusak/autoresearch-genealogy",
+          "stars": 879,
+          "stars_per_day": 219.8,
+          "language": "Unknown",
+          "html_url": "https://github.com/mattprusak/autoresearch-genealogy",
+          "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code."
+        },
+        {
+          "full_name": "BryanLunduke/DoesItAgeVerify",
+          "stars": 705,
+          "stars_per_day": 176.3,
+          "language": "Unknown",
+          "html_url": "https://github.com/BryanLunduke/DoesItAgeVerify",
+          "description": "The age verification status of Open Source Operating Systems"
+        },
+        {
+          "full_name": "frank890417/taiwan-md",
+          "stars": 725,
+          "stars_per_day": 145,
+          "language": "Astro",
+          "html_url": "https://github.com/frank890417/taiwan-md",
+          "description": "🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan"
+        },
+        {
+          "full_name": "wangziqi06/724-office",
+          "stars": 623,
+          "stars_per_day": 124.6,
+          "language": "Python",
+          "html_url": "https://github.com/wangziqi06/724-office",
+          "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, se"
+        },
+        {
+          "full_name": "leo-lilinxiao/codex-autoresearch",
+          "stars": 618,
+          "stars_per_day": 123.6,
+          "language": "Python",
+          "html_url": "https://github.com/leo-lilinxiao/codex-autoresearch",
+          "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, "
+        }
+      ]
     }
   },
   "repos": {
@@ -5022,8 +5390,8 @@
     },
     "Raynaendow32880/Phantom-fake-balance": {
       "first_seen": "2026-03-17",
-      "last_seen": "2026-03-22",
-      "days_seen": 6,
+      "last_seen": "2026-03-23",
+      "days_seen": 7,
       "peak_stars": 18,
       "peak_spd": 18,
       "language": "C#",
@@ -5172,9 +5540,9 @@
     },
     "5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026": {
       "first_seen": "2026-03-18",
-      "last_seen": "2026-03-22",
-      "days_seen": 5,
-      "peak_stars": 150,
+      "last_seen": "2026-03-23",
+      "days_seen": 6,
+      "peak_stars": 221,
       "peak_spd": 150,
       "language": "Solidity",
       "html_url": "https://github.com/5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026",
@@ -5342,19 +5710,19 @@
     },
     "AnmolMittal09/Perle-Labs-Testnet-Bot": {
       "first_seen": "2026-03-19",
-      "last_seen": "2026-03-19",
-      "days_seen": 1,
-      "peak_stars": 2,
-      "peak_spd": 2,
+      "last_seen": "2026-03-23",
+      "days_seen": 2,
+      "peak_stars": 78,
+      "peak_spd": 19.5,
       "language": "Unknown",
       "html_url": "https://github.com/AnmolMittal09/Perle-Labs-Testnet-Bot",
       "description": "Automated multi-account bot for Perle — completes testnet tasks and posts activity to Twitter across unlimited accounts "
     },
     "HKUDS/ClawTeam": {
       "first_seen": "2026-03-19",
-      "last_seen": "2026-03-22",
-      "days_seen": 4,
-      "peak_stars": 2511,
+      "last_seen": "2026-03-23",
+      "days_seen": 5,
+      "peak_stars": 2906,
       "peak_spd": 1143,
       "language": "Python",
       "html_url": "https://github.com/HKUDS/ClawTeam",
@@ -5362,9 +5730,9 @@
     },
     "VoltAgent/awesome-codex-subagents": {
       "first_seen": "2026-03-19",
-      "last_seen": "2026-03-22",
-      "days_seen": 4,
-      "peak_stars": 1988,
+      "last_seen": "2026-03-23",
+      "days_seen": 5,
+      "peak_stars": 2099,
       "peak_spd": 859,
       "language": "Unknown",
       "html_url": "https://github.com/VoltAgent/awesome-codex-subagents",
@@ -5382,19 +5750,19 @@
     },
     "rohitg00/ai-engineering-from-scratch": {
       "first_seen": "2026-03-20",
-      "last_seen": "2026-03-22",
-      "days_seen": 3,
-      "peak_stars": 208,
-      "peak_spd": 69.3,
+      "last_seen": "2026-03-23",
+      "days_seen": 4,
+      "peak_stars": 340,
+      "peak_spd": 85,
       "language": "Python",
       "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others."
     },
     "gbessoni/seo-agi": {
       "first_seen": "2026-03-20",
-      "last_seen": "2026-03-22",
-      "days_seen": 3,
-      "peak_stars": 79,
+      "last_seen": "2026-03-23",
+      "days_seen": 4,
+      "peak_stars": 93,
       "peak_spd": 44,
       "language": "Python",
       "html_url": "https://github.com/gbessoni/seo-agi",
@@ -5402,9 +5770,9 @@
     },
     "iflytek/astronclaw-tutorial": {
       "first_seen": "2026-03-20",
-      "last_seen": "2026-03-22",
-      "days_seen": 3,
-      "peak_stars": 113,
+      "last_seen": "2026-03-23",
+      "days_seen": 4,
+      "peak_stars": 168,
       "peak_spd": 42,
       "language": "JavaScript",
       "html_url": "https://github.com/iflytek/astronclaw-tutorial",
@@ -5432,8 +5800,8 @@
     },
     "solana-foundation/mpp-sdk": {
       "first_seen": "2026-03-20",
-      "last_seen": "2026-03-22",
-      "days_seen": 3,
+      "last_seen": "2026-03-23",
+      "days_seen": 4,
       "peak_stars": 35,
       "peak_spd": 34,
       "language": "TypeScript",
@@ -5462,10 +5830,10 @@
     },
     "31Priyansh/xStocks-Strategy-Trading-Bot": {
       "first_seen": "2026-03-20",
-      "last_seen": "2026-03-20",
-      "days_seen": 1,
-      "peak_stars": 2,
-      "peak_spd": 2,
+      "last_seen": "2026-03-23",
+      "days_seen": 2,
+      "peak_stars": 103,
+      "peak_spd": 25.8,
       "language": "Unknown",
       "html_url": "https://github.com/31Priyansh/xStocks-Strategy-Trading-Bot",
       "description": "Automated trading bot for xStocks with three independent strategies"
@@ -5512,9 +5880,9 @@
     },
     "openmemind/memind": {
       "first_seen": "2026-03-21",
-      "last_seen": "2026-03-22",
-      "days_seen": 2,
-      "peak_stars": 52,
+      "last_seen": "2026-03-23",
+      "days_seen": 3,
+      "peak_stars": 65,
       "peak_spd": 26,
       "language": "Java",
       "html_url": "https://github.com/openmemind/memind",
@@ -5522,9 +5890,9 @@
     },
     "k1p1l0/claude-telegram-supercharged": {
       "first_seen": "2026-03-21",
-      "last_seen": "2026-03-22",
-      "days_seen": 2,
-      "peak_stars": 38,
+      "last_seen": "2026-03-23",
+      "days_seen": 3,
+      "peak_stars": 45,
       "peak_spd": 38,
       "language": "TypeScript",
       "html_url": "https://github.com/k1p1l0/claude-telegram-supercharged",
@@ -5542,8 +5910,8 @@
     },
     "ReineiraOS/platform-modules": {
       "first_seen": "2026-03-21",
-      "last_seen": "2026-03-22",
-      "days_seen": 2,
+      "last_seen": "2026-03-23",
+      "days_seen": 3,
       "peak_stars": 4,
       "peak_spd": 4,
       "language": "Unknown",
@@ -5592,9 +5960,9 @@
     },
     "mattprusak/autoresearch-genealogy": {
       "first_seen": "2026-03-21",
-      "last_seen": "2026-03-22",
-      "days_seen": 2,
-      "peak_stars": 842,
+      "last_seen": "2026-03-23",
+      "days_seen": 3,
+      "peak_stars": 879,
       "peak_spd": 391.5,
       "language": "Unknown",
       "html_url": "https://github.com/mattprusak/autoresearch-genealogy",
@@ -5602,9 +5970,9 @@
     },
     "frank890417/taiwan-md": {
       "first_seen": "2026-03-21",
-      "last_seen": "2026-03-22",
-      "days_seen": 2,
-      "peak_stars": 699,
+      "last_seen": "2026-03-23",
+      "days_seen": 3,
+      "peak_stars": 725,
       "peak_spd": 225,
       "language": "Astro",
       "html_url": "https://github.com/frank890417/taiwan-md",
@@ -5612,19 +5980,19 @@
     },
     "openyak/desktop": {
       "first_seen": "2026-03-22",
-      "last_seen": "2026-03-22",
-      "days_seen": 1,
-      "peak_stars": 148,
-      "peak_spd": 148,
+      "last_seen": "2026-03-23",
+      "days_seen": 2,
+      "peak_stars": 332,
+      "peak_spd": 166,
       "language": "Python",
       "html_url": "https://github.com/openyak/desktop",
       "description": "Yak is all you need"
     },
     "matt-k-wong/mlx-flash": {
       "first_seen": "2026-03-22",
-      "last_seen": "2026-03-22",
-      "days_seen": 1,
-      "peak_stars": 28,
+      "last_seen": "2026-03-23",
+      "days_seen": 2,
+      "peak_stars": 42,
       "peak_spd": 28,
       "language": "Python",
       "html_url": "https://github.com/matt-k-wong/mlx-flash",
@@ -5632,10 +6000,10 @@
     },
     "Aquifer-sea/pattern8": {
       "first_seen": "2026-03-22",
-      "last_seen": "2026-03-22",
-      "days_seen": 1,
-      "peak_stars": 41,
-      "peak_spd": 20.5,
+      "last_seen": "2026-03-23",
+      "days_seen": 2,
+      "peak_stars": 71,
+      "peak_spd": 23.7,
       "language": "Python",
       "html_url": "https://github.com/Aquifer-sea/pattern8",
       "description": "🎱 AI Agent Governance Framework — Constrain how AI Agents behave in your project. pip install pattern8"
@@ -5672,9 +6040,9 @@
     },
     "efidal/tempo-mpp-agent-starter": {
       "first_seen": "2026-03-22",
-      "last_seen": "2026-03-22",
-      "days_seen": 1,
-      "peak_stars": 7,
+      "last_seen": "2026-03-23",
+      "days_seen": 2,
+      "peak_stars": 9,
       "peak_spd": 7,
       "language": "Python",
       "html_url": "https://github.com/efidal/tempo-mpp-agent-starter",
@@ -5702,10 +6070,10 @@
     },
     "CumpsD/broker-as-a-service": {
       "first_seen": "2026-03-22",
-      "last_seen": "2026-03-22",
-      "days_seen": 1,
-      "peak_stars": 2,
-      "peak_spd": 2,
+      "last_seen": "2026-03-23",
+      "days_seen": 2,
+      "peak_stars": 8,
+      "peak_spd": 8,
       "language": "Unknown",
       "html_url": "https://github.com/CumpsD/broker-as-a-service",
       "description": "Cross-chain cryptocurrency swaps via Chainflip. Get quotes, execute swaps, and track progress."
@@ -5722,9 +6090,9 @@
     },
     "ghostty-org/ghostling": {
       "first_seen": "2026-03-22",
-      "last_seen": "2026-03-22",
-      "days_seen": 1,
-      "peak_stars": 598,
+      "last_seen": "2026-03-23",
+      "days_seen": 2,
+      "peak_stars": 716,
       "peak_spd": 598,
       "language": "C",
       "html_url": "https://github.com/ghostty-org/ghostling",
@@ -5732,9 +6100,9 @@
     },
     "dontbesilent2025/dbskill": {
       "first_seen": "2026-03-22",
-      "last_seen": "2026-03-22",
-      "days_seen": 1,
-      "peak_stars": 570,
+      "last_seen": "2026-03-23",
+      "days_seen": 2,
+      "peak_stars": 963,
       "peak_spd": 570,
       "language": "Unknown",
       "html_url": "https://github.com/dontbesilent2025/dbskill",
@@ -5742,9 +6110,9 @@
     },
     "math-inc/OpenGauss": {
       "first_seen": "2026-03-22",
-      "last_seen": "2026-03-22",
-      "days_seen": 1,
-      "peak_stars": 816,
+      "last_seen": "2026-03-23",
+      "days_seen": 2,
+      "peak_stars": 1024,
       "peak_spd": 408,
       "language": "Python",
       "html_url": "https://github.com/math-inc/OpenGauss",
@@ -5752,9 +6120,9 @@
     },
     "truongduy2611/app-store-preflight-skills": {
       "first_seen": "2026-03-22",
-      "last_seen": "2026-03-22",
-      "days_seen": 1,
-      "peak_stars": 637,
+      "last_seen": "2026-03-23",
+      "days_seen": 2,
+      "peak_stars": 855,
       "peak_spd": 318.5,
       "language": "Unknown",
       "html_url": "https://github.com/truongduy2611/app-store-preflight-skills",
@@ -5762,9 +6130,9 @@
     },
     "lxf746/any-auto-register": {
       "first_seen": "2026-03-22",
-      "last_seen": "2026-03-22",
-      "days_seen": 1,
-      "peak_stars": 827,
+      "last_seen": "2026-03-23",
+      "days_seen": 2,
+      "peak_stars": 998,
       "peak_spd": 275.7,
       "language": "Python",
       "html_url": "https://github.com/lxf746/any-auto-register",
@@ -5772,9 +6140,9 @@
     },
     "BryanLunduke/DoesItAgeVerify": {
       "first_seen": "2026-03-22",
-      "last_seen": "2026-03-22",
-      "days_seen": 1,
-      "peak_stars": 626,
+      "last_seen": "2026-03-23",
+      "days_seen": 2,
+      "peak_stars": 705,
       "peak_spd": 208.7,
       "language": "Unknown",
       "html_url": "https://github.com/BryanLunduke/DoesItAgeVerify",
@@ -5819,6 +6187,196 @@
       "language": "Unknown",
       "html_url": "https://github.com/lidangzzz/goal-driven",
       "description": "A multi-agent system that keeps running for ~100 hours and solve a very complicated coding or math problem that can be v"
+    },
+    "mnfst/awesome-free-llm-apis": {
+      "first_seen": "2026-03-23",
+      "last_seen": "2026-03-23",
+      "days_seen": 1,
+      "peak_stars": 140,
+      "peak_spd": 140,
+      "language": "Unknown",
+      "html_url": "https://github.com/mnfst/awesome-free-llm-apis",
+      "description": "Permanent Free LLM API List (API Keys) 😎🔑"
+    },
+    "dubermandeer/Worm-GPT-LLM-2026": {
+      "first_seen": "2026-03-23",
+      "last_seen": "2026-03-23",
+      "days_seen": 1,
+      "peak_stars": 74,
+      "peak_spd": 74,
+      "language": "C++",
+      "html_url": "https://github.com/dubermandeer/Worm-GPT-LLM-2026",
+      "description": "High-performance C++ execution engine for LLM red-teaming and prompt engineering. Deploy dynamic jailbreak payloads, byp"
+    },
+    "robbiecalvin/codexmaster": {
+      "first_seen": "2026-03-23",
+      "last_seen": "2026-03-23",
+      "days_seen": 1,
+      "peak_stars": 44,
+      "peak_spd": 44,
+      "language": "HTML",
+      "html_url": "https://github.com/robbiecalvin/codexmaster",
+      "description": "Master Codex with this Framework file system + Prompt Generator consisting of 32 markdown files that will set such stric"
+    },
+    "pharaongayd/Album-Formula-Ai-2026-Update": {
+      "first_seen": "2026-03-23",
+      "last_seen": "2026-03-23",
+      "days_seen": 1,
+      "peak_stars": 40,
+      "peak_spd": 40,
+      "language": "Unknown",
+      "html_url": "https://github.com/pharaongayd/Album-Formula-Ai-2026-Update",
+      "description": "Album | Formula | Ai | Photo | Artivicial Intelligence | Creative | Tools | Generation |"
+    },
+    "krzysztofdudek/ResearcherSkill": {
+      "first_seen": "2026-03-23",
+      "last_seen": "2026-03-23",
+      "days_seen": 1,
+      "peak_stars": 27,
+      "peak_spd": 27,
+      "language": "Unknown",
+      "html_url": "https://github.com/krzysztofdudek/ResearcherSkill",
+      "description": "One file. Your AI coding agent becomes a scientist. Autonomous experimentation skill for Claude Code, Codex, or any othe"
+    },
+    "amitshekhariitbhu/ai-engineering-interview-questions": {
+      "first_seen": "2026-03-23",
+      "last_seen": "2026-03-23",
+      "days_seen": 1,
+      "peak_stars": 24,
+      "peak_spd": 24,
+      "language": "Markdown",
+      "html_url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
+      "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers."
+    },
+    "kellyvv/wechat-to-anything": {
+      "first_seen": "2026-03-23",
+      "last_seen": "2026-03-23",
+      "days_seen": 1,
+      "peak_stars": 18,
+      "peak_spd": 18,
+      "language": "JavaScript",
+      "html_url": "https://github.com/kellyvv/wechat-to-anything",
+      "description": "一条命令，把微信变成任何 AI Agent 的入口 | Connect WeChat to any AI Agent with one command"
+    },
+    "iwanexs/Robinhood-Chain-testnet-bot": {
+      "first_seen": "2026-03-23",
+      "last_seen": "2026-03-23",
+      "days_seen": 1,
+      "peak_stars": 130,
+      "peak_spd": 130,
+      "language": "Unknown",
+      "html_url": "https://github.com/iwanexs/Robinhood-Chain-testnet-bot",
+      "description": "Automated multi-account bot for Robinhood Chain testnet — completes on-chain tasks, maintains streaks, and farms points "
+    },
+    "alex01947/Nado-Trading-Bot": {
+      "first_seen": "2026-03-23",
+      "last_seen": "2026-03-23",
+      "days_seen": 1,
+      "peak_stars": 126,
+      "peak_spd": 126,
+      "language": "Unknown",
+      "html_url": "https://github.com/alex01947/Nado-Trading-Bot",
+      "description": "Trading bot for Nado DEX with multi-timeframe technical analysis and automatic volume order execution."
+    },
+    "Junaidawan537/Miden-testnet-bot": {
+      "first_seen": "2026-03-23",
+      "last_seen": "2026-03-23",
+      "days_seen": 1,
+      "peak_stars": 125,
+      "peak_spd": 125,
+      "language": "Unknown",
+      "html_url": "https://github.com/Junaidawan537/Miden-testnet-bot",
+      "description": "Automated multi-account bot for Miden testnet — executes 25 different on-chain tasks, maintains streaks, and farms point"
+    },
+    "viet64th2/Polymarket-trade-bot": {
+      "first_seen": "2026-03-23",
+      "last_seen": "2026-03-23",
+      "days_seen": 1,
+      "peak_stars": 113,
+      "peak_spd": 113,
+      "language": "Unknown",
+      "html_url": "https://github.com/viet64th2/Polymarket-trade-bot",
+      "description": "Automated multi-account bot for Polymarket — places predictions, farms volume, completes streaks, and maximizes rewards "
+    },
+    "Neutral-Debug/Mexc-Trading-Bot": {
+      "first_seen": "2026-03-23",
+      "last_seen": "2026-03-23",
+      "days_seen": 1,
+      "peak_stars": 99,
+      "peak_spd": 33,
+      "language": "Unknown",
+      "html_url": "https://github.com/Neutral-Debug/Mexc-Trading-Bot",
+      "description": "Automated trading bot for MEXC built for 0-fee markets — three independent strategies, zero commissions eating your edge"
+    },
+    "Alessandroitz/Predict-Fun-Farming-Bot": {
+      "first_seen": "2026-03-23",
+      "last_seen": "2026-03-23",
+      "days_seen": 1,
+      "peak_stars": 115,
+      "peak_spd": 28.8,
+      "language": "Unknown",
+      "html_url": "https://github.com/Alessandroitz/Predict-Fun-Farming-Bot",
+      "description": "Automated multi-account bot for predict.fun — places predictions, completes daily tasks, and farms points across unlimit"
+    },
+    "FURiOus-ParADox/bsc-bnb-sniper-bot": {
+      "first_seen": "2026-03-23",
+      "last_seen": "2026-03-23",
+      "days_seen": 1,
+      "peak_stars": 23,
+      "peak_spd": 23,
+      "language": "Python",
+      "html_url": "https://github.com/FURiOus-ParADox/bsc-bnb-sniper-bot",
+      "description": "Python CLI bot: Binance Spot catalog + BSC, sniping UI, Web3"
+    },
+    "louislva/claude-peers-mcp": {
+      "first_seen": "2026-03-23",
+      "last_seen": "2026-03-23",
+      "days_seen": 1,
+      "peak_stars": 644,
+      "peak_spd": 644,
+      "language": "TypeScript",
+      "html_url": "https://github.com/louislva/claude-peers-mcp",
+      "description": "Allow all your Claude Codes to message each other ad-hoc!"
+    },
+    "MiniMax-AI/skills": {
+      "first_seen": "2026-03-23",
+      "last_seen": "2026-03-23",
+      "days_seen": 1,
+      "peak_stars": 2108,
+      "peak_spd": 421.6,
+      "language": "C#",
+      "html_url": "https://github.com/MiniMax-AI/skills",
+      "description": "No description"
+    },
+    "danveloper/flash-moe": {
+      "first_seen": "2026-03-23",
+      "last_seen": "2026-03-23",
+      "days_seen": 1,
+      "peak_stars": 1284,
+      "peak_spd": 321,
+      "language": "Objective-C",
+      "html_url": "https://github.com/danveloper/flash-moe",
+      "description": "Running a big model on a small laptop"
+    },
+    "wangziqi06/724-office": {
+      "first_seen": "2026-03-23",
+      "last_seen": "2026-03-23",
+      "days_seen": 1,
+      "peak_stars": 623,
+      "peak_spd": 124.6,
+      "language": "Python",
+      "html_url": "https://github.com/wangziqi06/724-office",
+      "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, se"
+    },
+    "leo-lilinxiao/codex-autoresearch": {
+      "first_seen": "2026-03-23",
+      "last_seen": "2026-03-23",
+      "days_seen": 1,
+      "peak_stars": 618,
+      "peak_spd": 123.6,
+      "language": "Python",
+      "html_url": "https://github.com/leo-lilinxiao/codex-autoresearch",
+      "description": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, "
     }
   }
 }
