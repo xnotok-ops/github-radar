@@ -5887,6 +5887,374 @@
           "description": "🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker"
         }
       ]
+    },
+    "2026-03-28": {
+      "ai-llm": [
+        {
+          "full_name": "alvinunreal/awesome-opensource-ai",
+          "stars": 1476,
+          "stars_per_day": 492,
+          "language": "Unknown",
+          "html_url": "https://github.com/alvinunreal/awesome-opensource-ai",
+          "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure."
+        },
+        {
+          "full_name": "edinetdb/dexter-jp",
+          "stars": 131,
+          "stars_per_day": 131,
+          "language": "TypeScript",
+          "html_url": "https://github.com/edinetdb/dexter-jp",
+          "description": "日本株の自律型リサーチAIエージェント｜AI agent for deep financial research on Japanese listed companies. Powered by EDINET DB + J-Quants."
+        },
+        {
+          "full_name": "maria-rcks/t1code",
+          "stars": 199,
+          "stars_per_day": 99.5,
+          "language": "TypeScript",
+          "html_url": "https://github.com/maria-rcks/t1code",
+          "description": "T3Code, but in your terminal"
+        },
+        {
+          "full_name": "yvgude/lean-ctx",
+          "stars": 269,
+          "stars_per_day": 67.3,
+          "language": "Rust",
+          "html_url": "https://github.com/yvgude/lean-ctx",
+          "description": "Hybrid Context Optimizer — Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero de"
+        },
+        {
+          "full_name": "WecoAI/awesome-autoresearch",
+          "stars": 324,
+          "stars_per_day": 64.8,
+          "language": "Unknown",
+          "html_url": "https://github.com/WecoAI/awesome-autoresearch",
+          "description": "A curated list of AutoResearch use cases and open source implementations"
+        },
+        {
+          "full_name": "tanviet12/chat-quality-agent",
+          "stars": 241,
+          "stars_per_day": 60.3,
+          "language": "Go",
+          "html_url": "https://github.com/tanviet12/chat-quality-agent",
+          "description": "Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI"
+        },
+        {
+          "full_name": "alvinunreal/awesome-openclaw",
+          "stars": 54,
+          "stars_per_day": 54,
+          "language": "Unknown",
+          "html_url": "https://github.com/alvinunreal/awesome-openclaw",
+          "description": "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memor"
+        },
+        {
+          "full_name": "salespeak-ai/buyer-eval-skill",
+          "stars": 42,
+          "stars_per_day": 42,
+          "language": "Shell",
+          "html_url": "https://github.com/salespeak-ai/buyer-eval-skill",
+          "description": "B2B software vendor evaluation skill for Claude Code — domain-expert questions, vendor AI agent conversations, evidence-"
+        },
+        {
+          "full_name": "EESJGong/Graph-CAD",
+          "stars": 36,
+          "stars_per_day": 36,
+          "language": "Python",
+          "html_url": "https://github.com/EESJGong/Graph-CAD",
+          "description": "Learning Hierarchical and Geometry-Aware Graph Representations for Text-to-CAD"
+        },
+        {
+          "full_name": "45645678a/scholar-mcp",
+          "stars": 85,
+          "stars_per_day": 28.3,
+          "language": "Python",
+          "html_url": "https://github.com/45645678a/scholar-mcp",
+          "description": "Local paper tool MCP server for AI IDEs - search, download (Sci-Hub/arXiv/Unpaywall), AI analysis, code-based recommenda"
+        },
+        {
+          "full_name": "krzysztofdudek/ResearcherSkill",
+          "stars": 126,
+          "stars_per_day": 25.2,
+          "language": "Unknown",
+          "html_url": "https://github.com/krzysztofdudek/ResearcherSkill",
+          "description": "One file. Your AI agent becomes a scientist. 30+ experiments while you sleep."
+        },
+        {
+          "full_name": "OnlyTerp/turboquant",
+          "stars": 35,
+          "stars_per_day": 17.5,
+          "language": "Python",
+          "html_url": "https://github.com/OnlyTerp/turboquant",
+          "description": "First open-source implementation of Google TurboQuant (ICLR 2026) -- near-optimal KV cache compression for LLM inference"
+        },
+        {
+          "full_name": "dorringel/epsiclaw",
+          "stars": 30,
+          "stars_per_day": 15,
+          "language": "Python",
+          "html_url": "https://github.com/dorringel/epsiclaw",
+          "description": "The Karpathy treatment for OpenClaw - stripped to ε. 515 lines of Python, 6 files, one dependency."
+        },
+        {
+          "full_name": "robbiecalvin/codexmaster",
+          "stars": 63,
+          "stars_per_day": 12.6,
+          "language": "HTML",
+          "html_url": "https://github.com/robbiecalvin/codexmaster",
+          "description": "Master Codex with this Framework file system + Prompt Generator consisting of 32 markdown files that will set such stric"
+        },
+        {
+          "full_name": "jameslemon2002/research-idea-explorer",
+          "stars": 50,
+          "stars_per_day": 12.5,
+          "language": "JavaScript",
+          "html_url": "https://github.com/jameslemon2002/research-idea-explorer",
+          "description": "Literature-grounded research idea exploration for CLI agents. 文献驱动的研究选题与方向探索工具。"
+        }
+      ],
+      "crypto-web3": [
+        {
+          "full_name": "happyboy4ty25/pump-analyzer",
+          "stars": 389,
+          "stars_per_day": 389,
+          "language": "Unknown",
+          "html_url": "https://github.com/happyboy4ty25/pump-analyzer",
+          "description": "Real-time monitoring & analytics platform for Pump.fun tokens. Track launches, analyze trends, and get instant alerts — "
+        },
+        {
+          "full_name": "polymarket-dev/Polymarket-Arbitrage-Bot",
+          "stars": 128,
+          "stars_per_day": 64,
+          "language": "TypeScript",
+          "html_url": "https://github.com/polymarket-dev/Polymarket-Arbitrage-Bot",
+          "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polym"
+        },
+        {
+          "full_name": "dealermemefi/polymarket-signal-bot",
+          "stars": 42,
+          "stars_per_day": 42,
+          "language": "Unknown",
+          "html_url": "https://github.com/dealermemefi/polymarket-signal-bot",
+          "description": "Real-time Polymarket signal bot - detects order book imbalances, price velocity spikes, and smart money entries. Deliver"
+        },
+        {
+          "full_name": "ethuncledealer/polymarket-copy-trader",
+          "stars": 42,
+          "stars_per_day": 42,
+          "language": "Unknown",
+          "html_url": "https://github.com/ethuncledealer/polymarket-copy-trader",
+          "description": "Mirror top Polymarket whale wallets in real time - automatically copy their prediction market positions at configurable "
+        },
+        {
+          "full_name": "dotdrinker/polymarket-auto-trader",
+          "stars": 42,
+          "stars_per_day": 42,
+          "language": "Unknown",
+          "html_url": "https://github.com/dotdrinker/polymarket-auto-trader",
+          "description": "Fully autonomous 24/7 Polymarket trading bot - configure once, trade forever. Features auto-reinvestment, remote stop vi"
+        },
+        {
+          "full_name": "queenbtc69/polymarket-fast-trader",
+          "stars": 42,
+          "stars_per_day": 42,
+          "language": "Unknown",
+          "html_url": "https://github.com/queenbtc69/polymarket-fast-trader",
+          "description": "Latency-optimized Polymarket execution bot with sub-400ms order submission. Uses WebSocket feeds, persistent connections"
+        },
+        {
+          "full_name": "dinoethotter/polymarket-trade-bot",
+          "stars": 42,
+          "stars_per_day": 42,
+          "language": "Unknown",
+          "html_url": "https://github.com/dinoethotter/polymarket-trade-bot",
+          "description": "Automated trade execution bot for Polymarket - place and manage positions on prediction markets via CLOB API. Supports m"
+        },
+        {
+          "full_name": "123slothlord/polymarket-volume-bot",
+          "stars": 38,
+          "stars_per_day": 38,
+          "language": "Unknown",
+          "html_url": "https://github.com/123slothlord/polymarket-volume-bot",
+          "description": "Volume-based Polymarket trading bot - detects unusual volume spikes, momentum shifts, and accumulation patterns across p"
+        },
+        {
+          "full_name": "punkde99/polymarket-whale-bot",
+          "stars": 38,
+          "stars_per_day": 38,
+          "language": "Unknown",
+          "html_url": "https://github.com/punkde99/polymarket-whale-bot",
+          "description": "Polymarket whale tracking bot - monitors top-ranked wallets on Polygon blockchain in real time and alerts you when smart"
+        },
+        {
+          "full_name": "soldino777/polymarket-arb-bot",
+          "stars": 35,
+          "stars_per_day": 35,
+          "language": "Unknown",
+          "html_url": "https://github.com/soldino777/polymarket-arb-bot",
+          "description": "Automated cross-market arbitrage bot for Polymarket and Kalshi - detects price discrepancies on identical events and exe"
+        },
+        {
+          "full_name": "pandaboost/PhantomTrending",
+          "stars": 113,
+          "stars_per_day": 22.6,
+          "language": "JavaScript",
+          "html_url": "https://github.com/pandaboost/PhantomTrending",
+          "description": "Phantom Wallet Trending for your Solana token — Top 1-10 placement. From $1,200/6h. Instant delivery via PandaBoost API."
+        },
+        {
+          "full_name": "llllllilllll/Kalshi-Trade-Bot",
+          "stars": 80,
+          "stars_per_day": 16,
+          "language": "Unknown",
+          "html_url": "https://github.com/llllllilllll/Kalshi-Trade-Bot",
+          "description": "This is an arbitrage trading bot that exploits price differences between Polymarket and Kalshi prediction markets for 15"
+        },
+        {
+          "full_name": "xlev-v/Hyperliquid-Trading-Bot",
+          "stars": 79,
+          "stars_per_day": 15.8,
+          "language": "Unknown",
+          "html_url": "https://github.com/xlev-v/Hyperliquid-Trading-Bot",
+          "description": "Automated trading bot for Hyperliquid with three independent strategies — production-grade TypeScript, real-time WebSock"
+        },
+        {
+          "full_name": "booboomrtwix/Solana-FarmBot-2026",
+          "stars": 68,
+          "stars_per_day": 13.6,
+          "language": "TypeScript",
+          "html_url": "https://github.com/booboomrtwix/Solana-FarmBot-2026",
+          "description": "High-performance BIP-39 mnemonic recovery tool and cryptographic security auditor. Open-source framework for blockchain "
+        },
+        {
+          "full_name": "rakeshmiaqiivpvxg/uniswap-arbitrage-bot-2026",
+          "stars": 10,
+          "stars_per_day": 10,
+          "language": "Solidity",
+          "html_url": "https://github.com/rakeshmiaqiivpvxg/uniswap-arbitrage-bot-2026",
+          "description": "Uniswap V3 arbitrage bot 2026 – mempool sniper with real profits"
+        }
+      ],
+      "general": [
+        {
+          "full_name": "magnum6actual/flipoff",
+          "stars": 1361,
+          "stars_per_day": 1361,
+          "language": "JavaScript",
+          "html_url": "https://github.com/magnum6actual/flipoff",
+          "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware."
+        },
+        {
+          "full_name": "slavingia/skills",
+          "stars": 4522,
+          "stars_per_day": 1130.5,
+          "language": "Unknown",
+          "html_url": "https://github.com/slavingia/skills",
+          "description": "Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia"
+        },
+        {
+          "full_name": "HKUDS/OpenSpace",
+          "stars": 1487,
+          "stars_per_day": 495.7,
+          "language": "Python",
+          "html_url": "https://github.com/HKUDS/OpenSpace",
+          "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/"
+        },
+        {
+          "full_name": "alvinunreal/awesome-opensource-ai",
+          "stars": 1476,
+          "stars_per_day": 492,
+          "language": "Unknown",
+          "html_url": "https://github.com/alvinunreal/awesome-opensource-ai",
+          "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure."
+        },
+        {
+          "full_name": "elder-plinius/G0DM0D3",
+          "stars": 862,
+          "stars_per_day": 431,
+          "language": "TypeScript",
+          "html_url": "https://github.com/elder-plinius/G0DM0D3",
+          "description": "LIBERATED AI CHAT"
+        },
+        {
+          "full_name": "zarazhangrui/codebase-to-course",
+          "stars": 2086,
+          "stars_per_day": 417.2,
+          "language": "Unknown",
+          "html_url": "https://github.com/zarazhangrui/codebase-to-course",
+          "description": "A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe"
+        },
+        {
+          "full_name": "jxnxts/mcp-brasil",
+          "stars": 766,
+          "stars_per_day": 383,
+          "language": "Python",
+          "html_url": "https://github.com/jxnxts/mcp-brasil",
+          "description": "MCP Server para 27 APIs públicas brasileiras"
+        },
+        {
+          "full_name": "LimHyungTae/Awesome-PhD-CV",
+          "stars": 786,
+          "stars_per_day": 262,
+          "language": "TeX",
+          "html_url": "https://github.com/LimHyungTae/Awesome-PhD-CV",
+          "description": "Curated academic CV templates and guidelines for PhD students, researchers, and faculty job applicants."
+        },
+        {
+          "full_name": "marswaveai/TypeNo",
+          "stars": 726,
+          "stars_per_day": 242,
+          "language": "Swift",
+          "html_url": "https://github.com/marswaveai/TypeNo",
+          "description": "A free, open source, privacy-first voice input app for macOS."
+        },
+        {
+          "full_name": "opa334/darksword-kexploit",
+          "stars": 958,
+          "stars_per_day": 239.5,
+          "language": "Objective-C",
+          "html_url": "https://github.com/opa334/darksword-kexploit",
+          "description": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C"
+        },
+        {
+          "full_name": "nashsu/opencli-rs",
+          "stars": 896,
+          "stars_per_day": 224,
+          "language": "Rust",
+          "html_url": "https://github.com/nashsu/opencli-rs",
+          "description": "Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command."
+        },
+        {
+          "full_name": "GAIR-NLP/daVinci-MagiHuman",
+          "stars": 1021,
+          "stars_per_day": 204.2,
+          "language": "Python",
+          "html_url": "https://github.com/GAIR-NLP/daVinci-MagiHuman",
+          "description": "No description"
+        },
+        {
+          "full_name": "wong2/weixin-agent-sdk",
+          "stars": 933,
+          "stars_per_day": 186.6,
+          "language": "TypeScript",
+          "html_url": "https://github.com/wong2/weixin-agent-sdk",
+          "description": "微信Clawbot接入任意Agent"
+        },
+        {
+          "full_name": "fastclaw-ai/weclaw",
+          "stars": 836,
+          "stars_per_day": 167.2,
+          "language": "Go",
+          "html_url": "https://github.com/fastclaw-ai/weclaw",
+          "description": "Connect to any agents with WeChat ClawBot."
+        },
+        {
+          "full_name": "CoderLuii/HolyClaude",
+          "stars": 988,
+          "stars_per_day": 164.7,
+          "language": "Dockerfile",
+          "html_url": "https://github.com/CoderLuii/HolyClaude",
+          "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools"
+        }
+      ]
     }
   },
   "repos": {
@@ -7682,9 +8050,9 @@
     },
     "robbiecalvin/codexmaster": {
       "first_seen": "2026-03-23",
-      "last_seen": "2026-03-26",
-      "days_seen": 4,
-      "peak_stars": 59,
+      "last_seen": "2026-03-28",
+      "days_seen": 5,
+      "peak_stars": 63,
       "peak_spd": 54,
       "language": "HTML",
       "html_url": "https://github.com/robbiecalvin/codexmaster",
@@ -7702,9 +8070,9 @@
     },
     "krzysztofdudek/ResearcherSkill": {
       "first_seen": "2026-03-23",
-      "last_seen": "2026-03-27",
-      "days_seen": 7,
-      "peak_stars": 121,
+      "last_seen": "2026-03-28",
+      "days_seen": 8,
+      "peak_stars": 126,
       "peak_spd": 68,
       "language": "Unknown",
       "html_url": "https://github.com/krzysztofdudek/ResearcherSkill",
@@ -7872,8 +8240,8 @@
     },
     "pandaboost/PhantomTrending": {
       "first_seen": "2026-03-24",
-      "last_seen": "2026-03-27",
-      "days_seen": 6,
+      "last_seen": "2026-03-28",
+      "days_seen": 7,
       "peak_stars": 113,
       "peak_spd": 113,
       "language": "JavaScript",
@@ -7882,8 +8250,8 @@
     },
     "booboomrtwix/Solana-FarmBot-2026": {
       "first_seen": "2026-03-24",
-      "last_seen": "2026-03-27",
-      "days_seen": 6,
+      "last_seen": "2026-03-28",
+      "days_seen": 7,
       "peak_stars": 68,
       "peak_spd": 68,
       "language": "TypeScript",
@@ -7922,9 +8290,9 @@
     },
     "wong2/weixin-agent-sdk": {
       "first_seen": "2026-03-24",
-      "last_seen": "2026-03-27",
-      "days_seen": 5,
-      "peak_stars": 924,
+      "last_seen": "2026-03-28",
+      "days_seen": 6,
+      "peak_stars": 933,
       "peak_spd": 774,
       "language": "TypeScript",
       "html_url": "https://github.com/wong2/weixin-agent-sdk",
@@ -7972,9 +8340,9 @@
     },
     "WecoAI/awesome-autoresearch": {
       "first_seen": "2026-03-25",
-      "last_seen": "2026-03-27",
-      "days_seen": 5,
-      "peak_stars": 297,
+      "last_seen": "2026-03-28",
+      "days_seen": 6,
+      "peak_stars": 324,
       "peak_spd": 128.5,
       "language": "Unknown",
       "html_url": "https://github.com/WecoAI/awesome-autoresearch",
@@ -7982,9 +8350,9 @@
     },
     "yvgude/lean-ctx": {
       "first_seen": "2026-03-25",
-      "last_seen": "2026-03-27",
-      "days_seen": 5,
-      "peak_stars": 230,
+      "last_seen": "2026-03-28",
+      "days_seen": 6,
+      "peak_stars": 269,
       "peak_spd": 85.5,
       "language": "Rust",
       "html_url": "https://github.com/yvgude/lean-ctx",
@@ -8082,9 +8450,9 @@
     },
     "slavingia/skills": {
       "first_seen": "2026-03-25",
-      "last_seen": "2026-03-27",
-      "days_seen": 4,
-      "peak_stars": 3672,
+      "last_seen": "2026-03-28",
+      "days_seen": 5,
+      "peak_stars": 4522,
       "peak_spd": 1598,
       "language": "Unknown",
       "html_url": "https://github.com/slavingia/skills",
@@ -8092,9 +8460,9 @@
     },
     "opa334/darksword-kexploit": {
       "first_seen": "2026-03-25",
-      "last_seen": "2026-03-27",
-      "days_seen": 4,
-      "peak_stars": 896,
+      "last_seen": "2026-03-28",
+      "days_seen": 5,
+      "peak_stars": 958,
       "peak_spd": 572,
       "language": "Objective-C",
       "html_url": "https://github.com/opa334/darksword-kexploit",
@@ -8102,9 +8470,9 @@
     },
     "zarazhangrui/codebase-to-course": {
       "first_seen": "2026-03-25",
-      "last_seen": "2026-03-27",
-      "days_seen": 4,
-      "peak_stars": 1778,
+      "last_seen": "2026-03-28",
+      "days_seen": 5,
+      "peak_stars": 2086,
       "peak_spd": 566.5,
       "language": "Unknown",
       "html_url": "https://github.com/zarazhangrui/codebase-to-course",
@@ -8112,9 +8480,9 @@
     },
     "fastclaw-ai/weclaw": {
       "first_seen": "2026-03-25",
-      "last_seen": "2026-03-27",
-      "days_seen": 4,
-      "peak_stars": 780,
+      "last_seen": "2026-03-28",
+      "days_seen": 5,
+      "peak_stars": 836,
       "peak_spd": 321,
       "language": "Go",
       "html_url": "https://github.com/fastclaw-ai/weclaw",
@@ -8152,9 +8520,9 @@
     },
     "alvinunreal/awesome-opensource-ai": {
       "first_seen": "2026-03-26",
-      "last_seen": "2026-03-27",
-      "days_seen": 5,
-      "peak_stars": 1084,
+      "last_seen": "2026-03-28",
+      "days_seen": 7,
+      "peak_stars": 1476,
       "peak_spd": 542,
       "language": "Unknown",
       "html_url": "https://github.com/alvinunreal/awesome-opensource-ai",
@@ -8162,9 +8530,9 @@
     },
     "tanviet12/chat-quality-agent": {
       "first_seen": "2026-03-26",
-      "last_seen": "2026-03-27",
-      "days_seen": 4,
-      "peak_stars": 224,
+      "last_seen": "2026-03-28",
+      "days_seen": 5,
+      "peak_stars": 241,
       "peak_spd": 109.5,
       "language": "Go",
       "html_url": "https://github.com/tanviet12/chat-quality-agent",
@@ -8172,8 +8540,8 @@
     },
     "45645678a/scholar-mcp": {
       "first_seen": "2026-03-26",
-      "last_seen": "2026-03-27",
-      "days_seen": 4,
+      "last_seen": "2026-03-28",
+      "days_seen": 5,
       "peak_stars": 88,
       "peak_spd": 88,
       "language": "Python",
@@ -8182,9 +8550,9 @@
     },
     "maria-rcks/t1code": {
       "first_seen": "2026-03-26",
-      "last_seen": "2026-03-27",
-      "days_seen": 4,
-      "peak_stars": 171,
+      "last_seen": "2026-03-28",
+      "days_seen": 5,
+      "peak_stars": 199,
       "peak_spd": 171,
       "language": "TypeScript",
       "html_url": "https://github.com/maria-rcks/t1code",
@@ -8252,9 +8620,9 @@
     },
     "HKUDS/OpenSpace": {
       "first_seen": "2026-03-26",
-      "last_seen": "2026-03-27",
-      "days_seen": 3,
-      "peak_stars": 1312,
+      "last_seen": "2026-03-28",
+      "days_seen": 4,
+      "peak_stars": 1487,
       "peak_spd": 944,
       "language": "Python",
       "html_url": "https://github.com/HKUDS/OpenSpace",
@@ -8262,9 +8630,9 @@
     },
     "LimHyungTae/Awesome-PhD-CV": {
       "first_seen": "2026-03-26",
-      "last_seen": "2026-03-27",
-      "days_seen": 2,
-      "peak_stars": 720,
+      "last_seen": "2026-03-28",
+      "days_seen": 3,
+      "peak_stars": 786,
       "peak_spd": 643,
       "language": "TeX",
       "html_url": "https://github.com/LimHyungTae/Awesome-PhD-CV",
@@ -8272,9 +8640,9 @@
     },
     "GAIR-NLP/daVinci-MagiHuman": {
       "first_seen": "2026-03-26",
-      "last_seen": "2026-03-27",
-      "days_seen": 3,
-      "peak_stars": 949,
+      "last_seen": "2026-03-28",
+      "days_seen": 4,
+      "peak_stars": 1021,
       "peak_spd": 291.3,
       "language": "Python",
       "html_url": "https://github.com/GAIR-NLP/daVinci-MagiHuman",
@@ -8292,9 +8660,9 @@
     },
     "polymarket-dev/Polymarket-Arbitrage-Bot": {
       "first_seen": "2026-03-26",
-      "last_seen": "2026-03-27",
-      "days_seen": 3,
-      "peak_stars": 103,
+      "last_seen": "2026-03-28",
+      "days_seen": 4,
+      "peak_stars": 128,
       "peak_spd": 103,
       "language": "TypeScript",
       "html_url": "https://github.com/polymarket-dev/Polymarket-Arbitrage-Bot",
@@ -8302,29 +8670,29 @@
     },
     "edinetdb/dexter-jp": {
       "first_seen": "2026-03-27",
-      "last_seen": "2026-03-27",
-      "days_seen": 1,
-      "peak_stars": 76,
-      "peak_spd": 76,
+      "last_seen": "2026-03-28",
+      "days_seen": 2,
+      "peak_stars": 131,
+      "peak_spd": 131,
       "language": "TypeScript",
       "html_url": "https://github.com/edinetdb/dexter-jp",
       "description": "日本株の自律型リサーチAIエージェント｜AI agent for deep financial research on Japanese listed companies. Powered by EDINET DB + J-Quants."
     },
     "salespeak-ai/buyer-eval-skill": {
       "first_seen": "2026-03-27",
-      "last_seen": "2026-03-27",
-      "days_seen": 1,
-      "peak_stars": 40,
-      "peak_spd": 40,
+      "last_seen": "2026-03-28",
+      "days_seen": 2,
+      "peak_stars": 42,
+      "peak_spd": 42,
       "language": "Shell",
       "html_url": "https://github.com/salespeak-ai/buyer-eval-skill",
       "description": "B2B software vendor evaluation skill for Claude Code — domain-expert questions, vendor AI agent conversations, evidence-"
     },
     "dorringel/epsiclaw": {
       "first_seen": "2026-03-27",
-      "last_seen": "2026-03-27",
-      "days_seen": 1,
-      "peak_stars": 26,
+      "last_seen": "2026-03-28",
+      "days_seen": 2,
+      "peak_stars": 30,
       "peak_spd": 26,
       "language": "Python",
       "html_url": "https://github.com/dorringel/epsiclaw",
@@ -8332,9 +8700,9 @@
     },
     "OnlyTerp/turboquant": {
       "first_seen": "2026-03-27",
-      "last_seen": "2026-03-27",
-      "days_seen": 1,
-      "peak_stars": 25,
+      "last_seen": "2026-03-28",
+      "days_seen": 2,
+      "peak_stars": 35,
       "peak_spd": 25,
       "language": "Python",
       "html_url": "https://github.com/OnlyTerp/turboquant",
@@ -8372,9 +8740,9 @@
     },
     "nashsu/opencli-rs": {
       "first_seen": "2026-03-27",
-      "last_seen": "2026-03-27",
-      "days_seen": 1,
-      "peak_stars": 826,
+      "last_seen": "2026-03-28",
+      "days_seen": 2,
+      "peak_stars": 896,
       "peak_spd": 275.3,
       "language": "Rust",
       "html_url": "https://github.com/nashsu/opencli-rs",
@@ -8382,13 +8750,203 @@
     },
     "CoderLuii/HolyClaude": {
       "first_seen": "2026-03-27",
-      "last_seen": "2026-03-27",
-      "days_seen": 1,
-      "peak_stars": 788,
-      "peak_spd": 157.6,
+      "last_seen": "2026-03-28",
+      "days_seen": 2,
+      "peak_stars": 988,
+      "peak_spd": 164.7,
       "language": "Dockerfile",
       "html_url": "https://github.com/CoderLuii/HolyClaude",
       "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools"
+    },
+    "alvinunreal/awesome-openclaw": {
+      "first_seen": "2026-03-28",
+      "last_seen": "2026-03-28",
+      "days_seen": 1,
+      "peak_stars": 54,
+      "peak_spd": 54,
+      "language": "Unknown",
+      "html_url": "https://github.com/alvinunreal/awesome-openclaw",
+      "description": "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memor"
+    },
+    "EESJGong/Graph-CAD": {
+      "first_seen": "2026-03-28",
+      "last_seen": "2026-03-28",
+      "days_seen": 1,
+      "peak_stars": 36,
+      "peak_spd": 36,
+      "language": "Python",
+      "html_url": "https://github.com/EESJGong/Graph-CAD",
+      "description": "Learning Hierarchical and Geometry-Aware Graph Representations for Text-to-CAD"
+    },
+    "jameslemon2002/research-idea-explorer": {
+      "first_seen": "2026-03-28",
+      "last_seen": "2026-03-28",
+      "days_seen": 1,
+      "peak_stars": 50,
+      "peak_spd": 12.5,
+      "language": "JavaScript",
+      "html_url": "https://github.com/jameslemon2002/research-idea-explorer",
+      "description": "Literature-grounded research idea exploration for CLI agents. 文献驱动的研究选题与方向探索工具。"
+    },
+    "happyboy4ty25/pump-analyzer": {
+      "first_seen": "2026-03-28",
+      "last_seen": "2026-03-28",
+      "days_seen": 1,
+      "peak_stars": 389,
+      "peak_spd": 389,
+      "language": "Unknown",
+      "html_url": "https://github.com/happyboy4ty25/pump-analyzer",
+      "description": "Real-time monitoring & analytics platform for Pump.fun tokens. Track launches, analyze trends, and get instant alerts — "
+    },
+    "dealermemefi/polymarket-signal-bot": {
+      "first_seen": "2026-03-28",
+      "last_seen": "2026-03-28",
+      "days_seen": 1,
+      "peak_stars": 42,
+      "peak_spd": 42,
+      "language": "Unknown",
+      "html_url": "https://github.com/dealermemefi/polymarket-signal-bot",
+      "description": "Real-time Polymarket signal bot - detects order book imbalances, price velocity spikes, and smart money entries. Deliver"
+    },
+    "ethuncledealer/polymarket-copy-trader": {
+      "first_seen": "2026-03-28",
+      "last_seen": "2026-03-28",
+      "days_seen": 1,
+      "peak_stars": 42,
+      "peak_spd": 42,
+      "language": "Unknown",
+      "html_url": "https://github.com/ethuncledealer/polymarket-copy-trader",
+      "description": "Mirror top Polymarket whale wallets in real time - automatically copy their prediction market positions at configurable "
+    },
+    "dotdrinker/polymarket-auto-trader": {
+      "first_seen": "2026-03-28",
+      "last_seen": "2026-03-28",
+      "days_seen": 1,
+      "peak_stars": 42,
+      "peak_spd": 42,
+      "language": "Unknown",
+      "html_url": "https://github.com/dotdrinker/polymarket-auto-trader",
+      "description": "Fully autonomous 24/7 Polymarket trading bot - configure once, trade forever. Features auto-reinvestment, remote stop vi"
+    },
+    "queenbtc69/polymarket-fast-trader": {
+      "first_seen": "2026-03-28",
+      "last_seen": "2026-03-28",
+      "days_seen": 1,
+      "peak_stars": 42,
+      "peak_spd": 42,
+      "language": "Unknown",
+      "html_url": "https://github.com/queenbtc69/polymarket-fast-trader",
+      "description": "Latency-optimized Polymarket execution bot with sub-400ms order submission. Uses WebSocket feeds, persistent connections"
+    },
+    "dinoethotter/polymarket-trade-bot": {
+      "first_seen": "2026-03-28",
+      "last_seen": "2026-03-28",
+      "days_seen": 1,
+      "peak_stars": 42,
+      "peak_spd": 42,
+      "language": "Unknown",
+      "html_url": "https://github.com/dinoethotter/polymarket-trade-bot",
+      "description": "Automated trade execution bot for Polymarket - place and manage positions on prediction markets via CLOB API. Supports m"
+    },
+    "123slothlord/polymarket-volume-bot": {
+      "first_seen": "2026-03-28",
+      "last_seen": "2026-03-28",
+      "days_seen": 1,
+      "peak_stars": 38,
+      "peak_spd": 38,
+      "language": "Unknown",
+      "html_url": "https://github.com/123slothlord/polymarket-volume-bot",
+      "description": "Volume-based Polymarket trading bot - detects unusual volume spikes, momentum shifts, and accumulation patterns across p"
+    },
+    "punkde99/polymarket-whale-bot": {
+      "first_seen": "2026-03-28",
+      "last_seen": "2026-03-28",
+      "days_seen": 1,
+      "peak_stars": 38,
+      "peak_spd": 38,
+      "language": "Unknown",
+      "html_url": "https://github.com/punkde99/polymarket-whale-bot",
+      "description": "Polymarket whale tracking bot - monitors top-ranked wallets on Polygon blockchain in real time and alerts you when smart"
+    },
+    "soldino777/polymarket-arb-bot": {
+      "first_seen": "2026-03-28",
+      "last_seen": "2026-03-28",
+      "days_seen": 1,
+      "peak_stars": 35,
+      "peak_spd": 35,
+      "language": "Unknown",
+      "html_url": "https://github.com/soldino777/polymarket-arb-bot",
+      "description": "Automated cross-market arbitrage bot for Polymarket and Kalshi - detects price discrepancies on identical events and exe"
+    },
+    "llllllilllll/Kalshi-Trade-Bot": {
+      "first_seen": "2026-03-28",
+      "last_seen": "2026-03-28",
+      "days_seen": 1,
+      "peak_stars": 80,
+      "peak_spd": 16,
+      "language": "Unknown",
+      "html_url": "https://github.com/llllllilllll/Kalshi-Trade-Bot",
+      "description": "This is an arbitrage trading bot that exploits price differences between Polymarket and Kalshi prediction markets for 15"
+    },
+    "xlev-v/Hyperliquid-Trading-Bot": {
+      "first_seen": "2026-03-28",
+      "last_seen": "2026-03-28",
+      "days_seen": 1,
+      "peak_stars": 79,
+      "peak_spd": 15.8,
+      "language": "Unknown",
+      "html_url": "https://github.com/xlev-v/Hyperliquid-Trading-Bot",
+      "description": "Automated trading bot for Hyperliquid with three independent strategies — production-grade TypeScript, real-time WebSock"
+    },
+    "rakeshmiaqiivpvxg/uniswap-arbitrage-bot-2026": {
+      "first_seen": "2026-03-28",
+      "last_seen": "2026-03-28",
+      "days_seen": 1,
+      "peak_stars": 10,
+      "peak_spd": 10,
+      "language": "Solidity",
+      "html_url": "https://github.com/rakeshmiaqiivpvxg/uniswap-arbitrage-bot-2026",
+      "description": "Uniswap V3 arbitrage bot 2026 – mempool sniper with real profits"
+    },
+    "magnum6actual/flipoff": {
+      "first_seen": "2026-03-28",
+      "last_seen": "2026-03-28",
+      "days_seen": 1,
+      "peak_stars": 1361,
+      "peak_spd": 1361,
+      "language": "JavaScript",
+      "html_url": "https://github.com/magnum6actual/flipoff",
+      "description": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware."
+    },
+    "elder-plinius/G0DM0D3": {
+      "first_seen": "2026-03-28",
+      "last_seen": "2026-03-28",
+      "days_seen": 1,
+      "peak_stars": 862,
+      "peak_spd": 431,
+      "language": "TypeScript",
+      "html_url": "https://github.com/elder-plinius/G0DM0D3",
+      "description": "LIBERATED AI CHAT"
+    },
+    "jxnxts/mcp-brasil": {
+      "first_seen": "2026-03-28",
+      "last_seen": "2026-03-28",
+      "days_seen": 1,
+      "peak_stars": 766,
+      "peak_spd": 383,
+      "language": "Python",
+      "html_url": "https://github.com/jxnxts/mcp-brasil",
+      "description": "MCP Server para 27 APIs públicas brasileiras"
+    },
+    "marswaveai/TypeNo": {
+      "first_seen": "2026-03-28",
+      "last_seen": "2026-03-28",
+      "days_seen": 1,
+      "peak_stars": 726,
+      "peak_spd": 242,
+      "language": "Swift",
+      "html_url": "https://github.com/marswaveai/TypeNo",
+      "description": "A free, open source, privacy-first voice input app for macOS."
     }
   }
 }
