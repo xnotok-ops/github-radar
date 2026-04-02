@@ -7727,6 +7727,374 @@
           "description": "个人信息 “泄漏” 检测接口"
         }
       ]
+    },
+    "2026-04-02": {
+      "ai-llm": [
+        {
+          "full_name": "JackChen-me/open-multi-agent",
+          "stars": 2217,
+          "stars_per_day": 2217,
+          "language": "TypeScript",
+          "html_url": "https://github.com/JackChen-me/open-multi-agent",
+          "description": "Production-grade multi-agent orchestration framework. Model-agnostic, supports team collaboration, task scheduling, and "
+        },
+        {
+          "full_name": "lintsinghua/claude-code-book",
+          "stars": 1043,
+          "stars_per_day": 1043,
+          "language": "Unknown",
+          "html_url": "https://github.com/lintsinghua/claude-code-book",
+          "description": "42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站："
+        },
+        {
+          "full_name": "openedclaude/claude-reviews-claude",
+          "stars": 1030,
+          "stars_per_day": 1030,
+          "language": "Unknown",
+          "html_url": "https://github.com/openedclaude/claude-reviews-claude",
+          "description": "Claude reads its own source code — 17-chapter architectural deep-dive  into Claude Code v2.1.88. EN/ZH bilingual."
+        },
+        {
+          "full_name": "Windy3f3f3f3f/how-claude-code-works",
+          "stars": 1004,
+          "stars_per_day": 1004,
+          "language": "Unknown",
+          "html_url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
+          "description": "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构"
+        },
+        {
+          "full_name": "777genius/claude-code-source-code",
+          "stars": 808,
+          "stars_per_day": 808,
+          "language": "Unknown",
+          "html_url": "https://github.com/777genius/claude-code-source-code",
+          "description": "Claude code source code"
+        },
+        {
+          "full_name": "Windy3f3f3f3f/claude-code-from-scratch",
+          "stars": 565,
+          "stars_per_day": 565,
+          "language": "TypeScript",
+          "html_url": "https://github.com/Windy3f3f3f3f/claude-code-from-scratch",
+          "description": "Build your own coding agent from scratch in ~1300 lines of TypeScript. / 从零构建你自己的 Claude Code，~1300 行代码，分步教程"
+        },
+        {
+          "full_name": "dreddnafious/thereisnospoon",
+          "stars": 467,
+          "stars_per_day": 155.7,
+          "language": "Python",
+          "html_url": "https://github.com/dreddnafious/thereisnospoon",
+          "description": "A machine learning primer built from first principles. For engineers who want to reason about ML systems the way they re"
+        },
+        {
+          "full_name": "LeoYeAI/openclaw-auto-dream",
+          "stars": 553,
+          "stars_per_day": 138.3,
+          "language": "HTML",
+          "html_url": "https://github.com/LeoYeAI/openclaw-auto-dream",
+          "description": "Automatic memory consolidation for OpenClaw agents — like sleep for your AI. Powered by MyClaw.ai"
+        },
+        {
+          "full_name": "HKUDS/CatchMe",
+          "stars": 238,
+          "stars_per_day": 119,
+          "language": "Python",
+          "html_url": "https://github.com/HKUDS/CatchMe",
+          "description": "\"CatchMe: Make Your AI Agents Truly Personal\""
+        },
+        {
+          "full_name": "LiuMengxuan04/MiniCode",
+          "stars": 115,
+          "stars_per_day": 115,
+          "language": "TypeScript",
+          "html_url": "https://github.com/LiuMengxuan04/MiniCode",
+          "description": "A lightweight terminal coding assistant with Claude Code-like workflow, tool loop, and TUI architecture, built for learn"
+        },
+        {
+          "full_name": "alvinreal/awesome-openclaw",
+          "stars": 528,
+          "stars_per_day": 105.6,
+          "language": "Unknown",
+          "html_url": "https://github.com/alvinreal/awesome-openclaw",
+          "description": "A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memor"
+        },
+        {
+          "full_name": "noya21th/claude-source-leaked",
+          "stars": 85,
+          "stars_per_day": 85,
+          "language": "TypeScript",
+          "html_url": "https://github.com/noya21th/claude-source-leaked",
+          "description": "Claude Code v2.1.88 source analysis: system prompts, 87 hidden feature flags, cost optimization, architecture diagrams, "
+        },
+        {
+          "full_name": "Shanyin-ai/shanyin-screenwriting-master",
+          "stars": 84,
+          "stars_per_day": 84,
+          "language": "Unknown",
+          "html_url": "https://github.com/Shanyin-ai/shanyin-screenwriting-master",
+          "description": "山音超级编剧大师——由 @山音 设计的全格式影视编剧技能。 覆盖从1-3分钟概念超短片到90分钟电影长片、多集剧集的全格式剧本创作。 支持四种格式：概念超短片（how-to-tell/what-if）、5-10分钟叙事短片、90分钟长片（商"
+        },
+        {
+          "full_name": "LearnPrompt/cc-harness-skills",
+          "stars": 77,
+          "stars_per_day": 77,
+          "language": "Python",
+          "html_url": "https://github.com/LearnPrompt/cc-harness-skills",
+          "description": "Portable CC-inspired skills for memory, verification, multi-agent coordination, context compression, and proactive codin"
+        },
+        {
+          "full_name": "zhijiewong/openharness",
+          "stars": 41,
+          "stars_per_day": 41,
+          "language": "TypeScript",
+          "html_url": "https://github.com/zhijiewong/openharness",
+          "description": "Open-source agent harness framework — build your own terminal cli with any LLM"
+        }
+      ],
+      "crypto-web3": [
+        {
+          "full_name": "happyboy4ty25/pump-analyzer",
+          "stars": 518,
+          "stars_per_day": 103.6,
+          "language": "Unknown",
+          "html_url": "https://github.com/happyboy4ty25/pump-analyzer",
+          "description": "Real-time monitoring & analytics platform for Pump.fun tokens. Track launches, analyze trends, and get instant alerts — "
+        },
+        {
+          "full_name": "solana-sniper-tool/solana-sniper-tool",
+          "stars": 51,
+          "stars_per_day": 51,
+          "language": "Unknown",
+          "html_url": "https://github.com/solana-sniper-tool/solana-sniper-tool",
+          "description": "Lightning-fast Solana sniper tool for memecoins. Real-time trading with AI automation. 💎"
+        },
+        {
+          "full_name": "PhantomSnipers/solana-memecoin-sniper-bot",
+          "stars": 14,
+          "stars_per_day": 14,
+          "language": "JavaScript",
+          "html_url": "https://github.com/PhantomSnipers/solana-memecoin-sniper-bot",
+          "description": "⚡ High-performance Solana sniper bot for memecoins. web-based, optimized for Raydium and Jupiter DEX."
+        },
+        {
+          "full_name": "solana-snipe-bot/Free-SolanaSniperBot-2026-MemecoinAutoTrader",
+          "stars": 42,
+          "stars_per_day": 10.5,
+          "language": "JavaScript",
+          "html_url": "https://github.com/solana-snipe-bot/Free-SolanaSniperBot-2026-MemecoinAutoTrader",
+          "description": "💎 The best premium Solana Sniper Bot in 2026 | Memecoin Automatic Trader Bot/Tool | Free Sol Sniper Github"
+        },
+        {
+          "full_name": "geckopunk1337/polymarket-backtester",
+          "stars": 22,
+          "stars_per_day": 7.3,
+          "language": "Python",
+          "html_url": "https://github.com/geckopunk1337/polymarket-backtester",
+          "description": "No description"
+        },
+        {
+          "full_name": "geckoape99/kalshi-autosniper-bot",
+          "stars": 22,
+          "stars_per_day": 7.3,
+          "language": "Python",
+          "html_url": "https://github.com/geckoape99/kalshi-autosniper-bot",
+          "description": "First-entry automation bot for Kalshi. Detects new market listings the moment they appear in the API and enters within s"
+        },
+        {
+          "full_name": "cobra0xbear/polymarket-kelly-sizer",
+          "stars": 20,
+          "stars_per_day": 6.7,
+          "language": "Python",
+          "html_url": "https://github.com/cobra0xbear/polymarket-kelly-sizer",
+          "description": "Kelly criterion position sizing calculator and trade executor for Polymarket. Computes optimal USDC per trade from your "
+        },
+        {
+          "full_name": "batneo666/polymarket-sniper-bot",
+          "stars": 19,
+          "stars_per_day": 6.3,
+          "language": "Python",
+          "html_url": "https://github.com/batneo666/polymarket-sniper-bot",
+          "description": "First-entry automation bot for Polymarket. Detects new market listings the moment they appear on-chain and enters within"
+        },
+        {
+          "full_name": "bullhappy777/kalshi-resolution-tracker",
+          "stars": 17,
+          "stars_per_day": 5.7,
+          "language": "Python",
+          "html_url": "https://github.com/bullhappy777/kalshi-resolution-tracker",
+          "description": "Settlement monitoring tool for Kalshi. Tracks all open contracts across multiple accounts, sends Telegram alerts before "
+        },
+        {
+          "full_name": "bullcrab666/polymarket-resolution-tracker",
+          "stars": 16,
+          "stars_per_day": 5.3,
+          "language": "Python",
+          "html_url": "https://github.com/bullcrab666/polymarket-resolution-tracker",
+          "description": "Resolution monitoring and payout management tool for Polymarket. Tracks all open positions across multiple wallets, send"
+        },
+        {
+          "full_name": "foxchain99/polymarket-sentiment-bot",
+          "stars": 15,
+          "stars_per_day": 5,
+          "language": "Python",
+          "html_url": "https://github.com/foxchain99/polymarket-sentiment-bot",
+          "description": "Multi-source social sentiment bot for Polymarket. Monitors Twitter/X, Reddit, and Telegram in real time, scores sentimen"
+        },
+        {
+          "full_name": "CierreBandotiger/Bitcoin_Finder_Tool",
+          "stars": 5,
+          "stars_per_day": 5,
+          "language": "Unknown",
+          "html_url": "https://github.com/CierreBandotiger/Bitcoin_Finder_Tool",
+          "description": "No description"
+        },
+        {
+          "full_name": "robotking5000/polymarket-news-trader",
+          "stars": 14,
+          "stars_per_day": 4.7,
+          "language": "Python",
+          "html_url": "https://github.com/robotking5000/polymarket-news-trader",
+          "description": "No description"
+        },
+        {
+          "full_name": "Zaneham/cobol-bitcoin-miner",
+          "stars": 4,
+          "stars_per_day": 4,
+          "language": "COBOL",
+          "html_url": "https://github.com/Zaneham/cobol-bitcoin-miner",
+          "description": "Enterprise-grade blockchain mining solution for IBM z/Architecture. ~100 H/s. Estimated time to mine one block: 19 billi"
+        },
+        {
+          "full_name": "Adel-Ayoub/vrf-pbft",
+          "stars": 7,
+          "stars_per_day": 3.5,
+          "language": "Rust",
+          "html_url": "https://github.com/Adel-Ayoub/vrf-pbft",
+          "description": "VRF-enhanced PBFT consensus protocol"
+        }
+      ],
+      "general": [
+        {
+          "full_name": "ultraworkers/claw-code",
+          "stars": 126500,
+          "stars_per_day": 126500,
+          "language": "Rust",
+          "html_url": "https://github.com/ultraworkers/claw-code",
+          "description": "The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust usin"
+        },
+        {
+          "full_name": "sanbuphy/learn-coding-agent",
+          "stars": 10678,
+          "stars_per_day": 10678,
+          "language": "Unknown",
+          "html_url": "https://github.com/sanbuphy/learn-coding-agent",
+          "description": "Research on Coding Agents"
+        },
+        {
+          "full_name": "claude-code-best/claude-code",
+          "stars": 8315,
+          "stars_per_day": 8315,
+          "language": "TypeScript",
+          "html_url": "https://github.com/claude-code-best/claude-code",
+          "description": "原汁原昧 Claude Code 可运行,可构建版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动"
+        },
+        {
+          "full_name": "ChinaSiro/claude-code-sourcemap",
+          "stars": 7518,
+          "stars_per_day": 7518,
+          "language": "TypeScript",
+          "html_url": "https://github.com/ChinaSiro/claude-code-sourcemap",
+          "description": "No description"
+        },
+        {
+          "full_name": "Kuberwastaken/claurst",
+          "stars": 6723,
+          "stars_per_day": 6723,
+          "language": "Rust",
+          "html_url": "https://github.com/Kuberwastaken/claurst",
+          "description": "Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries"
+        },
+        {
+          "full_name": "openai/codex-plugin-cc",
+          "stars": 8848,
+          "stars_per_day": 4424,
+          "language": "JavaScript",
+          "html_url": "https://github.com/openai/codex-plugin-cc",
+          "description": "Use Codex from Claude Code to review code or delegate tasks."
+        },
+        {
+          "full_name": "Gitlawb/openclaude",
+          "stars": 3958,
+          "stars_per_day": 3958,
+          "language": "TypeScript",
+          "html_url": "https://github.com/Gitlawb/openclaude",
+          "description": "Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim"
+        },
+        {
+          "full_name": "tvytlx/ai-agent-deep-dive",
+          "stars": 3341,
+          "stars_per_day": 3341,
+          "language": "Unknown",
+          "html_url": "https://github.com/tvytlx/ai-agent-deep-dive",
+          "description": "AI Agent 源码深度研究报告"
+        },
+        {
+          "full_name": "NanmiCoder/claude-code-haha",
+          "stars": 3226,
+          "stars_per_day": 3226,
+          "language": "TypeScript",
+          "html_url": "https://github.com/NanmiCoder/claude-code-haha",
+          "description": "Claude Code leaked source - locally runnable version"
+        },
+        {
+          "full_name": "titanwings/colleague-skill",
+          "stars": 4775,
+          "stars_per_day": 2387.5,
+          "language": "Python",
+          "html_url": "https://github.com/titanwings/colleague-skill",
+          "description": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital "
+        },
+        {
+          "full_name": "JackChen-me/open-multi-agent",
+          "stars": 2217,
+          "stars_per_day": 2217,
+          "language": "TypeScript",
+          "html_url": "https://github.com/JackChen-me/open-multi-agent",
+          "description": "Production-grade multi-agent orchestration framework. Model-agnostic, supports team collaboration, task scheduling, and "
+        },
+        {
+          "full_name": "oboard/claude-code-rev",
+          "stars": 2168,
+          "stars_per_day": 2168,
+          "language": "TypeScript",
+          "html_url": "https://github.com/oboard/claude-code-rev",
+          "description": "Runnable ClaudeCode source code"
+        },
+        {
+          "full_name": "codeany-ai/open-agent-sdk-typescript",
+          "stars": 1971,
+          "stars_per_day": 1971,
+          "language": "TypeScript",
+          "html_url": "https://github.com/codeany-ai/open-agent-sdk-typescript",
+          "description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source"
+        },
+        {
+          "full_name": "emdash-cms/emdash",
+          "stars": 1915,
+          "stars_per_day": 1915,
+          "language": "TypeScript",
+          "html_url": "https://github.com/emdash-cms/emdash",
+          "description": "No description"
+        },
+        {
+          "full_name": "drona23/claude-token-efficient",
+          "stars": 2110,
+          "stars_per_day": 1055,
+          "language": "Unknown",
+          "html_url": "https://github.com/drona23/claude-token-efficient",
+          "description": "One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes."
+        }
+      ]
     }
   },
   "repos": {
@@ -10262,8 +10630,8 @@
     },
     "happyboy4ty25/pump-analyzer": {
       "first_seen": "2026-03-28",
-      "last_seen": "2026-04-01",
-      "days_seen": 5,
+      "last_seen": "2026-04-02",
+      "days_seen": 6,
       "peak_stars": 518,
       "peak_spd": 516,
       "language": "Unknown",
@@ -10472,8 +10840,8 @@
     },
     "solana-snipe-bot/Free-SolanaSniperBot-2026-MemecoinAutoTrader": {
       "first_seen": "2026-03-29",
-      "last_seen": "2026-04-01",
-      "days_seen": 4,
+      "last_seen": "2026-04-02",
+      "days_seen": 5,
       "peak_stars": 45,
       "peak_spd": 45,
       "language": "JavaScript",
@@ -10552,9 +10920,9 @@
     },
     "dreddnafious/thereisnospoon": {
       "first_seen": "2026-03-30",
-      "last_seen": "2026-04-01",
-      "days_seen": 3,
-      "peak_stars": 416,
+      "last_seen": "2026-04-02",
+      "days_seen": 4,
+      "peak_stars": 467,
       "peak_spd": 383,
       "language": "Python",
       "html_url": "https://github.com/dreddnafious/thereisnospoon",
@@ -10632,8 +11000,8 @@
     },
     "LeoYeAI/openclaw-auto-dream": {
       "first_seen": "2026-03-31",
-      "last_seen": "2026-04-01",
-      "days_seen": 2,
+      "last_seen": "2026-04-02",
+      "days_seen": 3,
       "peak_stars": 586,
       "peak_spd": 244,
       "language": "HTML",
@@ -10642,9 +11010,9 @@
     },
     "HKUDS/CatchMe": {
       "first_seen": "2026-03-31",
-      "last_seen": "2026-04-01",
-      "days_seen": 2,
-      "peak_stars": 189,
+      "last_seen": "2026-04-02",
+      "days_seen": 3,
+      "peak_stars": 238,
       "peak_spd": 189,
       "language": "Python",
       "html_url": "https://github.com/HKUDS/CatchMe",
@@ -10682,8 +11050,8 @@
     },
     "Adel-Ayoub/vrf-pbft": {
       "first_seen": "2026-03-31",
-      "last_seen": "2026-04-01",
-      "days_seen": 2,
+      "last_seen": "2026-04-02",
+      "days_seen": 3,
       "peak_stars": 7,
       "peak_spd": 7,
       "language": "Rust",
@@ -10732,9 +11100,9 @@
     },
     "openai/codex-plugin-cc": {
       "first_seen": "2026-03-31",
-      "last_seen": "2026-04-01",
-      "days_seen": 2,
-      "peak_stars": 6048,
+      "last_seen": "2026-04-02",
+      "days_seen": 3,
+      "peak_stars": 8848,
       "peak_spd": 6048,
       "language": "JavaScript",
       "html_url": "https://github.com/openai/codex-plugin-cc",
@@ -10742,9 +11110,9 @@
     },
     "titanwings/colleague-skill": {
       "first_seen": "2026-03-31",
-      "last_seen": "2026-04-01",
-      "days_seen": 2,
-      "peak_stars": 3741,
+      "last_seen": "2026-04-02",
+      "days_seen": 3,
+      "peak_stars": 4775,
       "peak_spd": 3741,
       "language": "Python",
       "html_url": "https://github.com/titanwings/colleague-skill",
@@ -10802,29 +11170,29 @@
     },
     "lintsinghua/claude-code-book": {
       "first_seen": "2026-04-01",
-      "last_seen": "2026-04-01",
-      "days_seen": 1,
-      "peak_stars": 402,
-      "peak_spd": 402,
+      "last_seen": "2026-04-02",
+      "days_seen": 2,
+      "peak_stars": 1043,
+      "peak_spd": 1043,
       "language": "Unknown",
       "html_url": "https://github.com/lintsinghua/claude-code-book",
       "description": "拆解 AI Agent 的骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站："
     },
     "777genius/claude-code-source-code": {
       "first_seen": "2026-04-01",
-      "last_seen": "2026-04-01",
-      "days_seen": 1,
-      "peak_stars": 282,
-      "peak_spd": 282,
+      "last_seen": "2026-04-02",
+      "days_seen": 2,
+      "peak_stars": 808,
+      "peak_spd": 808,
       "language": "TypeScript",
       "html_url": "https://github.com/777genius/claude-code-source-code",
       "description": "Claude code source code"
     },
     "alvinreal/awesome-openclaw": {
       "first_seen": "2026-04-01",
-      "last_seen": "2026-04-01",
-      "days_seen": 1,
-      "peak_stars": 474,
+      "last_seen": "2026-04-02",
+      "days_seen": 2,
+      "peak_stars": 528,
       "peak_spd": 118.5,
       "language": "Unknown",
       "html_url": "https://github.com/alvinreal/awesome-openclaw",
@@ -10832,10 +11200,10 @@
     },
     "noya21th/claude-source-leaked": {
       "first_seen": "2026-04-01",
-      "last_seen": "2026-04-01",
-      "days_seen": 1,
-      "peak_stars": 51,
-      "peak_spd": 51,
+      "last_seen": "2026-04-02",
+      "days_seen": 2,
+      "peak_stars": 85,
+      "peak_spd": 85,
       "language": "TypeScript",
       "html_url": "https://github.com/noya21th/claude-source-leaked",
       "description": "Claude Code v2.1.88 source analysis: system prompts, 87 hidden feature flags, cost optimization, architecture diagrams, "
@@ -10852,18 +11220,18 @@
     },
     "solana-sniper-tool/solana-sniper-tool": {
       "first_seen": "2026-04-01",
-      "last_seen": "2026-04-01",
-      "days_seen": 1,
-      "peak_stars": 32,
-      "peak_spd": 32,
+      "last_seen": "2026-04-02",
+      "days_seen": 2,
+      "peak_stars": 51,
+      "peak_spd": 51,
       "language": "Unknown",
       "html_url": "https://github.com/solana-sniper-tool/solana-sniper-tool",
       "description": "Lightning-fast Solana sniper tool for memecoins. Real-time trading with AI automation. 💎"
     },
     "PhantomSnipers/solana-memecoin-sniper-bot": {
       "first_seen": "2026-04-01",
-      "last_seen": "2026-04-01",
-      "days_seen": 1,
+      "last_seen": "2026-04-02",
+      "days_seen": 2,
       "peak_stars": 25,
       "peak_spd": 25,
       "language": "JavaScript",
@@ -10872,8 +11240,8 @@
     },
     "Zaneham/cobol-bitcoin-miner": {
       "first_seen": "2026-04-01",
-      "last_seen": "2026-04-01",
-      "days_seen": 1,
+      "last_seen": "2026-04-02",
+      "days_seen": 2,
       "peak_stars": 4,
       "peak_spd": 4,
       "language": "COBOL",
@@ -10902,10 +11270,10 @@
     },
     "ChinaSiro/claude-code-sourcemap": {
       "first_seen": "2026-04-01",
-      "last_seen": "2026-04-01",
-      "days_seen": 1,
-      "peak_stars": 5845,
-      "peak_spd": 5845,
+      "last_seen": "2026-04-02",
+      "days_seen": 2,
+      "peak_stars": 7518,
+      "peak_spd": 7518,
       "language": "TypeScript",
       "html_url": "https://github.com/ChinaSiro/claude-code-sourcemap",
       "description": "No description"
@@ -10922,19 +11290,19 @@
     },
     "claude-code-best/claude-code": {
       "first_seen": "2026-04-01",
-      "last_seen": "2026-04-01",
-      "days_seen": 1,
-      "peak_stars": 3500,
-      "peak_spd": 3500,
+      "last_seen": "2026-04-02",
+      "days_seen": 2,
+      "peak_stars": 8315,
+      "peak_spd": 8315,
       "language": "TypeScript",
       "html_url": "https://github.com/claude-code-best/claude-code",
       "description": "原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动"
     },
     "drona23/claude-token-efficient": {
       "first_seen": "2026-04-01",
-      "last_seen": "2026-04-01",
-      "days_seen": 1,
-      "peak_stars": 1690,
+      "last_seen": "2026-04-02",
+      "days_seen": 2,
+      "peak_stars": 2110,
       "peak_spd": 1690,
       "language": "Unknown",
       "html_url": "https://github.com/drona23/claude-token-efficient",
@@ -10962,13 +11330,263 @@
     },
     "oboard/claude-code-rev": {
       "first_seen": "2026-04-01",
-      "last_seen": "2026-04-01",
-      "days_seen": 1,
-      "peak_stars": 1381,
-      "peak_spd": 1381,
+      "last_seen": "2026-04-02",
+      "days_seen": 2,
+      "peak_stars": 2168,
+      "peak_spd": 2168,
       "language": "TypeScript",
       "html_url": "https://github.com/oboard/claude-code-rev",
       "description": "Runnable ClaudeCode source code"
+    },
+    "JackChen-me/open-multi-agent": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 2,
+      "peak_stars": 2217,
+      "peak_spd": 2217,
+      "language": "TypeScript",
+      "html_url": "https://github.com/JackChen-me/open-multi-agent",
+      "description": "Production-grade multi-agent orchestration framework. Model-agnostic, supports team collaboration, task scheduling, and "
+    },
+    "openedclaude/claude-reviews-claude": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 1,
+      "peak_stars": 1030,
+      "peak_spd": 1030,
+      "language": "Unknown",
+      "html_url": "https://github.com/openedclaude/claude-reviews-claude",
+      "description": "Claude reads its own source code — 17-chapter architectural deep-dive  into Claude Code v2.1.88. EN/ZH bilingual."
+    },
+    "Windy3f3f3f3f/how-claude-code-works": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 1,
+      "peak_stars": 1004,
+      "peak_spd": 1004,
+      "language": "Unknown",
+      "html_url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
+      "description": "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构"
+    },
+    "Windy3f3f3f3f/claude-code-from-scratch": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 1,
+      "peak_stars": 565,
+      "peak_spd": 565,
+      "language": "TypeScript",
+      "html_url": "https://github.com/Windy3f3f3f3f/claude-code-from-scratch",
+      "description": "Build your own coding agent from scratch in ~1300 lines of TypeScript. / 从零构建你自己的 Claude Code，~1300 行代码，分步教程"
+    },
+    "LiuMengxuan04/MiniCode": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 1,
+      "peak_stars": 115,
+      "peak_spd": 115,
+      "language": "TypeScript",
+      "html_url": "https://github.com/LiuMengxuan04/MiniCode",
+      "description": "A lightweight terminal coding assistant with Claude Code-like workflow, tool loop, and TUI architecture, built for learn"
+    },
+    "Shanyin-ai/shanyin-screenwriting-master": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 1,
+      "peak_stars": 84,
+      "peak_spd": 84,
+      "language": "Unknown",
+      "html_url": "https://github.com/Shanyin-ai/shanyin-screenwriting-master",
+      "description": "山音超级编剧大师——由 @山音 设计的全格式影视编剧技能。 覆盖从1-3分钟概念超短片到90分钟电影长片、多集剧集的全格式剧本创作。 支持四种格式：概念超短片（how-to-tell/what-if）、5-10分钟叙事短片、90分钟长片（商"
+    },
+    "LearnPrompt/cc-harness-skills": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 1,
+      "peak_stars": 77,
+      "peak_spd": 77,
+      "language": "Python",
+      "html_url": "https://github.com/LearnPrompt/cc-harness-skills",
+      "description": "Portable CC-inspired skills for memory, verification, multi-agent coordination, context compression, and proactive codin"
+    },
+    "zhijiewong/openharness": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 1,
+      "peak_stars": 41,
+      "peak_spd": 41,
+      "language": "TypeScript",
+      "html_url": "https://github.com/zhijiewong/openharness",
+      "description": "Open-source agent harness framework — build your own terminal cli with any LLM"
+    },
+    "geckopunk1337/polymarket-backtester": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 1,
+      "peak_stars": 22,
+      "peak_spd": 7.3,
+      "language": "Python",
+      "html_url": "https://github.com/geckopunk1337/polymarket-backtester",
+      "description": "No description"
+    },
+    "geckoape99/kalshi-autosniper-bot": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 1,
+      "peak_stars": 22,
+      "peak_spd": 7.3,
+      "language": "Python",
+      "html_url": "https://github.com/geckoape99/kalshi-autosniper-bot",
+      "description": "First-entry automation bot for Kalshi. Detects new market listings the moment they appear in the API and enters within s"
+    },
+    "cobra0xbear/polymarket-kelly-sizer": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 1,
+      "peak_stars": 20,
+      "peak_spd": 6.7,
+      "language": "Python",
+      "html_url": "https://github.com/cobra0xbear/polymarket-kelly-sizer",
+      "description": "Kelly criterion position sizing calculator and trade executor for Polymarket. Computes optimal USDC per trade from your "
+    },
+    "batneo666/polymarket-sniper-bot": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 1,
+      "peak_stars": 19,
+      "peak_spd": 6.3,
+      "language": "Python",
+      "html_url": "https://github.com/batneo666/polymarket-sniper-bot",
+      "description": "First-entry automation bot for Polymarket. Detects new market listings the moment they appear on-chain and enters within"
+    },
+    "bullhappy777/kalshi-resolution-tracker": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 1,
+      "peak_stars": 17,
+      "peak_spd": 5.7,
+      "language": "Python",
+      "html_url": "https://github.com/bullhappy777/kalshi-resolution-tracker",
+      "description": "Settlement monitoring tool for Kalshi. Tracks all open contracts across multiple accounts, sends Telegram alerts before "
+    },
+    "bullcrab666/polymarket-resolution-tracker": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 1,
+      "peak_stars": 16,
+      "peak_spd": 5.3,
+      "language": "Python",
+      "html_url": "https://github.com/bullcrab666/polymarket-resolution-tracker",
+      "description": "Resolution monitoring and payout management tool for Polymarket. Tracks all open positions across multiple wallets, send"
+    },
+    "foxchain99/polymarket-sentiment-bot": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 1,
+      "peak_stars": 15,
+      "peak_spd": 5,
+      "language": "Python",
+      "html_url": "https://github.com/foxchain99/polymarket-sentiment-bot",
+      "description": "Multi-source social sentiment bot for Polymarket. Monitors Twitter/X, Reddit, and Telegram in real time, scores sentimen"
+    },
+    "CierreBandotiger/Bitcoin_Finder_Tool": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 1,
+      "peak_stars": 5,
+      "peak_spd": 5,
+      "language": "Unknown",
+      "html_url": "https://github.com/CierreBandotiger/Bitcoin_Finder_Tool",
+      "description": "No description"
+    },
+    "robotking5000/polymarket-news-trader": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 1,
+      "peak_stars": 14,
+      "peak_spd": 4.7,
+      "language": "Python",
+      "html_url": "https://github.com/robotking5000/polymarket-news-trader",
+      "description": "No description"
+    },
+    "ultraworkers/claw-code": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 1,
+      "peak_stars": 126500,
+      "peak_spd": 126500,
+      "language": "Rust",
+      "html_url": "https://github.com/ultraworkers/claw-code",
+      "description": "The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust usin"
+    },
+    "sanbuphy/learn-coding-agent": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 1,
+      "peak_stars": 10678,
+      "peak_spd": 10678,
+      "language": "Unknown",
+      "html_url": "https://github.com/sanbuphy/learn-coding-agent",
+      "description": "Research on Coding Agents"
+    },
+    "Kuberwastaken/claurst": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 1,
+      "peak_stars": 6723,
+      "peak_spd": 6723,
+      "language": "Rust",
+      "html_url": "https://github.com/Kuberwastaken/claurst",
+      "description": "Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries"
+    },
+    "Gitlawb/openclaude": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 1,
+      "peak_stars": 3958,
+      "peak_spd": 3958,
+      "language": "TypeScript",
+      "html_url": "https://github.com/Gitlawb/openclaude",
+      "description": "Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim"
+    },
+    "tvytlx/ai-agent-deep-dive": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 1,
+      "peak_stars": 3341,
+      "peak_spd": 3341,
+      "language": "Unknown",
+      "html_url": "https://github.com/tvytlx/ai-agent-deep-dive",
+      "description": "AI Agent 源码深度研究报告"
+    },
+    "NanmiCoder/claude-code-haha": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 1,
+      "peak_stars": 3226,
+      "peak_spd": 3226,
+      "language": "TypeScript",
+      "html_url": "https://github.com/NanmiCoder/claude-code-haha",
+      "description": "Claude Code leaked source - locally runnable version"
+    },
+    "codeany-ai/open-agent-sdk-typescript": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 1,
+      "peak_stars": 1971,
+      "peak_spd": 1971,
+      "language": "TypeScript",
+      "html_url": "https://github.com/codeany-ai/open-agent-sdk-typescript",
+      "description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source"
+    },
+    "emdash-cms/emdash": {
+      "first_seen": "2026-04-02",
+      "last_seen": "2026-04-02",
+      "days_seen": 1,
+      "peak_stars": 1915,
+      "peak_spd": 1915,
+      "language": "TypeScript",
+      "html_url": "https://github.com/emdash-cms/emdash",
+      "description": "No description"
     }
   }
 }
