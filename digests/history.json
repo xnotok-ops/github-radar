@@ -8095,6 +8095,374 @@
           "description": "One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes."
         }
       ]
+    },
+    "2026-04-03": {
+      "ai-llm": [
+        {
+          "full_name": "JackChen-me/open-multi-agent",
+          "stars": 2763,
+          "stars_per_day": 1381.5,
+          "language": "TypeScript",
+          "html_url": "https://github.com/JackChen-me/open-multi-agent",
+          "description": "Lightweight multi-agent framework — describe a goal, the framework auto-decomposes it into tasks and runs them in parall"
+        },
+        {
+          "full_name": "lintsinghua/claude-code-book",
+          "stars": 1459,
+          "stars_per_day": 729.5,
+          "language": "Unknown",
+          "html_url": "https://github.com/lintsinghua/claude-code-book",
+          "description": "42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站："
+        },
+        {
+          "full_name": "Windy3f3f3f3f/how-claude-code-works",
+          "stars": 1240,
+          "stars_per_day": 620,
+          "language": "Unknown",
+          "html_url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
+          "description": "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构"
+        },
+        {
+          "full_name": "openedclaude/claude-reviews-claude",
+          "stars": 1126,
+          "stars_per_day": 563,
+          "language": "Unknown",
+          "html_url": "https://github.com/openedclaude/claude-reviews-claude",
+          "description": "Claude reads its own source code — 17-chapter architectural deep-dive  into Claude Code v2.1.88. EN/ZH bilingual."
+        },
+        {
+          "full_name": "777genius/claude-code-source-code",
+          "stars": 847,
+          "stars_per_day": 423.5,
+          "language": "Unknown",
+          "html_url": "https://github.com/777genius/claude-code-source-code",
+          "description": "Claude code source code"
+        },
+        {
+          "full_name": "Windy3f3f3f3f/claude-code-from-scratch",
+          "stars": 650,
+          "stars_per_day": 325,
+          "language": "TypeScript",
+          "html_url": "https://github.com/Windy3f3f3f3f/claude-code-from-scratch",
+          "description": "🔍 Claude Code 开源了 50 万行代码，读不动？用 ~3000 行 TypeScript 从零复现核心架构，11 章分步教程带你理解 coding agent 精髓。Build your own Claude Code fro"
+        },
+        {
+          "full_name": "LeoYeAI/MyClaw",
+          "stars": 190,
+          "stars_per_day": 190,
+          "language": "Unknown",
+          "html_url": "https://github.com/LeoYeAI/MyClaw",
+          "description": "Your personal AI server. Full code control. Unlimited possibilities. Powered by MyClaw.ai"
+        },
+        {
+          "full_name": "dreddnafious/thereisnospoon",
+          "stars": 512,
+          "stars_per_day": 128,
+          "language": "Python",
+          "html_url": "https://github.com/dreddnafious/thereisnospoon",
+          "description": "A machine learning primer built from first principles. For engineers who want to reason about ML systems the way they re"
+        },
+        {
+          "full_name": "LeoYeAI/openclaw-auto-dream",
+          "stars": 621,
+          "stars_per_day": 124.2,
+          "language": "HTML",
+          "html_url": "https://github.com/LeoYeAI/openclaw-auto-dream",
+          "description": "Automatic memory consolidation for OpenClaw agents — like sleep for your AI. Powered by MyClaw.ai"
+        },
+        {
+          "full_name": "russelleNVy/three-man-team",
+          "stars": 212,
+          "stars_per_day": 106,
+          "language": "Shell",
+          "html_url": "https://github.com/russelleNVy/three-man-team",
+          "description": "A structured 3-agent AI dev team — Architect, Builder, Reviewer. Built from production use. Token-optimized. Works with "
+        },
+        {
+          "full_name": "LearnPrompt/cc-harness-skills",
+          "stars": 105,
+          "stars_per_day": 105,
+          "language": "Python",
+          "html_url": "https://github.com/LearnPrompt/cc-harness-skills",
+          "description": "Portable CC-inspired skills for memory, verification, multi-agent coordination, context compression, and proactive codin"
+        },
+        {
+          "full_name": "math-ai-org/mathcode",
+          "stars": 103,
+          "stars_per_day": 103,
+          "language": "Python",
+          "html_url": "https://github.com/math-ai-org/mathcode",
+          "description": "MathCode: A Frontier Mathematical Coding Agent"
+        },
+        {
+          "full_name": "aiming-lab/AutoHarness",
+          "stars": 92,
+          "stars_per_day": 92,
+          "language": "Python",
+          "html_url": "https://github.com/aiming-lab/AutoHarness",
+          "description": "AutoHarness: Automated Harness Engineering for AI Agents"
+        },
+        {
+          "full_name": "HKUDS/CatchMe",
+          "stars": 264,
+          "stars_per_day": 88,
+          "language": "Python",
+          "html_url": "https://github.com/HKUDS/CatchMe",
+          "description": "\"CatchMe: Make Your AI Agents Truly Personal\""
+        },
+        {
+          "full_name": "he-yufeng/NanoCoder",
+          "stars": 72,
+          "stars_per_day": 72,
+          "language": "Python",
+          "html_url": "https://github.com/he-yufeng/NanoCoder",
+          "description": "Minimal AI coding agent (~950 Lines Python) inspired by Claude Code. Works with any LLM. Think nanoGPT for coding agents"
+        }
+      ],
+      "crypto-web3": [
+        {
+          "full_name": "Axiovant/Solana-Arbitrage-Bot",
+          "stars": 53,
+          "stars_per_day": 53,
+          "language": "Unknown",
+          "html_url": "https://github.com/Axiovant/Solana-Arbitrage-Bot",
+          "description": "solana arbitrage bot solana arbitrage bot solana arbitrage bot solana arbitrage bot solana arbitrage bot solana arbitrag"
+        },
+        {
+          "full_name": "VeltrixaOrg/Solana-Volume-Bot",
+          "stars": 48,
+          "stars_per_day": 48,
+          "language": "Unknown",
+          "html_url": "https://github.com/VeltrixaOrg/Solana-Volume-Bot",
+          "description": "Solana Volume Bot Solana Volume Bot Solana Volume Bot Solana Volume Bot Solana Volume Bot Solana Volume Bot Solana Volum"
+        },
+        {
+          "full_name": "Exteriorvontackle/Seed-Phrase-Generator-Checker-",
+          "stars": 20,
+          "stars_per_day": 20,
+          "language": "Unknown",
+          "html_url": "https://github.com/Exteriorvontackle/Seed-Phrase-Generator-Checker-",
+          "description": "Seed Phrase Generator & Checker btc"
+        },
+        {
+          "full_name": "solana-sniper-tool/solana-sniper-tool",
+          "stars": 36,
+          "stars_per_day": 18,
+          "language": "Unknown",
+          "html_url": "https://github.com/solana-sniper-tool/solana-sniper-tool",
+          "description": "Lightning-fast Solana sniper tool for memecoins. Real-time trading with AI automation. 💎"
+        },
+        {
+          "full_name": "ItsDardanRexhepi/0pnMatrx",
+          "stars": 10,
+          "stars_per_day": 10,
+          "language": "Python",
+          "html_url": "https://github.com/ItsDardanRexhepi/0pnMatrx",
+          "description": "A free, open source AI agent platform. Built by the people, for the people. Read as OpenMatrix."
+        },
+        {
+          "full_name": "CierreBandotiger/Bitcoin_Finder_Tool",
+          "stars": 10,
+          "stars_per_day": 10,
+          "language": "Unknown",
+          "html_url": "https://github.com/CierreBandotiger/Bitcoin_Finder_Tool",
+          "description": "No description"
+        },
+        {
+          "full_name": "PhantomSnipers/solana-memecoin-sniper-bot",
+          "stars": 15,
+          "stars_per_day": 7.5,
+          "language": "JavaScript",
+          "html_url": "https://github.com/PhantomSnipers/solana-memecoin-sniper-bot",
+          "description": "⚡ High-performance Solana sniper bot for memecoins. web-based, optimized for Raydium and Jupiter DEX."
+        },
+        {
+          "full_name": "frostbytenova/pepecoin",
+          "stars": 36,
+          "stars_per_day": 7.2,
+          "language": "C++",
+          "html_url": "https://github.com/frostbytenova/pepecoin",
+          "description": "pepecoin"
+        },
+        {
+          "full_name": "SoulPass-AI/soulpass-cli-skill",
+          "stars": 6,
+          "stars_per_day": 6,
+          "language": "Unknown",
+          "html_url": "https://github.com/SoulPass-AI/soulpass-cli-skill",
+          "description": "Hardware-secured Solana wallet, trading terminal, and agent identity layer for AI agents. Jupiter DEX swaps, meme coin t"
+        },
+        {
+          "full_name": "geckopunk1337/polymarket-backtester",
+          "stars": 22,
+          "stars_per_day": 5.5,
+          "language": "Python",
+          "html_url": "https://github.com/geckopunk1337/polymarket-backtester",
+          "description": "No description"
+        },
+        {
+          "full_name": "geckoape99/kalshi-autosniper-bot",
+          "stars": 22,
+          "stars_per_day": 5.5,
+          "language": "Python",
+          "html_url": "https://github.com/geckoape99/kalshi-autosniper-bot",
+          "description": "First-entry automation bot for Kalshi. Detects new market listings the moment they appear in the API and enters within s"
+        },
+        {
+          "full_name": "cobra0xbear/polymarket-kelly-sizer",
+          "stars": 20,
+          "stars_per_day": 5,
+          "language": "Python",
+          "html_url": "https://github.com/cobra0xbear/polymarket-kelly-sizer",
+          "description": "Kelly criterion position sizing calculator and trade executor for Polymarket. Computes optimal USDC per trade from your "
+        },
+        {
+          "full_name": "batneo666/polymarket-sniper-bot",
+          "stars": 19,
+          "stars_per_day": 4.8,
+          "language": "Python",
+          "html_url": "https://github.com/batneo666/polymarket-sniper-bot",
+          "description": "First-entry automation bot for Polymarket. Detects new market listings the moment they appear on-chain and enters within"
+        },
+        {
+          "full_name": "solana-snipe-bot/Free-SolanaSniperBot-2026-MemecoinAutoTrader",
+          "stars": 23,
+          "stars_per_day": 4.6,
+          "language": "JavaScript",
+          "html_url": "https://github.com/solana-snipe-bot/Free-SolanaSniperBot-2026-MemecoinAutoTrader",
+          "description": "💎 The best premium Solana Sniper Bot in 2026 | Memecoin Automatic Trader Bot/Tool | Free Sol Sniper Github"
+        },
+        {
+          "full_name": "bullhappy777/kalshi-resolution-tracker",
+          "stars": 17,
+          "stars_per_day": 4.3,
+          "language": "Python",
+          "html_url": "https://github.com/bullhappy777/kalshi-resolution-tracker",
+          "description": "Settlement monitoring tool for Kalshi. Tracks all open contracts across multiple accounts, sends Telegram alerts before "
+        }
+      ],
+      "general": [
+        {
+          "full_name": "ultraworkers/claw-code",
+          "stars": 152499,
+          "stars_per_day": 76249.5,
+          "language": "Rust",
+          "html_url": "https://github.com/ultraworkers/claw-code",
+          "description": "[Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/u"
+        },
+        {
+          "full_name": "claude-code-best/claude-code",
+          "stars": 11324,
+          "stars_per_day": 5662,
+          "language": "TypeScript",
+          "html_url": "https://github.com/claude-code-best/claude-code",
+          "description": "原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动"
+        },
+        {
+          "full_name": "sanbuphy/learn-coding-agent",
+          "stars": 11037,
+          "stars_per_day": 5518.5,
+          "language": "Unknown",
+          "html_url": "https://github.com/sanbuphy/learn-coding-agent",
+          "description": "Research on Coding Agents"
+        },
+        {
+          "full_name": "emdash-cms/emdash",
+          "stars": 4465,
+          "stars_per_day": 4465,
+          "language": "TypeScript",
+          "html_url": "https://github.com/emdash-cms/emdash",
+          "description": "EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress"
+        },
+        {
+          "full_name": "ChinaSiro/claude-code-sourcemap",
+          "stars": 8070,
+          "stars_per_day": 4035,
+          "language": "TypeScript",
+          "html_url": "https://github.com/ChinaSiro/claude-code-sourcemap",
+          "description": "No description"
+        },
+        {
+          "full_name": "Gitlawb/openclaude",
+          "stars": 7844,
+          "stars_per_day": 3922,
+          "language": "TypeScript",
+          "html_url": "https://github.com/Gitlawb/openclaude",
+          "description": "Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim"
+        },
+        {
+          "full_name": "Kuberwastaken/claurst",
+          "stars": 7434,
+          "stars_per_day": 3717,
+          "language": "Rust",
+          "html_url": "https://github.com/Kuberwastaken/claurst",
+          "description": "Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries"
+        },
+        {
+          "full_name": "openai/codex-plugin-cc",
+          "stars": 10743,
+          "stars_per_day": 3581,
+          "language": "JavaScript",
+          "html_url": "https://github.com/openai/codex-plugin-cc",
+          "description": "Use Codex from Claude Code to review code or delegate tasks."
+        },
+        {
+          "full_name": "ultraworkers/claw-code-parity",
+          "stars": 3005,
+          "stars_per_day": 3005,
+          "language": "Rust",
+          "html_url": "https://github.com/ultraworkers/claw-code-parity",
+          "description": "claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration"
+        },
+        {
+          "full_name": "tvytlx/ai-agent-deep-dive",
+          "stars": 4653,
+          "stars_per_day": 2326.5,
+          "language": "Python",
+          "html_url": "https://github.com/tvytlx/ai-agent-deep-dive",
+          "description": "AI Agent 源码深度研究报告"
+        },
+        {
+          "full_name": "NanmiCoder/claude-code-haha",
+          "stars": 4151,
+          "stars_per_day": 2075.5,
+          "language": "TypeScript",
+          "html_url": "https://github.com/NanmiCoder/claude-code-haha",
+          "description": "Claude Code leaked source - locally runnable version"
+        },
+        {
+          "full_name": "titanwings/colleague-skill",
+          "stars": 5607,
+          "stars_per_day": 1869,
+          "language": "Python",
+          "html_url": "https://github.com/titanwings/colleague-skill",
+          "description": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital "
+        },
+        {
+          "full_name": "VoltAgent/awesome-design-md",
+          "stars": 3722,
+          "stars_per_day": 1861,
+          "language": "HTML",
+          "html_url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let codi"
+        },
+        {
+          "full_name": "JackChen-me/open-multi-agent",
+          "stars": 2763,
+          "stars_per_day": 1381.5,
+          "language": "TypeScript",
+          "html_url": "https://github.com/JackChen-me/open-multi-agent",
+          "description": "Lightweight multi-agent framework — describe a goal, the framework auto-decomposes it into tasks and runs them in parall"
+        },
+        {
+          "full_name": "drona23/claude-token-efficient",
+          "stars": 2698,
+          "stars_per_day": 899.3,
+          "language": "Unknown",
+          "html_url": "https://github.com/drona23/claude-token-efficient",
+          "description": "One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes."
+        }
+      ]
     }
   },
   "repos": {
@@ -10840,8 +11208,8 @@
     },
     "solana-snipe-bot/Free-SolanaSniperBot-2026-MemecoinAutoTrader": {
       "first_seen": "2026-03-29",
-      "last_seen": "2026-04-02",
-      "days_seen": 5,
+      "last_seen": "2026-04-03",
+      "days_seen": 6,
       "peak_stars": 45,
       "peak_spd": 45,
       "language": "JavaScript",
@@ -10920,9 +11288,9 @@
     },
     "dreddnafious/thereisnospoon": {
       "first_seen": "2026-03-30",
-      "last_seen": "2026-04-02",
-      "days_seen": 4,
-      "peak_stars": 467,
+      "last_seen": "2026-04-03",
+      "days_seen": 5,
+      "peak_stars": 512,
       "peak_spd": 383,
       "language": "Python",
       "html_url": "https://github.com/dreddnafious/thereisnospoon",
@@ -11000,9 +11368,9 @@
     },
     "LeoYeAI/openclaw-auto-dream": {
       "first_seen": "2026-03-31",
-      "last_seen": "2026-04-02",
-      "days_seen": 3,
-      "peak_stars": 586,
+      "last_seen": "2026-04-03",
+      "days_seen": 4,
+      "peak_stars": 621,
       "peak_spd": 244,
       "language": "HTML",
       "html_url": "https://github.com/LeoYeAI/openclaw-auto-dream",
@@ -11010,9 +11378,9 @@
     },
     "HKUDS/CatchMe": {
       "first_seen": "2026-03-31",
-      "last_seen": "2026-04-02",
-      "days_seen": 3,
-      "peak_stars": 238,
+      "last_seen": "2026-04-03",
+      "days_seen": 4,
+      "peak_stars": 264,
       "peak_spd": 189,
       "language": "Python",
       "html_url": "https://github.com/HKUDS/CatchMe",
@@ -11100,9 +11468,9 @@
     },
     "openai/codex-plugin-cc": {
       "first_seen": "2026-03-31",
-      "last_seen": "2026-04-02",
-      "days_seen": 3,
-      "peak_stars": 8848,
+      "last_seen": "2026-04-03",
+      "days_seen": 4,
+      "peak_stars": 10743,
       "peak_spd": 6048,
       "language": "JavaScript",
       "html_url": "https://github.com/openai/codex-plugin-cc",
@@ -11110,9 +11478,9 @@
     },
     "titanwings/colleague-skill": {
       "first_seen": "2026-03-31",
-      "last_seen": "2026-04-02",
-      "days_seen": 3,
-      "peak_stars": 4775,
+      "last_seen": "2026-04-03",
+      "days_seen": 4,
+      "peak_stars": 5607,
       "peak_spd": 3741,
       "language": "Python",
       "html_url": "https://github.com/titanwings/colleague-skill",
@@ -11170,9 +11538,9 @@
     },
     "lintsinghua/claude-code-book": {
       "first_seen": "2026-04-01",
-      "last_seen": "2026-04-02",
-      "days_seen": 2,
-      "peak_stars": 1043,
+      "last_seen": "2026-04-03",
+      "days_seen": 3,
+      "peak_stars": 1459,
       "peak_spd": 1043,
       "language": "Unknown",
       "html_url": "https://github.com/lintsinghua/claude-code-book",
@@ -11180,9 +11548,9 @@
     },
     "777genius/claude-code-source-code": {
       "first_seen": "2026-04-01",
-      "last_seen": "2026-04-02",
-      "days_seen": 2,
-      "peak_stars": 808,
+      "last_seen": "2026-04-03",
+      "days_seen": 3,
+      "peak_stars": 847,
       "peak_spd": 808,
       "language": "TypeScript",
       "html_url": "https://github.com/777genius/claude-code-source-code",
@@ -11220,8 +11588,8 @@
     },
     "solana-sniper-tool/solana-sniper-tool": {
       "first_seen": "2026-04-01",
-      "last_seen": "2026-04-02",
-      "days_seen": 2,
+      "last_seen": "2026-04-03",
+      "days_seen": 3,
       "peak_stars": 51,
       "peak_spd": 51,
       "language": "Unknown",
@@ -11230,8 +11598,8 @@
     },
     "PhantomSnipers/solana-memecoin-sniper-bot": {
       "first_seen": "2026-04-01",
-      "last_seen": "2026-04-02",
-      "days_seen": 2,
+      "last_seen": "2026-04-03",
+      "days_seen": 3,
       "peak_stars": 25,
       "peak_spd": 25,
       "language": "JavaScript",
@@ -11270,9 +11638,9 @@
     },
     "ChinaSiro/claude-code-sourcemap": {
       "first_seen": "2026-04-01",
-      "last_seen": "2026-04-02",
-      "days_seen": 2,
-      "peak_stars": 7518,
+      "last_seen": "2026-04-03",
+      "days_seen": 3,
+      "peak_stars": 8070,
       "peak_spd": 7518,
       "language": "TypeScript",
       "html_url": "https://github.com/ChinaSiro/claude-code-sourcemap",
@@ -11290,9 +11658,9 @@
     },
     "claude-code-best/claude-code": {
       "first_seen": "2026-04-01",
-      "last_seen": "2026-04-02",
-      "days_seen": 2,
-      "peak_stars": 8315,
+      "last_seen": "2026-04-03",
+      "days_seen": 3,
+      "peak_stars": 11324,
       "peak_spd": 8315,
       "language": "TypeScript",
       "html_url": "https://github.com/claude-code-best/claude-code",
@@ -11300,9 +11668,9 @@
     },
     "drona23/claude-token-efficient": {
       "first_seen": "2026-04-01",
-      "last_seen": "2026-04-02",
-      "days_seen": 2,
-      "peak_stars": 2110,
+      "last_seen": "2026-04-03",
+      "days_seen": 3,
+      "peak_stars": 2698,
       "peak_spd": 1690,
       "language": "Unknown",
       "html_url": "https://github.com/drona23/claude-token-efficient",
@@ -11340,9 +11708,9 @@
     },
     "JackChen-me/open-multi-agent": {
       "first_seen": "2026-04-02",
-      "last_seen": "2026-04-02",
-      "days_seen": 2,
-      "peak_stars": 2217,
+      "last_seen": "2026-04-03",
+      "days_seen": 4,
+      "peak_stars": 2763,
       "peak_spd": 2217,
       "language": "TypeScript",
       "html_url": "https://github.com/JackChen-me/open-multi-agent",
@@ -11350,9 +11718,9 @@
     },
     "openedclaude/claude-reviews-claude": {
       "first_seen": "2026-04-02",
-      "last_seen": "2026-04-02",
-      "days_seen": 1,
-      "peak_stars": 1030,
+      "last_seen": "2026-04-03",
+      "days_seen": 2,
+      "peak_stars": 1126,
       "peak_spd": 1030,
       "language": "Unknown",
       "html_url": "https://github.com/openedclaude/claude-reviews-claude",
@@ -11360,9 +11728,9 @@
     },
     "Windy3f3f3f3f/how-claude-code-works": {
       "first_seen": "2026-04-02",
-      "last_seen": "2026-04-02",
-      "days_seen": 1,
-      "peak_stars": 1004,
+      "last_seen": "2026-04-03",
+      "days_seen": 2,
+      "peak_stars": 1240,
       "peak_spd": 1004,
       "language": "Unknown",
       "html_url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
@@ -11370,9 +11738,9 @@
     },
     "Windy3f3f3f3f/claude-code-from-scratch": {
       "first_seen": "2026-04-02",
-      "last_seen": "2026-04-02",
-      "days_seen": 1,
-      "peak_stars": 565,
+      "last_seen": "2026-04-03",
+      "days_seen": 2,
+      "peak_stars": 650,
       "peak_spd": 565,
       "language": "TypeScript",
       "html_url": "https://github.com/Windy3f3f3f3f/claude-code-from-scratch",
@@ -11400,10 +11768,10 @@
     },
     "LearnPrompt/cc-harness-skills": {
       "first_seen": "2026-04-02",
-      "last_seen": "2026-04-02",
-      "days_seen": 1,
-      "peak_stars": 77,
-      "peak_spd": 77,
+      "last_seen": "2026-04-03",
+      "days_seen": 2,
+      "peak_stars": 105,
+      "peak_spd": 105,
       "language": "Python",
       "html_url": "https://github.com/LearnPrompt/cc-harness-skills",
       "description": "Portable CC-inspired skills for memory, verification, multi-agent coordination, context compression, and proactive codin"
@@ -11420,8 +11788,8 @@
     },
     "geckopunk1337/polymarket-backtester": {
       "first_seen": "2026-04-02",
-      "last_seen": "2026-04-02",
-      "days_seen": 1,
+      "last_seen": "2026-04-03",
+      "days_seen": 2,
       "peak_stars": 22,
       "peak_spd": 7.3,
       "language": "Python",
@@ -11430,8 +11798,8 @@
     },
     "geckoape99/kalshi-autosniper-bot": {
       "first_seen": "2026-04-02",
-      "last_seen": "2026-04-02",
-      "days_seen": 1,
+      "last_seen": "2026-04-03",
+      "days_seen": 2,
       "peak_stars": 22,
       "peak_spd": 7.3,
       "language": "Python",
@@ -11440,8 +11808,8 @@
     },
     "cobra0xbear/polymarket-kelly-sizer": {
       "first_seen": "2026-04-02",
-      "last_seen": "2026-04-02",
-      "days_seen": 1,
+      "last_seen": "2026-04-03",
+      "days_seen": 2,
       "peak_stars": 20,
       "peak_spd": 6.7,
       "language": "Python",
@@ -11450,8 +11818,8 @@
     },
     "batneo666/polymarket-sniper-bot": {
       "first_seen": "2026-04-02",
-      "last_seen": "2026-04-02",
-      "days_seen": 1,
+      "last_seen": "2026-04-03",
+      "days_seen": 2,
       "peak_stars": 19,
       "peak_spd": 6.3,
       "language": "Python",
@@ -11460,8 +11828,8 @@
     },
     "bullhappy777/kalshi-resolution-tracker": {
       "first_seen": "2026-04-02",
-      "last_seen": "2026-04-02",
-      "days_seen": 1,
+      "last_seen": "2026-04-03",
+      "days_seen": 2,
       "peak_stars": 17,
       "peak_spd": 5.7,
       "language": "Python",
@@ -11490,10 +11858,10 @@
     },
     "CierreBandotiger/Bitcoin_Finder_Tool": {
       "first_seen": "2026-04-02",
-      "last_seen": "2026-04-02",
-      "days_seen": 1,
-      "peak_stars": 5,
-      "peak_spd": 5,
+      "last_seen": "2026-04-03",
+      "days_seen": 2,
+      "peak_stars": 10,
+      "peak_spd": 10,
       "language": "Unknown",
       "html_url": "https://github.com/CierreBandotiger/Bitcoin_Finder_Tool",
       "description": "No description"
@@ -11510,9 +11878,9 @@
     },
     "ultraworkers/claw-code": {
       "first_seen": "2026-04-02",
-      "last_seen": "2026-04-02",
-      "days_seen": 1,
-      "peak_stars": 126500,
+      "last_seen": "2026-04-03",
+      "days_seen": 2,
+      "peak_stars": 152499,
       "peak_spd": 126500,
       "language": "Rust",
       "html_url": "https://github.com/ultraworkers/claw-code",
@@ -11520,9 +11888,9 @@
     },
     "sanbuphy/learn-coding-agent": {
       "first_seen": "2026-04-02",
-      "last_seen": "2026-04-02",
-      "days_seen": 1,
-      "peak_stars": 10678,
+      "last_seen": "2026-04-03",
+      "days_seen": 2,
+      "peak_stars": 11037,
       "peak_spd": 10678,
       "language": "Unknown",
       "html_url": "https://github.com/sanbuphy/learn-coding-agent",
@@ -11530,9 +11898,9 @@
     },
     "Kuberwastaken/claurst": {
       "first_seen": "2026-04-02",
-      "last_seen": "2026-04-02",
-      "days_seen": 1,
-      "peak_stars": 6723,
+      "last_seen": "2026-04-03",
+      "days_seen": 2,
+      "peak_stars": 7434,
       "peak_spd": 6723,
       "language": "Rust",
       "html_url": "https://github.com/Kuberwastaken/claurst",
@@ -11540,9 +11908,9 @@
     },
     "Gitlawb/openclaude": {
       "first_seen": "2026-04-02",
-      "last_seen": "2026-04-02",
-      "days_seen": 1,
-      "peak_stars": 3958,
+      "last_seen": "2026-04-03",
+      "days_seen": 2,
+      "peak_stars": 7844,
       "peak_spd": 3958,
       "language": "TypeScript",
       "html_url": "https://github.com/Gitlawb/openclaude",
@@ -11550,9 +11918,9 @@
     },
     "tvytlx/ai-agent-deep-dive": {
       "first_seen": "2026-04-02",
-      "last_seen": "2026-04-02",
-      "days_seen": 1,
-      "peak_stars": 3341,
+      "last_seen": "2026-04-03",
+      "days_seen": 2,
+      "peak_stars": 4653,
       "peak_spd": 3341,
       "language": "Unknown",
       "html_url": "https://github.com/tvytlx/ai-agent-deep-dive",
@@ -11560,9 +11928,9 @@
     },
     "NanmiCoder/claude-code-haha": {
       "first_seen": "2026-04-02",
-      "last_seen": "2026-04-02",
-      "days_seen": 1,
-      "peak_stars": 3226,
+      "last_seen": "2026-04-03",
+      "days_seen": 2,
+      "peak_stars": 4151,
       "peak_spd": 3226,
       "language": "TypeScript",
       "html_url": "https://github.com/NanmiCoder/claude-code-haha",
@@ -11580,13 +11948,143 @@
     },
     "emdash-cms/emdash": {
       "first_seen": "2026-04-02",
-      "last_seen": "2026-04-02",
-      "days_seen": 1,
-      "peak_stars": 1915,
-      "peak_spd": 1915,
+      "last_seen": "2026-04-03",
+      "days_seen": 2,
+      "peak_stars": 4465,
+      "peak_spd": 4465,
       "language": "TypeScript",
       "html_url": "https://github.com/emdash-cms/emdash",
       "description": "No description"
+    },
+    "LeoYeAI/MyClaw": {
+      "first_seen": "2026-04-03",
+      "last_seen": "2026-04-03",
+      "days_seen": 1,
+      "peak_stars": 190,
+      "peak_spd": 190,
+      "language": "Unknown",
+      "html_url": "https://github.com/LeoYeAI/MyClaw",
+      "description": "Your personal AI server. Full code control. Unlimited possibilities. Powered by MyClaw.ai"
+    },
+    "russelleNVy/three-man-team": {
+      "first_seen": "2026-04-03",
+      "last_seen": "2026-04-03",
+      "days_seen": 1,
+      "peak_stars": 212,
+      "peak_spd": 106,
+      "language": "Shell",
+      "html_url": "https://github.com/russelleNVy/three-man-team",
+      "description": "A structured 3-agent AI dev team — Architect, Builder, Reviewer. Built from production use. Token-optimized. Works with "
+    },
+    "math-ai-org/mathcode": {
+      "first_seen": "2026-04-03",
+      "last_seen": "2026-04-03",
+      "days_seen": 1,
+      "peak_stars": 103,
+      "peak_spd": 103,
+      "language": "Python",
+      "html_url": "https://github.com/math-ai-org/mathcode",
+      "description": "MathCode: A Frontier Mathematical Coding Agent"
+    },
+    "aiming-lab/AutoHarness": {
+      "first_seen": "2026-04-03",
+      "last_seen": "2026-04-03",
+      "days_seen": 1,
+      "peak_stars": 92,
+      "peak_spd": 92,
+      "language": "Python",
+      "html_url": "https://github.com/aiming-lab/AutoHarness",
+      "description": "AutoHarness: Automated Harness Engineering for AI Agents"
+    },
+    "he-yufeng/NanoCoder": {
+      "first_seen": "2026-04-03",
+      "last_seen": "2026-04-03",
+      "days_seen": 1,
+      "peak_stars": 72,
+      "peak_spd": 72,
+      "language": "Python",
+      "html_url": "https://github.com/he-yufeng/NanoCoder",
+      "description": "Minimal AI coding agent (~950 Lines Python) inspired by Claude Code. Works with any LLM. Think nanoGPT for coding agents"
+    },
+    "Axiovant/Solana-Arbitrage-Bot": {
+      "first_seen": "2026-04-03",
+      "last_seen": "2026-04-03",
+      "days_seen": 1,
+      "peak_stars": 53,
+      "peak_spd": 53,
+      "language": "Unknown",
+      "html_url": "https://github.com/Axiovant/Solana-Arbitrage-Bot",
+      "description": "solana arbitrage bot solana arbitrage bot solana arbitrage bot solana arbitrage bot solana arbitrage bot solana arbitrag"
+    },
+    "VeltrixaOrg/Solana-Volume-Bot": {
+      "first_seen": "2026-04-03",
+      "last_seen": "2026-04-03",
+      "days_seen": 1,
+      "peak_stars": 48,
+      "peak_spd": 48,
+      "language": "Unknown",
+      "html_url": "https://github.com/VeltrixaOrg/Solana-Volume-Bot",
+      "description": "Solana Volume Bot Solana Volume Bot Solana Volume Bot Solana Volume Bot Solana Volume Bot Solana Volume Bot Solana Volum"
+    },
+    "Exteriorvontackle/Seed-Phrase-Generator-Checker-": {
+      "first_seen": "2026-04-03",
+      "last_seen": "2026-04-03",
+      "days_seen": 1,
+      "peak_stars": 20,
+      "peak_spd": 20,
+      "language": "Unknown",
+      "html_url": "https://github.com/Exteriorvontackle/Seed-Phrase-Generator-Checker-",
+      "description": "Seed Phrase Generator & Checker btc"
+    },
+    "ItsDardanRexhepi/0pnMatrx": {
+      "first_seen": "2026-04-03",
+      "last_seen": "2026-04-03",
+      "days_seen": 1,
+      "peak_stars": 10,
+      "peak_spd": 10,
+      "language": "Python",
+      "html_url": "https://github.com/ItsDardanRexhepi/0pnMatrx",
+      "description": "A free, open source AI agent platform. Built by the people, for the people. Read as OpenMatrix."
+    },
+    "frostbytenova/pepecoin": {
+      "first_seen": "2026-04-03",
+      "last_seen": "2026-04-03",
+      "days_seen": 1,
+      "peak_stars": 36,
+      "peak_spd": 7.2,
+      "language": "C++",
+      "html_url": "https://github.com/frostbytenova/pepecoin",
+      "description": "pepecoin"
+    },
+    "SoulPass-AI/soulpass-cli-skill": {
+      "first_seen": "2026-04-03",
+      "last_seen": "2026-04-03",
+      "days_seen": 1,
+      "peak_stars": 6,
+      "peak_spd": 6,
+      "language": "Unknown",
+      "html_url": "https://github.com/SoulPass-AI/soulpass-cli-skill",
+      "description": "Hardware-secured Solana wallet, trading terminal, and agent identity layer for AI agents. Jupiter DEX swaps, meme coin t"
+    },
+    "ultraworkers/claw-code-parity": {
+      "first_seen": "2026-04-03",
+      "last_seen": "2026-04-03",
+      "days_seen": 1,
+      "peak_stars": 3005,
+      "peak_spd": 3005,
+      "language": "Rust",
+      "html_url": "https://github.com/ultraworkers/claw-code-parity",
+      "description": "claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration"
+    },
+    "VoltAgent/awesome-design-md": {
+      "first_seen": "2026-04-03",
+      "last_seen": "2026-04-03",
+      "days_seen": 1,
+      "peak_stars": 3722,
+      "peak_spd": 1861,
+      "language": "HTML",
+      "html_url": "https://github.com/VoltAgent/awesome-design-md",
+      "description": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let codi"
     }
   }
 }
