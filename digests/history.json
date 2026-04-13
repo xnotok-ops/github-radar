@@ -11775,6 +11775,374 @@
           "description": "同事.skill、老板.skill、前任.skill、自己.skill、永生.skill、女娲.skill……  "
         }
       ]
+    },
+    "2026-04-13": {
+      "ai-llm": [
+        {
+          "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
+          "stars": 329,
+          "stars_per_day": 82.3,
+          "language": "Python",
+          "html_url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
+          "description": "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Wo"
+        },
+        {
+          "full_name": "amitshekhariitbhu/llm-internals",
+          "stars": 82,
+          "stars_per_day": 82,
+          "language": "Unknown",
+          "html_url": "https://github.com/amitshekhariitbhu/llm-internals",
+          "description": "Learn LLM internals step by step - from tokenization to attention to inference optimization."
+        },
+        {
+          "full_name": "litmus4ai/litmus",
+          "stars": 77,
+          "stars_per_day": 77,
+          "language": "TypeScript",
+          "html_url": "https://github.com/litmus4ai/litmus",
+          "description": "⚡ Unit tests for AI. Test prompts, compare models, save money."
+        },
+        {
+          "full_name": "dengxianghua888-ops/ecoalign-forge",
+          "stars": 104,
+          "stars_per_day": 52,
+          "language": "Python",
+          "html_url": "https://github.com/dengxianghua888-ops/ecoalign-forge",
+          "description": "Multi-Agent DPO Data Synthesis Factory — 多智能体偏好训练数据自动合成框架 | 红队攻击 → 多persona审核 → 终审裁决 → DPO偏好对"
+        },
+        {
+          "full_name": "rudrankriyam/Foundation-Models-Framework-CLI",
+          "stars": 45,
+          "stars_per_day": 45,
+          "language": "Swift",
+          "html_url": "https://github.com/rudrankriyam/Foundation-Models-Framework-CLI",
+          "description": "A powerful command-line interface for Foundation Models on Apple platforms."
+        },
+        {
+          "full_name": "joyehuang/Learn-Open-Harness",
+          "stars": 231,
+          "stars_per_day": 38.5,
+          "language": "TypeScript",
+          "html_url": "https://github.com/joyehuang/Learn-Open-Harness",
+          "description": "🤖 Official Interactive Tutorial for OpenHarness – Zero to Hero in 12 Chapters | Learn OpenHarness like Claude Code: Age"
+        },
+        {
+          "full_name": "mduongvandinh/llm-wiki",
+          "stars": 175,
+          "stars_per_day": 35,
+          "language": "HTML",
+          "html_url": "https://github.com/mduongvandinh/llm-wiki",
+          "description": "Hệ thống knowledge base cá nhân hoàn toàn tự động, vận hành bởi LLM. Dựa trên pattern LLM Wiki của Andrej Karpathy."
+        },
+        {
+          "full_name": "yanhua1010/zero-to-ai-fullstack",
+          "stars": 139,
+          "stars_per_day": 27.8,
+          "language": "Python",
+          "html_url": "https://github.com/yanhua1010/zero-to-ai-fullstack",
+          "description": "A Java backend engineer learning AI full-stack in public — Python · FastAPI · RAG · pgvector · Next.js"
+        },
+        {
+          "full_name": "geekjourneyx/agora",
+          "stars": 109,
+          "stars_per_day": 27.3,
+          "language": "Unknown",
+          "html_url": "https://github.com/geekjourneyx/agora",
+          "description": "31 位思想家组成的多 Agent 审议系统，覆盖工程、商业、人生抉择、关系、心理、创作六大领域。黑格尔正反合结构，一个命令开启深度辩证。 "
+        },
+        {
+          "full_name": "xuange520/ruishu-mcp",
+          "stars": 48,
+          "stars_per_day": 24,
+          "language": "TypeScript",
+          "html_url": "https://github.com/xuange520/ruishu-mcp",
+          "description": "🚀 专为 AI Agent 打造的瑞数防爬流量净化 MCP 工具 / An MCP Tool for AI Agents to Stealthily Bypass and Purify Ruishu WAF Traffic"
+        },
+        {
+          "full_name": "ttguy0707/CyberClaw",
+          "stars": 80,
+          "stars_per_day": 16,
+          "language": "Python",
+          "html_url": "https://github.com/ttguy0707/CyberClaw",
+          "description": "👾 下一代透明智能体架构 | Next-Gen Transparent Agent Architecture 🔍 全行为审计 | 🛡️ 两段式安全调用 | 🧠 双水位记忆 | ⏰ 心跳任务 📊 P0 级事故率降低 80% | 兼容"
+        },
+        {
+          "full_name": "AyanbekDos/memoriki",
+          "stars": 48,
+          "stars_per_day": 16,
+          "language": "Unknown",
+          "html_url": "https://github.com/AyanbekDos/memoriki",
+          "description": "Memoriki - LLM Wiki + MemPalace. Personal knowledge base with real memory."
+        },
+        {
+          "full_name": "Pratiyush/llm-wiki",
+          "stars": 68,
+          "stars_per_day": 13.6,
+          "language": "Python",
+          "html_url": "https://github.com/Pratiyush/llm-wiki",
+          "description": "LLM-powered knowledge base from your Claude Code, Codex CLI, Copilot, Cursor & Gemini sessions. Karpathy's LLM Wiki patt"
+        },
+        {
+          "full_name": "416rehman/DeepZero",
+          "stars": 69,
+          "stars_per_day": 11.5,
+          "language": "Python",
+          "html_url": "https://github.com/416rehman/DeepZero",
+          "description": "Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and a"
+        },
+        {
+          "full_name": "AaronWong1999/hermesclaw",
+          "stars": 23,
+          "stars_per_day": 11.5,
+          "language": "Python",
+          "html_url": "https://github.com/AaronWong1999/hermesclaw",
+          "description": "Run Hermes Agent and OpenClaw on the same WeChat account"
+        }
+      ],
+      "crypto-web3": [
+        {
+          "full_name": "clodesnow/polymarket-arbitrage-trading-bot",
+          "stars": 55,
+          "stars_per_day": 18.3,
+          "language": "TypeScript",
+          "html_url": "https://github.com/clodesnow/polymarket-arbitrage-trading-bot",
+          "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage"
+        },
+        {
+          "full_name": "das231awde/Wick.fun",
+          "stars": 28,
+          "stars_per_day": 14,
+          "language": "Rust",
+          "html_url": "https://github.com/das231awde/Wick.fun",
+          "description": "Welcome to the official Wick.fun repository."
+        },
+        {
+          "full_name": "agi-now/buffett-skills",
+          "stars": 55,
+          "stars_per_day": 13.8,
+          "language": "Unknown",
+          "html_url": "https://github.com/agi-now/buffett-skills",
+          "description": "A collection of ai skills built on Warren Buffett's investing framework."
+        },
+        {
+          "full_name": "ganggang1221/polymarket-sports-copy-trading-bot",
+          "stars": 33,
+          "stars_per_day": 11,
+          "language": "TypeScript",
+          "html_url": "https://github.com/ganggang1221/polymarket-sports-copy-trading-bot",
+          "description": "Polymarket Trading Bot Polymarket Copy Trading Bot Polymarket Trading Bot Polymarket Copy Trading Bot Polymarket Trading"
+        },
+        {
+          "full_name": "Maxiinreanimate/Percolate",
+          "stars": 52,
+          "stars_per_day": 10.4,
+          "language": "Rust",
+          "html_url": "https://github.com/Maxiinreanimate/Percolate",
+          "description": "The first and only multichain permissionless perpetual futures DEX."
+        },
+        {
+          "full_name": "KirobotDev/Heatmap-Dashboard",
+          "stars": 7,
+          "stars_per_day": 7,
+          "language": "HTML",
+          "html_url": "https://github.com/KirobotDev/Heatmap-Dashboard",
+          "description": "🔥 Interactive crypto heatmap dashboard with real-time CoinGecko data. Visual market cap blocks with 24h performance col"
+        },
+        {
+          "full_name": "kyle-garcialab03o4/AI-Trader",
+          "stars": 8,
+          "stars_per_day": 4,
+          "language": "Unknown",
+          "html_url": "https://github.com/kyle-garcialab03o4/AI-Trader",
+          "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\""
+        },
+        {
+          "full_name": "daniel-taylor-io1992t8/exodus-extension",
+          "stars": 8,
+          "stars_per_day": 4,
+          "language": "Unknown",
+          "html_url": "https://github.com/daniel-taylor-io1992t8/exodus-extension",
+          "description": "🌐 🔌 The Exodus browser extension enables browsing Ethereum blockchain enabled websites"
+        },
+        {
+          "full_name": "chris-lopezcode95j1/crypto-signal-pro",
+          "stars": 8,
+          "stars_per_day": 2.7,
+          "language": "Unknown",
+          "html_url": "https://github.com/chris-lopezcode95j1/crypto-signal-pro",
+          "description": "A bot signal protocol for Node.js, enabling advanced crypto trading and analysis. Includes a static website with a serve"
+        },
+        {
+          "full_name": "elisymlabs/elisym",
+          "stars": 7,
+          "stars_per_day": 2.3,
+          "language": "TypeScript",
+          "html_url": "https://github.com/elisymlabs/elisym",
+          "description": "Open infrastructure for AI agents to discover and pay each other"
+        },
+        {
+          "full_name": "krishpranav/ferrocrawl",
+          "stars": 2,
+          "stars_per_day": 2,
+          "language": "Rust",
+          "html_url": "https://github.com/krishpranav/ferrocrawl",
+          "description": "⚡ High-performance async web crawler & data ingestion framework in Rust — Bloom dedup, proxy rotation, distributed worke"
+        },
+        {
+          "full_name": "PizzadatCode/DeltaYield",
+          "stars": 2,
+          "stars_per_day": 2,
+          "language": "Unknown",
+          "html_url": "https://github.com/PizzadatCode/DeltaYield",
+          "description": "Open-source research knowledge base for delta-neutral crypto yield farming using Jupiter's JLP on Solana. 25 wiki pages,"
+        },
+        {
+          "full_name": "kiraxbt/btcx",
+          "stars": 2,
+          "stars_per_day": 2,
+          "language": "Go",
+          "html_url": "https://github.com/kiraxbt/btcx",
+          "description": "Terminal UI for managing Bitcoin wallets — built in Go"
+        },
+        {
+          "full_name": "roko-help/roko",
+          "stars": 2,
+          "stars_per_day": 2,
+          "language": "HTML",
+          "html_url": "https://github.com/roko-help/roko",
+          "description": "Free, open-source crypto safety checker. Paste a domain or wallet – get a risk score in seconds. 🦝"
+        },
+        {
+          "full_name": "Quantumrune-qrune/quantumrune",
+          "stars": 1,
+          "stars_per_day": 1,
+          "language": "Unknown",
+          "html_url": "https://github.com/Quantumrune-qrune/quantumrune",
+          "description": "QuantumRune (QRUNE) — A narrative-driven digital asset aligned with the quantum computing era"
+        }
+      ],
+      "general": [
+        {
+          "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
+          "stars": 1665,
+          "stars_per_day": 832.5,
+          "language": "Python",
+          "html_url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+          "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual style"
+        },
+        {
+          "full_name": "farzaa/clicky",
+          "stars": 3961,
+          "stars_per_day": 792.2,
+          "language": "Swift",
+          "html_url": "https://github.com/farzaa/clicky",
+          "description": "No description"
+        },
+        {
+          "full_name": "alchaincyf/obsidian-ai-orange-book",
+          "stars": 436,
+          "stars_per_day": 436,
+          "language": "Unknown",
+          "html_url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
+          "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑"
+        },
+        {
+          "full_name": "alchaincyf/hermes-agent-orange-book",
+          "stars": 2143,
+          "stars_per_day": 428.6,
+          "language": "Unknown",
+          "html_url": "https://github.com/alchaincyf/hermes-agent-orange-book",
+          "description": "Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南"
+        },
+        {
+          "full_name": "vyfor/rattles",
+          "stars": 649,
+          "stars_per_day": 324.5,
+          "language": "Rust",
+          "html_url": "https://github.com/vyfor/rattles",
+          "description": "🪇 Minimal terminal spinners for Rust"
+        },
+        {
+          "full_name": "mattmireles/gemma-tuner-multimodal",
+          "stars": 1233,
+          "stars_per_day": 246.6,
+          "language": "Python",
+          "html_url": "https://github.com/mattmireles/gemma-tuner-multimodal",
+          "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders."
+        },
+        {
+          "full_name": "QLHazyCoder/codex-oauth-automation-extension",
+          "stars": 985,
+          "stars_per_day": 246.3,
+          "language": "JavaScript",
+          "html_url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
+          "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复"
+        },
+        {
+          "full_name": "nashsu/llm_wiki",
+          "stars": 959,
+          "stars_per_day": 239.8,
+          "language": "TypeScript",
+          "html_url": "https://github.com/nashsu/llm_wiki",
+          "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base"
+        },
+        {
+          "full_name": "whwangovo/pyre-code",
+          "stars": 591,
+          "stars_per_day": 197,
+          "language": "Python",
+          "html_url": "https://github.com/whwangovo/pyre-code",
+          "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion"
+        },
+        {
+          "full_name": "joeynyc/hermes-hudui",
+          "stars": 729,
+          "stars_per_day": 182.3,
+          "language": "Python",
+          "html_url": "https://github.com/joeynyc/hermes-hudui",
+          "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory"
+        },
+        {
+          "full_name": "phuryn/claude-usage",
+          "stars": 879,
+          "stars_per_day": 175.8,
+          "language": "Python",
+          "html_url": "https://github.com/phuryn/claude-usage",
+          "description": "A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a p"
+        },
+        {
+          "full_name": "AMAP-ML/SkillClaw",
+          "stars": 453,
+          "stars_per_day": 151,
+          "language": "Python",
+          "html_url": "https://github.com/AMAP-ML/SkillClaw",
+          "description": "Let Skills Evolve Collectively with Agentic Evolver "
+        },
+        {
+          "full_name": "obdev/littlesnitch-linux",
+          "stars": 603,
+          "stars_per_day": 150.8,
+          "language": "Rust",
+          "html_url": "https://github.com/obdev/littlesnitch-linux",
+          "description": "Open Source components of Little Snitch for Linux"
+        },
+        {
+          "full_name": "AgriciDaniel/claude-obsidian",
+          "stars": 696,
+          "stars_per_day": 139.2,
+          "language": "Shell",
+          "html_url": "https://github.com/AgriciDaniel/claude-obsidian",
+          "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /s"
+        },
+        {
+          "full_name": "brooks376/Happy-Horse-1.0",
+          "stars": 548,
+          "stars_per_day": 109.6,
+          "language": "Unknown",
+          "html_url": "https://github.com/brooks376/Happy-Horse-1.0",
+          "description": "Information collection for the Happy Horse AI video generator model. Official demo and updates at happyhorses.io."
+        }
+      ]
     }
   },
   "repos": {
@@ -15840,9 +16208,9 @@
     },
     "Xiangyue-Zhang/auto-deep-researcher-24x7": {
       "first_seen": "2026-04-08",
-      "last_seen": "2026-04-12",
-      "days_seen": 5,
-      "peak_stars": 276,
+      "last_seen": "2026-04-13",
+      "days_seen": 6,
+      "peak_stars": 329,
       "peak_spd": 193,
       "language": "Python",
       "html_url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
@@ -15850,9 +16218,9 @@
     },
     "joyehuang/Learn-Open-Harness": {
       "first_seen": "2026-04-08",
-      "last_seen": "2026-04-12",
-      "days_seen": 5,
-      "peak_stars": 208,
+      "last_seen": "2026-04-13",
+      "days_seen": 6,
+      "peak_stars": 231,
       "peak_spd": 129,
       "language": "TypeScript",
       "html_url": "https://github.com/joyehuang/Learn-Open-Harness",
@@ -16030,9 +16398,9 @@
     },
     "mduongvandinh/llm-wiki": {
       "first_seen": "2026-04-09",
-      "last_seen": "2026-04-12",
-      "days_seen": 4,
-      "peak_stars": 172,
+      "last_seen": "2026-04-13",
+      "days_seen": 5,
+      "peak_stars": 175,
       "peak_spd": 131,
       "language": "HTML",
       "html_url": "https://github.com/mduongvandinh/llm-wiki",
@@ -16040,9 +16408,9 @@
     },
     "ttguy0707/CyberClaw": {
       "first_seen": "2026-04-09",
-      "last_seen": "2026-04-09",
-      "days_seen": 1,
-      "peak_stars": 44,
+      "last_seen": "2026-04-13",
+      "days_seen": 2,
+      "peak_stars": 80,
       "peak_spd": 44,
       "language": "Python",
       "html_url": "https://github.com/ttguy0707/CyberClaw",
@@ -16060,9 +16428,9 @@
     },
     "Maxiinreanimate/Percolate": {
       "first_seen": "2026-04-09",
-      "last_seen": "2026-04-12",
-      "days_seen": 4,
-      "peak_stars": 51,
+      "last_seen": "2026-04-13",
+      "days_seen": 5,
+      "peak_stars": 52,
       "peak_spd": 23,
       "language": "Rust",
       "html_url": "https://github.com/Maxiinreanimate/Percolate",
@@ -16130,9 +16498,9 @@
     },
     "farzaa/clicky": {
       "first_seen": "2026-04-09",
-      "last_seen": "2026-04-12",
-      "days_seen": 4,
-      "peak_stars": 3791,
+      "last_seen": "2026-04-13",
+      "days_seen": 5,
+      "peak_stars": 3961,
       "peak_spd": 2293,
       "language": "Swift",
       "html_url": "https://github.com/farzaa/clicky",
@@ -16140,9 +16508,9 @@
     },
     "mattmireles/gemma-tuner-multimodal": {
       "first_seen": "2026-04-09",
-      "last_seen": "2026-04-12",
-      "days_seen": 4,
-      "peak_stars": 1197,
+      "last_seen": "2026-04-13",
+      "days_seen": 5,
+      "peak_stars": 1233,
       "peak_spd": 759,
       "language": "Python",
       "html_url": "https://github.com/mattmireles/gemma-tuner-multimodal",
@@ -16180,9 +16548,9 @@
     },
     "yanhua1010/zero-to-ai-fullstack": {
       "first_seen": "2026-04-10",
-      "last_seen": "2026-04-12",
-      "days_seen": 3,
-      "peak_stars": 124,
+      "last_seen": "2026-04-13",
+      "days_seen": 4,
+      "peak_stars": 139,
       "peak_spd": 37.3,
       "language": "Python",
       "html_url": "https://github.com/yanhua1010/zero-to-ai-fullstack",
@@ -16200,9 +16568,9 @@
     },
     "agi-now/buffett-skills": {
       "first_seen": "2026-04-10",
-      "last_seen": "2026-04-12",
-      "days_seen": 3,
-      "peak_stars": 35,
+      "last_seen": "2026-04-13",
+      "days_seen": 4,
+      "peak_stars": 55,
       "peak_spd": 23,
       "language": "Unknown",
       "html_url": "https://github.com/agi-now/buffett-skills",
@@ -16240,8 +16608,8 @@
     },
     "chris-lopezcode95j1/crypto-signal-pro": {
       "first_seen": "2026-04-10",
-      "last_seen": "2026-04-12",
-      "days_seen": 3,
+      "last_seen": "2026-04-13",
+      "days_seen": 4,
       "peak_stars": 8,
       "peak_spd": 6,
       "language": "Unknown",
@@ -16280,9 +16648,9 @@
     },
     "alchaincyf/hermes-agent-orange-book": {
       "first_seen": "2026-04-10",
-      "last_seen": "2026-04-12",
-      "days_seen": 3,
-      "peak_stars": 1914,
+      "last_seen": "2026-04-13",
+      "days_seen": 4,
+      "peak_stars": 2143,
       "peak_spd": 562,
       "language": "Unknown",
       "html_url": "https://github.com/alchaincyf/hermes-agent-orange-book",
@@ -16300,9 +16668,9 @@
     },
     "geekjourneyx/agora": {
       "first_seen": "2026-04-11",
-      "last_seen": "2026-04-12",
-      "days_seen": 2,
-      "peak_stars": 101,
+      "last_seen": "2026-04-13",
+      "days_seen": 3,
+      "peak_stars": 109,
       "peak_spd": 33.7,
       "language": "Unknown",
       "html_url": "https://github.com/geekjourneyx/agora",
@@ -16340,8 +16708,8 @@
     },
     "das231awde/Wick.fun": {
       "first_seen": "2026-04-11",
-      "last_seen": "2026-04-12",
-      "days_seen": 2,
+      "last_seen": "2026-04-13",
+      "days_seen": 3,
       "peak_stars": 28,
       "peak_spd": 28,
       "language": "Rust",
@@ -16350,9 +16718,9 @@
     },
     "clodesnow/polymarket-arbitrage-trading-bot": {
       "first_seen": "2026-04-11",
-      "last_seen": "2026-04-12",
-      "days_seen": 2,
-      "peak_stars": 46,
+      "last_seen": "2026-04-13",
+      "days_seen": 3,
+      "peak_stars": 55,
       "peak_spd": 23,
       "language": "TypeScript",
       "html_url": "https://github.com/clodesnow/polymarket-arbitrage-trading-bot",
@@ -16360,9 +16728,9 @@
     },
     "ganggang1221/polymarket-sports-copy-trading-bot": {
       "first_seen": "2026-04-11",
-      "last_seen": "2026-04-12",
-      "days_seen": 2,
-      "peak_stars": 31,
+      "last_seen": "2026-04-13",
+      "days_seen": 3,
+      "peak_stars": 33,
       "peak_spd": 15.5,
       "language": "TypeScript",
       "html_url": "https://github.com/ganggang1221/polymarket-sports-copy-trading-bot",
@@ -16370,8 +16738,8 @@
     },
     "kyle-garcialab03o4/AI-Trader": {
       "first_seen": "2026-04-11",
-      "last_seen": "2026-04-12",
-      "days_seen": 2,
+      "last_seen": "2026-04-13",
+      "days_seen": 3,
       "peak_stars": 8,
       "peak_spd": 8,
       "language": "Unknown",
@@ -16380,8 +16748,8 @@
     },
     "daniel-taylor-io1992t8/exodus-extension": {
       "first_seen": "2026-04-11",
-      "last_seen": "2026-04-12",
-      "days_seen": 2,
+      "last_seen": "2026-04-13",
+      "days_seen": 3,
       "peak_stars": 8,
       "peak_spd": 8,
       "language": "Unknown",
@@ -16400,9 +16768,9 @@
     },
     "phuryn/claude-usage": {
       "first_seen": "2026-04-11",
-      "last_seen": "2026-04-12",
-      "days_seen": 2,
-      "peak_stars": 856,
+      "last_seen": "2026-04-13",
+      "days_seen": 3,
+      "peak_stars": 879,
       "peak_spd": 272.3,
       "language": "Python",
       "html_url": "https://github.com/phuryn/claude-usage",
@@ -16430,9 +16798,9 @@
     },
     "dengxianghua888-ops/ecoalign-forge": {
       "first_seen": "2026-04-12",
-      "last_seen": "2026-04-12",
-      "days_seen": 1,
-      "peak_stars": 60,
+      "last_seen": "2026-04-13",
+      "days_seen": 2,
+      "peak_stars": 104,
       "peak_spd": 60,
       "language": "Python",
       "html_url": "https://github.com/dengxianghua888-ops/ecoalign-forge",
@@ -16440,19 +16808,19 @@
     },
     "litmus4ai/litmus": {
       "first_seen": "2026-04-12",
-      "last_seen": "2026-04-12",
-      "days_seen": 1,
-      "peak_stars": 43,
-      "peak_spd": 43,
+      "last_seen": "2026-04-13",
+      "days_seen": 2,
+      "peak_stars": 77,
+      "peak_spd": 77,
       "language": "TypeScript",
       "html_url": "https://github.com/litmus4ai/litmus",
       "description": "⚡ Unit tests for AI. Test prompts, compare models, save money."
     },
     "xuange520/ruishu-mcp": {
       "first_seen": "2026-04-12",
-      "last_seen": "2026-04-12",
-      "days_seen": 1,
-      "peak_stars": 40,
+      "last_seen": "2026-04-13",
+      "days_seen": 2,
+      "peak_stars": 48,
       "peak_spd": 40,
       "language": "TypeScript",
       "html_url": "https://github.com/xuange520/ruishu-mcp",
@@ -16460,9 +16828,9 @@
     },
     "AyanbekDos/memoriki": {
       "first_seen": "2026-04-12",
-      "last_seen": "2026-04-12",
-      "days_seen": 1,
-      "peak_stars": 40,
+      "last_seen": "2026-04-13",
+      "days_seen": 2,
+      "peak_stars": 48,
       "peak_spd": 20,
       "language": "Unknown",
       "html_url": "https://github.com/AyanbekDos/memoriki",
@@ -16490,8 +16858,8 @@
     },
     "KirobotDev/Heatmap-Dashboard": {
       "first_seen": "2026-04-12",
-      "last_seen": "2026-04-12",
-      "days_seen": 1,
+      "last_seen": "2026-04-13",
+      "days_seen": 2,
       "peak_stars": 7,
       "peak_spd": 7,
       "language": "HTML",
@@ -16500,8 +16868,8 @@
     },
     "krishpranav/ferrocrawl": {
       "first_seen": "2026-04-12",
-      "last_seen": "2026-04-12",
-      "days_seen": 1,
+      "last_seen": "2026-04-13",
+      "days_seen": 2,
       "peak_stars": 2,
       "peak_spd": 2,
       "language": "Rust",
@@ -16520,9 +16888,9 @@
     },
     "yizhiyanhua-ai/fireworks-tech-graph": {
       "first_seen": "2026-04-12",
-      "last_seen": "2026-04-12",
-      "days_seen": 1,
-      "peak_stars": 1071,
+      "last_seen": "2026-04-13",
+      "days_seen": 2,
+      "peak_stars": 1665,
       "peak_spd": 1071,
       "language": "Shell",
       "html_url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
@@ -16530,9 +16898,9 @@
     },
     "nashsu/llm_wiki": {
       "first_seen": "2026-04-12",
-      "last_seen": "2026-04-12",
-      "days_seen": 1,
-      "peak_stars": 730,
+      "last_seen": "2026-04-13",
+      "days_seen": 2,
+      "peak_stars": 959,
       "peak_spd": 243.3,
       "language": "TypeScript",
       "html_url": "https://github.com/nashsu/llm_wiki",
@@ -16540,19 +16908,19 @@
     },
     "QLHazyCoder/codex-oauth-automation-extension": {
       "first_seen": "2026-04-12",
-      "last_seen": "2026-04-12",
-      "days_seen": 1,
-      "peak_stars": 690,
-      "peak_spd": 230,
+      "last_seen": "2026-04-13",
+      "days_seen": 2,
+      "peak_stars": 985,
+      "peak_spd": 246.3,
       "language": "JavaScript",
       "html_url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
       "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复"
     },
     "joeynyc/hermes-hudui": {
       "first_seen": "2026-04-12",
-      "last_seen": "2026-04-12",
-      "days_seen": 1,
-      "peak_stars": 584,
+      "last_seen": "2026-04-13",
+      "days_seen": 2,
+      "peak_stars": 729,
       "peak_spd": 194.7,
       "language": "Python",
       "html_url": "https://github.com/joeynyc/hermes-hudui",
@@ -16587,6 +16955,176 @@
       "language": "Unknown",
       "html_url": "https://github.com/tmstack/awesome-persona-skills",
       "description": "同事.skill、老板.skill、前任.skill、自己.skill、永生.skill、女娲.skill……  "
+    },
+    "amitshekhariitbhu/llm-internals": {
+      "first_seen": "2026-04-13",
+      "last_seen": "2026-04-13",
+      "days_seen": 1,
+      "peak_stars": 82,
+      "peak_spd": 82,
+      "language": "Unknown",
+      "html_url": "https://github.com/amitshekhariitbhu/llm-internals",
+      "description": "Learn LLM internals step by step - from tokenization to attention to inference optimization."
+    },
+    "rudrankriyam/Foundation-Models-Framework-CLI": {
+      "first_seen": "2026-04-13",
+      "last_seen": "2026-04-13",
+      "days_seen": 1,
+      "peak_stars": 45,
+      "peak_spd": 45,
+      "language": "Swift",
+      "html_url": "https://github.com/rudrankriyam/Foundation-Models-Framework-CLI",
+      "description": "A powerful command-line interface for Foundation Models on Apple platforms."
+    },
+    "Pratiyush/llm-wiki": {
+      "first_seen": "2026-04-13",
+      "last_seen": "2026-04-13",
+      "days_seen": 1,
+      "peak_stars": 68,
+      "peak_spd": 13.6,
+      "language": "Python",
+      "html_url": "https://github.com/Pratiyush/llm-wiki",
+      "description": "LLM-powered knowledge base from your Claude Code, Codex CLI, Copilot, Cursor & Gemini sessions. Karpathy's LLM Wiki patt"
+    },
+    "416rehman/DeepZero": {
+      "first_seen": "2026-04-13",
+      "last_seen": "2026-04-13",
+      "days_seen": 1,
+      "peak_stars": 69,
+      "peak_spd": 11.5,
+      "language": "Python",
+      "html_url": "https://github.com/416rehman/DeepZero",
+      "description": "Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parses, decompiles, and a"
+    },
+    "AaronWong1999/hermesclaw": {
+      "first_seen": "2026-04-13",
+      "last_seen": "2026-04-13",
+      "days_seen": 1,
+      "peak_stars": 23,
+      "peak_spd": 11.5,
+      "language": "Python",
+      "html_url": "https://github.com/AaronWong1999/hermesclaw",
+      "description": "Run Hermes Agent and OpenClaw on the same WeChat account"
+    },
+    "elisymlabs/elisym": {
+      "first_seen": "2026-04-13",
+      "last_seen": "2026-04-13",
+      "days_seen": 1,
+      "peak_stars": 7,
+      "peak_spd": 2.3,
+      "language": "TypeScript",
+      "html_url": "https://github.com/elisymlabs/elisym",
+      "description": "Open infrastructure for AI agents to discover and pay each other"
+    },
+    "PizzadatCode/DeltaYield": {
+      "first_seen": "2026-04-13",
+      "last_seen": "2026-04-13",
+      "days_seen": 1,
+      "peak_stars": 2,
+      "peak_spd": 2,
+      "language": "Unknown",
+      "html_url": "https://github.com/PizzadatCode/DeltaYield",
+      "description": "Open-source research knowledge base for delta-neutral crypto yield farming using Jupiter's JLP on Solana. 25 wiki pages,"
+    },
+    "kiraxbt/btcx": {
+      "first_seen": "2026-04-13",
+      "last_seen": "2026-04-13",
+      "days_seen": 1,
+      "peak_stars": 2,
+      "peak_spd": 2,
+      "language": "Go",
+      "html_url": "https://github.com/kiraxbt/btcx",
+      "description": "Terminal UI for managing Bitcoin wallets — built in Go"
+    },
+    "roko-help/roko": {
+      "first_seen": "2026-04-13",
+      "last_seen": "2026-04-13",
+      "days_seen": 1,
+      "peak_stars": 2,
+      "peak_spd": 2,
+      "language": "HTML",
+      "html_url": "https://github.com/roko-help/roko",
+      "description": "Free, open-source crypto safety checker. Paste a domain or wallet – get a risk score in seconds. 🦝"
+    },
+    "Quantumrune-qrune/quantumrune": {
+      "first_seen": "2026-04-13",
+      "last_seen": "2026-04-13",
+      "days_seen": 1,
+      "peak_stars": 1,
+      "peak_spd": 1,
+      "language": "Unknown",
+      "html_url": "https://github.com/Quantumrune-qrune/quantumrune",
+      "description": "QuantumRune (QRUNE) — A narrative-driven digital asset aligned with the quantum computing era"
+    },
+    "alchaincyf/obsidian-ai-orange-book": {
+      "first_seen": "2026-04-13",
+      "last_seen": "2026-04-13",
+      "days_seen": 1,
+      "peak_stars": 436,
+      "peak_spd": 436,
+      "language": "Unknown",
+      "html_url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
+      "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑"
+    },
+    "vyfor/rattles": {
+      "first_seen": "2026-04-13",
+      "last_seen": "2026-04-13",
+      "days_seen": 1,
+      "peak_stars": 649,
+      "peak_spd": 324.5,
+      "language": "Rust",
+      "html_url": "https://github.com/vyfor/rattles",
+      "description": "🪇 Minimal terminal spinners for Rust"
+    },
+    "whwangovo/pyre-code": {
+      "first_seen": "2026-04-13",
+      "last_seen": "2026-04-13",
+      "days_seen": 1,
+      "peak_stars": 591,
+      "peak_spd": 197,
+      "language": "Python",
+      "html_url": "https://github.com/whwangovo/pyre-code",
+      "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion"
+    },
+    "AMAP-ML/SkillClaw": {
+      "first_seen": "2026-04-13",
+      "last_seen": "2026-04-13",
+      "days_seen": 1,
+      "peak_stars": 453,
+      "peak_spd": 151,
+      "language": "Python",
+      "html_url": "https://github.com/AMAP-ML/SkillClaw",
+      "description": "Let Skills Evolve Collectively with Agentic Evolver "
+    },
+    "obdev/littlesnitch-linux": {
+      "first_seen": "2026-04-13",
+      "last_seen": "2026-04-13",
+      "days_seen": 1,
+      "peak_stars": 603,
+      "peak_spd": 150.8,
+      "language": "Rust",
+      "html_url": "https://github.com/obdev/littlesnitch-linux",
+      "description": "Open Source components of Little Snitch for Linux"
+    },
+    "AgriciDaniel/claude-obsidian": {
+      "first_seen": "2026-04-13",
+      "last_seen": "2026-04-13",
+      "days_seen": 1,
+      "peak_stars": 696,
+      "peak_spd": 139.2,
+      "language": "Shell",
+      "html_url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /s"
+    },
+    "brooks376/Happy-Horse-1.0": {
+      "first_seen": "2026-04-13",
+      "last_seen": "2026-04-13",
+      "days_seen": 1,
+      "peak_stars": 548,
+      "peak_spd": 109.6,
+      "language": "Unknown",
+      "html_url": "https://github.com/brooks376/Happy-Horse-1.0",
+      "description": "Information collection for the Happy Horse AI video generator model. Official demo and updates at happyhorses.io."
     }
   }
 }
