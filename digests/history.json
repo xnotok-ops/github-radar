@@ -12511,6 +12511,374 @@
           "description": "Information collection for the Happy Horse AI video generator model. Official demo and updates at happyhorses.io."
         }
       ]
+    },
+    "2026-04-15": {
+      "ai-llm": [
+        {
+          "full_name": "amitshekhariitbhu/llm-internals",
+          "stars": 340,
+          "stars_per_day": 170,
+          "language": "Unknown",
+          "html_url": "https://github.com/amitshekhariitbhu/llm-internals",
+          "description": "Learn LLM internals step by step - from tokenization to attention to inference optimization."
+        },
+        {
+          "full_name": "inhouseseo/superseo-skills",
+          "stars": 37,
+          "stars_per_day": 37,
+          "language": "Unknown",
+          "html_url": "https://github.com/inhouseseo/superseo-skills",
+          "description": "11 Claude skills for SEO: page audits, linkbuilding, article writing, E-E-A-T audits, semantic gap analysis, link buildi"
+        },
+        {
+          "full_name": "run-llama/ParseBench",
+          "stars": 124,
+          "stars_per_day": 31,
+          "language": "Python",
+          "html_url": "https://github.com/run-llama/ParseBench",
+          "description": "ParseBench - A Document Parsing Benchmark for AI Agents"
+        },
+        {
+          "full_name": "litmus4ai/litmus",
+          "stars": 91,
+          "stars_per_day": 30.3,
+          "language": "TypeScript",
+          "html_url": "https://github.com/litmus4ai/litmus",
+          "description": "⚡ Unit tests for AI. Test prompts, compare models, save money."
+        },
+        {
+          "full_name": "dengxianghua888-ops/ecoalign-forge",
+          "stars": 115,
+          "stars_per_day": 28.8,
+          "language": "Python",
+          "html_url": "https://github.com/dengxianghua888-ops/ecoalign-forge",
+          "description": "Multi-Agent DPO Data Synthesis Factory — 多智能体偏好训练数据自动合成框架 | 红队攻击 → 多persona审核 → 终审裁决 → DPO偏好对"
+        },
+        {
+          "full_name": "Hainrixz/cyber-neo",
+          "stars": 41,
+          "stars_per_day": 20.5,
+          "language": "Python",
+          "html_url": "https://github.com/Hainrixz/cyber-neo",
+          "description": "Open-source cybersecurity analysis agent for Claude Code. Scans projects for vulnerabilities across all OWASP 2025 Top 1"
+        },
+        {
+          "full_name": "WisdomShell/GRIP",
+          "stars": 20,
+          "stars_per_day": 20,
+          "language": "Python",
+          "html_url": "https://github.com/WisdomShell/GRIP",
+          "description": "[ACL'26 Main Conference] Retrieval as Generation: A Unified Framework with Self-Triggered Information Planning"
+        },
+        {
+          "full_name": "xuange520/ruishu-mcp",
+          "stars": 59,
+          "stars_per_day": 19.7,
+          "language": "TypeScript",
+          "html_url": "https://github.com/xuange520/ruishu-mcp",
+          "description": "🚀 专为 AI Agent 打造的瑞数防爬流量净化 MCP 工具 / An MCP Tool for AI Agents to Stealthily Bypass and Purify Ruishu WAF Traffic"
+        },
+        {
+          "full_name": "fstech-digital/operational-ontology-framework",
+          "stars": 33,
+          "stars_per_day": 16.5,
+          "language": "Python",
+          "html_url": "https://github.com/fstech-digital/operational-ontology-framework",
+          "description": "Framework de Ontologia Operacional — Pin/Spec/Handoff protocol for stateful AI agents. CC BY 4.0."
+        },
+        {
+          "full_name": "AaronWong1999/hermesclaw",
+          "stars": 65,
+          "stars_per_day": 16.3,
+          "language": "Python",
+          "html_url": "https://github.com/AaronWong1999/hermesclaw",
+          "description": "Run Hermes Agent and OpenClaw on the same WeChat account"
+        },
+        {
+          "full_name": "rudrankriyam/Foundation-Models-Framework-CLI",
+          "stars": 47,
+          "stars_per_day": 15.7,
+          "language": "Swift",
+          "html_url": "https://github.com/rudrankriyam/Foundation-Models-Framework-CLI",
+          "description": "A powerful command-line interface for Foundation Models on Apple platforms."
+        },
+        {
+          "full_name": "FreePeak/LeanKG",
+          "stars": 15,
+          "stars_per_day": 15,
+          "language": "Rust",
+          "html_url": "https://github.com/FreePeak/LeanKG",
+          "description": "LeanKG: Stop Burning Tokens. Start Coding Lean."
+        },
+        {
+          "full_name": "megeezy/Chameleon",
+          "stars": 38,
+          "stars_per_day": 12.7,
+          "language": "Rust",
+          "html_url": "https://github.com/megeezy/Chameleon",
+          "description": "Stateless LLM runtime that dynamically routes, loads, executes, and unloads models per request with bounded VRAM caching"
+        },
+        {
+          "full_name": "AyanbekDos/memoriki",
+          "stars": 60,
+          "stars_per_day": 12,
+          "language": "Unknown",
+          "html_url": "https://github.com/AyanbekDos/memoriki",
+          "description": "Memoriki - LLM Wiki + MemPalace. Personal knowledge base with real memory."
+        },
+        {
+          "full_name": "Mintzs/oogaboogalm",
+          "stars": 39,
+          "stars_per_day": 9.8,
+          "language": "Unknown",
+          "html_url": "https://github.com/Mintzs/oogaboogalm",
+          "description": "We have caveman system prompts and skills for AI models to reduce token use, why not try bake it into the model itself w"
+        }
+      ],
+      "crypto-web3": [
+        {
+          "full_name": "clodesnow/polymarket-arbitrage-trading-bot",
+          "stars": 52,
+          "stars_per_day": 10.4,
+          "language": "TypeScript",
+          "html_url": "https://github.com/clodesnow/polymarket-arbitrage-trading-bot",
+          "description": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage"
+        },
+        {
+          "full_name": "Jet-Fadil/polymarket-sports-copy-trading-bot",
+          "stars": 49,
+          "stars_per_day": 9.8,
+          "language": "TypeScript",
+          "html_url": "https://github.com/Jet-Fadil/polymarket-sports-copy-trading-bot",
+          "description": "Polymarket Trading Bot Polymarket Copy Trading Bot Polymarket Trading Bot Polymarket Copy Trading Bot Polymarket Trading"
+        },
+        {
+          "full_name": "das231awde/Wick.fun",
+          "stars": 20,
+          "stars_per_day": 5,
+          "language": "Rust",
+          "html_url": "https://github.com/das231awde/Wick.fun",
+          "description": "Welcome to the official Wick.fun repository."
+        },
+        {
+          "full_name": "KirobotDev/Heatmap-Dashboard",
+          "stars": 7,
+          "stars_per_day": 2.3,
+          "language": "HTML",
+          "html_url": "https://github.com/KirobotDev/Heatmap-Dashboard",
+          "description": "🔥 Interactive crypto heatmap dashboard with real-time CoinGecko data. Visual market cap blocks with 24h performance col"
+        },
+        {
+          "full_name": "orbitflare/orbitflare-sdk-rs",
+          "stars": 2,
+          "stars_per_day": 2,
+          "language": "Rust",
+          "html_url": "https://github.com/orbitflare/orbitflare-sdk-rs",
+          "description": "Rust SDK for OrbitFlare. RPC, gRPC (Yellowstone), JetStream, and WebSocket clients with built-in retry, failover, and re"
+        },
+        {
+          "full_name": "kyle-garcialab03o4/AI-Trader",
+          "stars": 8,
+          "stars_per_day": 2,
+          "language": "Unknown",
+          "html_url": "https://github.com/kyle-garcialab03o4/AI-Trader",
+          "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\""
+        },
+        {
+          "full_name": "daniel-taylor-io1992t8/exodus-extension",
+          "stars": 8,
+          "stars_per_day": 2,
+          "language": "Unknown",
+          "html_url": "https://github.com/daniel-taylor-io1992t8/exodus-extension",
+          "description": "🌐 🔌 The Exodus browser extension enables browsing Ethereum blockchain enabled websites"
+        },
+        {
+          "full_name": "trustfab/gapchain",
+          "stars": 2,
+          "stars_per_day": 2,
+          "language": "JavaScript",
+          "html_url": "https://github.com/trustfab/gapchain",
+          "description": "Truy xuất Nguồn gốc. Nông sản sạch xứng đáng được chứng minh bằng dữ liệu — không phải tem dán · Hyperledger Fabric · Ag"
+        },
+        {
+          "full_name": "genoshide/wallet-mcp",
+          "stars": 8,
+          "stars_per_day": 1.6,
+          "language": "Python",
+          "html_url": "https://github.com/genoshide/wallet-mcp",
+          "description": "Multi-chain wallet generator & manager — MCP server for AI agents. Generate, fund, sweep Solana/EVM wallet groups via Cl"
+        },
+        {
+          "full_name": "chris-lopezcode95j1/crypto-signal-pro",
+          "stars": 8,
+          "stars_per_day": 1.6,
+          "language": "Unknown",
+          "html_url": "https://github.com/chris-lopezcode95j1/crypto-signal-pro",
+          "description": "A bot signal protocol for Node.js, enabling advanced crypto trading and analysis. Includes a static website with a serve"
+        },
+        {
+          "full_name": "elisymlabs/elisym",
+          "stars": 7,
+          "stars_per_day": 1.4,
+          "language": "TypeScript",
+          "html_url": "https://github.com/elisymlabs/elisym",
+          "description": "Open infrastructure for AI agents to discover and pay each other"
+        },
+        {
+          "full_name": "szhygulin/vaultpilot-mcp",
+          "stars": 2,
+          "stars_per_day": 1,
+          "language": "TypeScript",
+          "html_url": "https://github.com/szhygulin/vaultpilot-mcp",
+          "description": "MCP server for AI agents (Claude, Cursor) to manage a self-custodial crypto portfolio on major chains via Ledger + Walle"
+        },
+        {
+          "full_name": "PizzadatCode/DeltaYield",
+          "stars": 2,
+          "stars_per_day": 1,
+          "language": "Unknown",
+          "html_url": "https://github.com/PizzadatCode/DeltaYield",
+          "description": "Open-source research knowledge base for delta-neutral crypto yield farming using Jupiter's JLP on Solana. 25 wiki pages,"
+        },
+        {
+          "full_name": "xcodenexus/-OwlSniperMVP",
+          "stars": 1,
+          "stars_per_day": 1,
+          "language": "TypeScript",
+          "html_url": "https://github.com/xcodenexus/-OwlSniperMVP",
+          "description": "Solana token sniper bot for Nigerian crypto traders — Telegram bot with   safety scanner and NGN/USD P&L"
+        },
+        {
+          "full_name": "darksanctum/jupiter-sentinel",
+          "stars": 1,
+          "stars_per_day": 1,
+          "language": "Python",
+          "html_url": "https://github.com/darksanctum/jupiter-sentinel",
+          "description": "Autonomous AI DeFi agent combining multiple Jupiter APIs - volatility scanner, trade executor, risk manager, arbitrage d"
+        }
+      ],
+      "general": [
+        {
+          "full_name": "AgentSeal/codeburn",
+          "stars": 999,
+          "stars_per_day": 999,
+          "language": "TypeScript",
+          "html_url": "https://github.com/AgentSeal/codeburn",
+          "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code and Codex cost observability."
+        },
+        {
+          "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
+          "stars": 2558,
+          "stars_per_day": 639.5,
+          "language": "Python",
+          "html_url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+          "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual style"
+        },
+        {
+          "full_name": "alchaincyf/darwin-skill",
+          "stars": 629,
+          "stars_per_day": 629,
+          "language": "HTML",
+          "html_url": "https://github.com/alchaincyf/darwin-skill",
+          "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Eva"
+        },
+        {
+          "full_name": "yaojingang/GEOFlow",
+          "stars": 534,
+          "stars_per_day": 534,
+          "language": "PHP",
+          "html_url": "https://github.com/yaojingang/GEOFlow",
+          "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing."
+        },
+        {
+          "full_name": "sterlingcrispin/nothing-ever-happens",
+          "stars": 714,
+          "stars_per_day": 357,
+          "language": "Python",
+          "html_url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+          "description": "Polymarket bot that buys \"No\" on all non-sports markets"
+        },
+        {
+          "full_name": "Mouseww/anything-analyzer",
+          "stars": 656,
+          "stars_per_day": 328,
+          "language": "TypeScript",
+          "html_url": "https://github.com/Mouseww/anything-analyzer",
+          "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器或应用行为 的协议分析文档"
+        },
+        {
+          "full_name": "patterniha/SNI-Spoofing",
+          "stars": 560,
+          "stars_per_day": 280,
+          "language": "Python",
+          "html_url": "https://github.com/patterniha/SNI-Spoofing",
+          "description": "Bypass DPI with IP/TCP-Header manipulation"
+        },
+        {
+          "full_name": "QLHazyCoder/codex-oauth-automation-extension",
+          "stars": 1401,
+          "stars_per_day": 233.5,
+          "language": "JavaScript",
+          "html_url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
+          "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复"
+        },
+        {
+          "full_name": "vyfor/rattles",
+          "stars": 857,
+          "stars_per_day": 214.3,
+          "language": "Rust",
+          "html_url": "https://github.com/vyfor/rattles",
+          "description": "🪇 Minimal terminal spinners for Rust"
+        },
+        {
+          "full_name": "alchaincyf/obsidian-ai-orange-book",
+          "stars": 609,
+          "stars_per_day": 203,
+          "language": "Unknown",
+          "html_url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
+          "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑"
+        },
+        {
+          "full_name": "OpenMOSS/MOSS-TTS-Nano",
+          "stars": 803,
+          "stars_per_day": 200.8,
+          "language": "Python",
+          "html_url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
+          "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only "
+        },
+        {
+          "full_name": "joeynyc/hermes-hudui",
+          "stars": 883,
+          "stars_per_day": 147.2,
+          "language": "TypeScript",
+          "html_url": "https://github.com/joeynyc/hermes-hudui",
+          "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory"
+        },
+        {
+          "full_name": "whwangovo/pyre-code",
+          "stars": 693,
+          "stars_per_day": 138.6,
+          "language": "Python",
+          "html_url": "https://github.com/whwangovo/pyre-code",
+          "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion"
+        },
+        {
+          "full_name": "hamen/material-3-skill",
+          "stars": 610,
+          "stars_per_day": 122,
+          "language": "Unknown",
+          "html_url": "https://github.com/hamen/material-3-skill",
+          "description": "Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance "
+        },
+        {
+          "full_name": "AMAP-ML/SkillClaw",
+          "stars": 541,
+          "stars_per_day": 108.2,
+          "language": "Python",
+          "html_url": "https://github.com/AMAP-ML/SkillClaw",
+          "description": "Let Skills Evolve Collectively with Agentic Evolver "
+        }
+      ]
     }
   },
   "repos": {
@@ -16976,8 +17344,8 @@
     },
     "chris-lopezcode95j1/crypto-signal-pro": {
       "first_seen": "2026-04-10",
-      "last_seen": "2026-04-14",
-      "days_seen": 5,
+      "last_seen": "2026-04-15",
+      "days_seen": 6,
       "peak_stars": 8,
       "peak_spd": 6,
       "language": "Unknown",
@@ -16986,8 +17354,8 @@
     },
     "genoshide/wallet-mcp": {
       "first_seen": "2026-04-10",
-      "last_seen": "2026-04-14",
-      "days_seen": 2,
+      "last_seen": "2026-04-15",
+      "days_seen": 3,
       "peak_stars": 8,
       "peak_spd": 2,
       "language": "Python",
@@ -17076,8 +17444,8 @@
     },
     "das231awde/Wick.fun": {
       "first_seen": "2026-04-11",
-      "last_seen": "2026-04-14",
-      "days_seen": 4,
+      "last_seen": "2026-04-15",
+      "days_seen": 5,
       "peak_stars": 28,
       "peak_spd": 28,
       "language": "Rust",
@@ -17086,8 +17454,8 @@
     },
     "clodesnow/polymarket-arbitrage-trading-bot": {
       "first_seen": "2026-04-11",
-      "last_seen": "2026-04-14",
-      "days_seen": 4,
+      "last_seen": "2026-04-15",
+      "days_seen": 5,
       "peak_stars": 60,
       "peak_spd": 23,
       "language": "TypeScript",
@@ -17106,8 +17474,8 @@
     },
     "kyle-garcialab03o4/AI-Trader": {
       "first_seen": "2026-04-11",
-      "last_seen": "2026-04-14",
-      "days_seen": 4,
+      "last_seen": "2026-04-15",
+      "days_seen": 5,
       "peak_stars": 8,
       "peak_spd": 8,
       "language": "Unknown",
@@ -17116,8 +17484,8 @@
     },
     "daniel-taylor-io1992t8/exodus-extension": {
       "first_seen": "2026-04-11",
-      "last_seen": "2026-04-14",
-      "days_seen": 4,
+      "last_seen": "2026-04-15",
+      "days_seen": 5,
       "peak_stars": 8,
       "peak_spd": 8,
       "language": "Unknown",
@@ -17166,9 +17534,9 @@
     },
     "dengxianghua888-ops/ecoalign-forge": {
       "first_seen": "2026-04-12",
-      "last_seen": "2026-04-14",
-      "days_seen": 3,
-      "peak_stars": 104,
+      "last_seen": "2026-04-15",
+      "days_seen": 4,
+      "peak_stars": 115,
       "peak_spd": 60,
       "language": "Python",
       "html_url": "https://github.com/dengxianghua888-ops/ecoalign-forge",
@@ -17176,9 +17544,9 @@
     },
     "litmus4ai/litmus": {
       "first_seen": "2026-04-12",
-      "last_seen": "2026-04-14",
-      "days_seen": 3,
-      "peak_stars": 84,
+      "last_seen": "2026-04-15",
+      "days_seen": 4,
+      "peak_stars": 91,
       "peak_spd": 77,
       "language": "TypeScript",
       "html_url": "https://github.com/litmus4ai/litmus",
@@ -17186,9 +17554,9 @@
     },
     "xuange520/ruishu-mcp": {
       "first_seen": "2026-04-12",
-      "last_seen": "2026-04-14",
-      "days_seen": 3,
-      "peak_stars": 57,
+      "last_seen": "2026-04-15",
+      "days_seen": 4,
+      "peak_stars": 59,
       "peak_spd": 40,
       "language": "TypeScript",
       "html_url": "https://github.com/xuange520/ruishu-mcp",
@@ -17196,9 +17564,9 @@
     },
     "AyanbekDos/memoriki": {
       "first_seen": "2026-04-12",
-      "last_seen": "2026-04-14",
-      "days_seen": 3,
-      "peak_stars": 53,
+      "last_seen": "2026-04-15",
+      "days_seen": 4,
+      "peak_stars": 60,
       "peak_spd": 20,
       "language": "Unknown",
       "html_url": "https://github.com/AyanbekDos/memoriki",
@@ -17226,8 +17594,8 @@
     },
     "KirobotDev/Heatmap-Dashboard": {
       "first_seen": "2026-04-12",
-      "last_seen": "2026-04-14",
-      "days_seen": 3,
+      "last_seen": "2026-04-15",
+      "days_seen": 4,
       "peak_stars": 7,
       "peak_spd": 7,
       "language": "HTML",
@@ -17256,9 +17624,9 @@
     },
     "yizhiyanhua-ai/fireworks-tech-graph": {
       "first_seen": "2026-04-12",
-      "last_seen": "2026-04-14",
-      "days_seen": 3,
-      "peak_stars": 2090,
+      "last_seen": "2026-04-15",
+      "days_seen": 4,
+      "peak_stars": 2558,
       "peak_spd": 1071,
       "language": "Shell",
       "html_url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
@@ -17276,9 +17644,9 @@
     },
     "QLHazyCoder/codex-oauth-automation-extension": {
       "first_seen": "2026-04-12",
-      "last_seen": "2026-04-14",
-      "days_seen": 3,
-      "peak_stars": 1232,
+      "last_seen": "2026-04-15",
+      "days_seen": 4,
+      "peak_stars": 1401,
       "peak_spd": 246.4,
       "language": "JavaScript",
       "html_url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
@@ -17286,9 +17654,9 @@
     },
     "joeynyc/hermes-hudui": {
       "first_seen": "2026-04-12",
-      "last_seen": "2026-04-14",
-      "days_seen": 3,
-      "peak_stars": 843,
+      "last_seen": "2026-04-15",
+      "days_seen": 4,
+      "peak_stars": 883,
       "peak_spd": 194.7,
       "language": "Python",
       "html_url": "https://github.com/joeynyc/hermes-hudui",
@@ -17326,9 +17694,9 @@
     },
     "amitshekhariitbhu/llm-internals": {
       "first_seen": "2026-04-13",
-      "last_seen": "2026-04-14",
-      "days_seen": 2,
-      "peak_stars": 241,
+      "last_seen": "2026-04-15",
+      "days_seen": 3,
+      "peak_stars": 340,
       "peak_spd": 241,
       "language": "Unknown",
       "html_url": "https://github.com/amitshekhariitbhu/llm-internals",
@@ -17336,9 +17704,9 @@
     },
     "rudrankriyam/Foundation-Models-Framework-CLI": {
       "first_seen": "2026-04-13",
-      "last_seen": "2026-04-14",
-      "days_seen": 2,
-      "peak_stars": 46,
+      "last_seen": "2026-04-15",
+      "days_seen": 3,
+      "peak_stars": 47,
       "peak_spd": 45,
       "language": "Swift",
       "html_url": "https://github.com/rudrankriyam/Foundation-Models-Framework-CLI",
@@ -17366,18 +17734,18 @@
     },
     "AaronWong1999/hermesclaw": {
       "first_seen": "2026-04-13",
-      "last_seen": "2026-04-14",
-      "days_seen": 2,
-      "peak_stars": 42,
-      "peak_spd": 14,
+      "last_seen": "2026-04-15",
+      "days_seen": 3,
+      "peak_stars": 65,
+      "peak_spd": 16.3,
       "language": "Python",
       "html_url": "https://github.com/AaronWong1999/hermesclaw",
       "description": "Run Hermes Agent and OpenClaw on the same WeChat account"
     },
     "elisymlabs/elisym": {
       "first_seen": "2026-04-13",
-      "last_seen": "2026-04-14",
-      "days_seen": 2,
+      "last_seen": "2026-04-15",
+      "days_seen": 3,
       "peak_stars": 7,
       "peak_spd": 2.3,
       "language": "TypeScript",
@@ -17386,8 +17754,8 @@
     },
     "PizzadatCode/DeltaYield": {
       "first_seen": "2026-04-13",
-      "last_seen": "2026-04-14",
-      "days_seen": 2,
+      "last_seen": "2026-04-15",
+      "days_seen": 3,
       "peak_stars": 2,
       "peak_spd": 2,
       "language": "Unknown",
@@ -17426,9 +17794,9 @@
     },
     "alchaincyf/obsidian-ai-orange-book": {
       "first_seen": "2026-04-13",
-      "last_seen": "2026-04-14",
-      "days_seen": 2,
-      "peak_stars": 562,
+      "last_seen": "2026-04-15",
+      "days_seen": 3,
+      "peak_stars": 609,
       "peak_spd": 436,
       "language": "Unknown",
       "html_url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
@@ -17436,9 +17804,9 @@
     },
     "vyfor/rattles": {
       "first_seen": "2026-04-13",
-      "last_seen": "2026-04-14",
-      "days_seen": 2,
-      "peak_stars": 812,
+      "last_seen": "2026-04-15",
+      "days_seen": 3,
+      "peak_stars": 857,
       "peak_spd": 324.5,
       "language": "Rust",
       "html_url": "https://github.com/vyfor/rattles",
@@ -17446,9 +17814,9 @@
     },
     "whwangovo/pyre-code": {
       "first_seen": "2026-04-13",
-      "last_seen": "2026-04-14",
-      "days_seen": 2,
-      "peak_stars": 640,
+      "last_seen": "2026-04-15",
+      "days_seen": 3,
+      "peak_stars": 693,
       "peak_spd": 197,
       "language": "Python",
       "html_url": "https://github.com/whwangovo/pyre-code",
@@ -17456,9 +17824,9 @@
     },
     "AMAP-ML/SkillClaw": {
       "first_seen": "2026-04-13",
-      "last_seen": "2026-04-14",
-      "days_seen": 2,
-      "peak_stars": 507,
+      "last_seen": "2026-04-15",
+      "days_seen": 3,
+      "peak_stars": 541,
       "peak_spd": 151,
       "language": "Python",
       "html_url": "https://github.com/AMAP-ML/SkillClaw",
@@ -17496,9 +17864,9 @@
     },
     "Hainrixz/cyber-neo": {
       "first_seen": "2026-04-14",
-      "last_seen": "2026-04-14",
-      "days_seen": 1,
-      "peak_stars": 32,
+      "last_seen": "2026-04-15",
+      "days_seen": 2,
+      "peak_stars": 41,
       "peak_spd": 32,
       "language": "Python",
       "html_url": "https://github.com/Hainrixz/cyber-neo",
@@ -17506,20 +17874,20 @@
     },
     "run-llama/ParseBench": {
       "first_seen": "2026-04-14",
-      "last_seen": "2026-04-14",
-      "days_seen": 1,
-      "peak_stars": 59,
-      "peak_spd": 19.7,
+      "last_seen": "2026-04-15",
+      "days_seen": 2,
+      "peak_stars": 124,
+      "peak_spd": 31,
       "language": "Python",
       "html_url": "https://github.com/run-llama/ParseBench",
       "description": "ParseBench - A Document Parsing Benchmark for AI Agents"
     },
     "WisdomShell/GRIP": {
       "first_seen": "2026-04-14",
-      "last_seen": "2026-04-14",
-      "days_seen": 1,
-      "peak_stars": 18,
-      "peak_spd": 18,
+      "last_seen": "2026-04-15",
+      "days_seen": 2,
+      "peak_stars": 20,
+      "peak_spd": 20,
       "language": "Python",
       "html_url": "https://github.com/WisdomShell/GRIP",
       "description": "[ACL'26 Main Conference] Retrieval as Generation: A Unified Framework with Self-Triggered Information Planning"
@@ -17556,9 +17924,9 @@
     },
     "sterlingcrispin/nothing-ever-happens": {
       "first_seen": "2026-04-14",
-      "last_seen": "2026-04-14",
-      "days_seen": 1,
-      "peak_stars": 505,
+      "last_seen": "2026-04-15",
+      "days_seen": 2,
+      "peak_stars": 714,
       "peak_spd": 505,
       "language": "Python",
       "html_url": "https://github.com/sterlingcrispin/nothing-ever-happens",
@@ -17586,13 +17954,183 @@
     },
     "hamen/material-3-skill": {
       "first_seen": "2026-04-14",
-      "last_seen": "2026-04-14",
-      "days_seen": 1,
-      "peak_stars": 504,
+      "last_seen": "2026-04-15",
+      "days_seen": 2,
+      "peak_stars": 610,
       "peak_spd": 126,
       "language": "Unknown",
       "html_url": "https://github.com/hamen/material-3-skill",
       "description": "Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance "
+    },
+    "inhouseseo/superseo-skills": {
+      "first_seen": "2026-04-15",
+      "last_seen": "2026-04-15",
+      "days_seen": 1,
+      "peak_stars": 37,
+      "peak_spd": 37,
+      "language": "Unknown",
+      "html_url": "https://github.com/inhouseseo/superseo-skills",
+      "description": "11 Claude skills for SEO: page audits, linkbuilding, article writing, E-E-A-T audits, semantic gap analysis, link buildi"
+    },
+    "fstech-digital/operational-ontology-framework": {
+      "first_seen": "2026-04-15",
+      "last_seen": "2026-04-15",
+      "days_seen": 1,
+      "peak_stars": 33,
+      "peak_spd": 16.5,
+      "language": "Python",
+      "html_url": "https://github.com/fstech-digital/operational-ontology-framework",
+      "description": "Framework de Ontologia Operacional — Pin/Spec/Handoff protocol for stateful AI agents. CC BY 4.0."
+    },
+    "FreePeak/LeanKG": {
+      "first_seen": "2026-04-15",
+      "last_seen": "2026-04-15",
+      "days_seen": 1,
+      "peak_stars": 15,
+      "peak_spd": 15,
+      "language": "Rust",
+      "html_url": "https://github.com/FreePeak/LeanKG",
+      "description": "LeanKG: Stop Burning Tokens. Start Coding Lean."
+    },
+    "megeezy/Chameleon": {
+      "first_seen": "2026-04-15",
+      "last_seen": "2026-04-15",
+      "days_seen": 1,
+      "peak_stars": 38,
+      "peak_spd": 12.7,
+      "language": "Rust",
+      "html_url": "https://github.com/megeezy/Chameleon",
+      "description": "Stateless LLM runtime that dynamically routes, loads, executes, and unloads models per request with bounded VRAM caching"
+    },
+    "Mintzs/oogaboogalm": {
+      "first_seen": "2026-04-15",
+      "last_seen": "2026-04-15",
+      "days_seen": 1,
+      "peak_stars": 39,
+      "peak_spd": 9.8,
+      "language": "Unknown",
+      "html_url": "https://github.com/Mintzs/oogaboogalm",
+      "description": "We have caveman system prompts and skills for AI models to reduce token use, why not try bake it into the model itself w"
+    },
+    "Jet-Fadil/polymarket-sports-copy-trading-bot": {
+      "first_seen": "2026-04-15",
+      "last_seen": "2026-04-15",
+      "days_seen": 1,
+      "peak_stars": 49,
+      "peak_spd": 9.8,
+      "language": "TypeScript",
+      "html_url": "https://github.com/Jet-Fadil/polymarket-sports-copy-trading-bot",
+      "description": "Polymarket Trading Bot Polymarket Copy Trading Bot Polymarket Trading Bot Polymarket Copy Trading Bot Polymarket Trading"
+    },
+    "orbitflare/orbitflare-sdk-rs": {
+      "first_seen": "2026-04-15",
+      "last_seen": "2026-04-15",
+      "days_seen": 1,
+      "peak_stars": 2,
+      "peak_spd": 2,
+      "language": "Rust",
+      "html_url": "https://github.com/orbitflare/orbitflare-sdk-rs",
+      "description": "Rust SDK for OrbitFlare. RPC, gRPC (Yellowstone), JetStream, and WebSocket clients with built-in retry, failover, and re"
+    },
+    "trustfab/gapchain": {
+      "first_seen": "2026-04-15",
+      "last_seen": "2026-04-15",
+      "days_seen": 1,
+      "peak_stars": 2,
+      "peak_spd": 2,
+      "language": "JavaScript",
+      "html_url": "https://github.com/trustfab/gapchain",
+      "description": "Truy xuất Nguồn gốc. Nông sản sạch xứng đáng được chứng minh bằng dữ liệu — không phải tem dán · Hyperledger Fabric · Ag"
+    },
+    "szhygulin/vaultpilot-mcp": {
+      "first_seen": "2026-04-15",
+      "last_seen": "2026-04-15",
+      "days_seen": 1,
+      "peak_stars": 2,
+      "peak_spd": 1,
+      "language": "TypeScript",
+      "html_url": "https://github.com/szhygulin/vaultpilot-mcp",
+      "description": "MCP server for AI agents (Claude, Cursor) to manage a self-custodial crypto portfolio on major chains via Ledger + Walle"
+    },
+    "xcodenexus/-OwlSniperMVP": {
+      "first_seen": "2026-04-15",
+      "last_seen": "2026-04-15",
+      "days_seen": 1,
+      "peak_stars": 1,
+      "peak_spd": 1,
+      "language": "TypeScript",
+      "html_url": "https://github.com/xcodenexus/-OwlSniperMVP",
+      "description": "Solana token sniper bot for Nigerian crypto traders — Telegram bot with   safety scanner and NGN/USD P&L"
+    },
+    "darksanctum/jupiter-sentinel": {
+      "first_seen": "2026-04-15",
+      "last_seen": "2026-04-15",
+      "days_seen": 1,
+      "peak_stars": 1,
+      "peak_spd": 1,
+      "language": "Python",
+      "html_url": "https://github.com/darksanctum/jupiter-sentinel",
+      "description": "Autonomous AI DeFi agent combining multiple Jupiter APIs - volatility scanner, trade executor, risk manager, arbitrage d"
+    },
+    "AgentSeal/codeburn": {
+      "first_seen": "2026-04-15",
+      "last_seen": "2026-04-15",
+      "days_seen": 1,
+      "peak_stars": 999,
+      "peak_spd": 999,
+      "language": "TypeScript",
+      "html_url": "https://github.com/AgentSeal/codeburn",
+      "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code and Codex cost observability."
+    },
+    "alchaincyf/darwin-skill": {
+      "first_seen": "2026-04-15",
+      "last_seen": "2026-04-15",
+      "days_seen": 1,
+      "peak_stars": 629,
+      "peak_spd": 629,
+      "language": "HTML",
+      "html_url": "https://github.com/alchaincyf/darwin-skill",
+      "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Eva"
+    },
+    "yaojingang/GEOFlow": {
+      "first_seen": "2026-04-15",
+      "last_seen": "2026-04-15",
+      "days_seen": 1,
+      "peak_stars": 534,
+      "peak_spd": 534,
+      "language": "PHP",
+      "html_url": "https://github.com/yaojingang/GEOFlow",
+      "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing."
+    },
+    "Mouseww/anything-analyzer": {
+      "first_seen": "2026-04-15",
+      "last_seen": "2026-04-15",
+      "days_seen": 1,
+      "peak_stars": 656,
+      "peak_spd": 328,
+      "language": "TypeScript",
+      "html_url": "https://github.com/Mouseww/anything-analyzer",
+      "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器或应用行为 的协议分析文档"
+    },
+    "patterniha/SNI-Spoofing": {
+      "first_seen": "2026-04-15",
+      "last_seen": "2026-04-15",
+      "days_seen": 1,
+      "peak_stars": 560,
+      "peak_spd": 280,
+      "language": "Python",
+      "html_url": "https://github.com/patterniha/SNI-Spoofing",
+      "description": "Bypass DPI with IP/TCP-Header manipulation"
+    },
+    "OpenMOSS/MOSS-TTS-Nano": {
+      "first_seen": "2026-04-15",
+      "last_seen": "2026-04-15",
+      "days_seen": 1,
+      "peak_stars": 803,
+      "peak_spd": 200.8,
+      "language": "Python",
+      "html_url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
+      "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only "
     }
   }
 }
