@@ -1,373 +1,5 @@
 {
   "daily": {
-    "2026-03-15": {
-      "ai-llm": [
-        {
-          "full_name": "wanshuiyin/Auto-claude-code-research-in-sleep",
-          "stars": 930,
-          "stars_per_day": 232.5,
-          "language": "Python",
-          "html_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-          "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discove"
-        },
-        {
-          "full_name": "aiming-lab/MetaClaw",
-          "stars": 1155,
-          "stars_per_day": 231,
-          "language": "Python",
-          "html_url": "https://github.com/aiming-lab/MetaClaw",
-          "description": "Just talk to your agent — it learns and EVOLVES."
-        },
-        {
-          "full_name": "KeyID-AI/agent-kit",
-          "stars": 400,
-          "stars_per_day": 200,
-          "language": "JavaScript",
-          "html_url": "https://github.com/KeyID-AI/agent-kit",
-          "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup."
-        },
-        {
-          "full_name": "CopilotKit/OpenGenerativeUI",
-          "stars": 269,
-          "stars_per_day": 134.5,
-          "language": "TypeScript",
-          "html_url": "https://github.com/CopilotKit/OpenGenerativeUI",
-          "description": "Open-Source Generative UI Framework"
-        },
-        {
-          "full_name": "Kaleighc793/freqtrade-bot",
-          "stars": 554,
-          "stars_per_day": 110.8,
-          "language": "Python",
-          "html_url": "https://github.com/Kaleighc793/freqtrade-bot",
-          "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting"
-        },
-        {
-          "full_name": "moltlaunch/cashclaw",
-          "stars": 528,
-          "stars_per_day": 105.6,
-          "language": "TypeScript",
-          "html_url": "https://github.com/moltlaunch/cashclaw",
-          "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it."
-        },
-        {
-          "full_name": "Rohit24567/HyperLiquid-Claw",
-          "stars": 447,
-          "stars_per_day": 89.4,
-          "language": "Rust",
-          "html_url": "https://github.com/Rohit24567/HyperLiquid-Claw",
-          "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX"
-        },
-        {
-          "full_name": "KeyID-AI/sdk-js",
-          "stars": 174,
-          "stars_per_day": 87,
-          "language": "TypeScript",
-          "html_url": "https://github.com/KeyID-AI/sdk-js",
-          "description": "Free email for AI agents. No signup, no human needed. Install → provision → send and receive. Ed25519 keypair auth."
-        },
-        {
-          "full_name": "claude-world/notebooklm-skill",
-          "stars": 75,
-          "stars_per_day": 75,
-          "language": "Python",
-          "html_url": "https://github.com/claude-world/notebooklm-skill",
-          "description": "NotebookLM does the research, Claude writes the content. Research → Synthesis → Content Creation → Publishing. Claude Co"
-        },
-        {
-          "full_name": "matteorigodanza/cryto-trading-ai-assistant",
-          "stars": 63,
-          "stars_per_day": 63,
-          "language": "Python",
-          "html_url": "https://github.com/matteorigodanza/cryto-trading-ai-assistant",
-          "description": "AI guardian for manual crypto traders — risk monitoring, strategy validation & emotional trading detection. No trade exe"
-        },
-        {
-          "full_name": "KeyID-AI/sdk-py",
-          "stars": 112,
-          "stars_per_day": 56,
-          "language": "Python",
-          "html_url": "https://github.com/KeyID-AI/sdk-py",
-          "description": "Free email for AI agents. No signup, no human needed. Install → provision → send and receive. Ed25519 keypair auth."
-        },
-        {
-          "full_name": "get-Lucid/Lucid",
-          "stars": 261,
-          "stars_per_day": 52.2,
-          "language": "TypeScript",
-          "html_url": "https://github.com/get-Lucid/Lucid",
-          "description": "An intelligence layer grounding autonomous agents in verified, real-time knowledge at scale."
-        },
-        {
-          "full_name": "asonglin/crypto-liquidity-ai-trading-bot",
-          "stars": 104,
-          "stars_per_day": 52,
-          "language": "JavaScript",
-          "html_url": "https://github.com/asonglin/crypto-liquidity-ai-trading-bot",
-          "description": "Crypto liquidity detection & algorithmic trading bot. Order book analysis, stop-loss clusters, liquidity sweeps. Multi-e"
-        },
-        {
-          "full_name": "beita6969/ScienceClaw",
-          "stars": 119,
-          "stars_per_day": 39.7,
-          "language": "TypeScript",
-          "html_url": "https://github.com/beita6969/ScienceClaw",
-          "description": "🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory."
-        },
-        {
-          "full_name": "flightlesstux/prompt-caching",
-          "stars": 71,
-          "stars_per_day": 35.5,
-          "language": "TypeScript",
-          "html_url": "https://github.com/flightlesstux/prompt-caching",
-          "description": "Automatic prompt caching for Claude Code. Cuts token costs by up to 90% on repeated file reads, bug fix sessions, and lo"
-        }
-      ],
-      "crypto-web3": [
-        {
-          "full_name": "Justi1980/Dawn-Validator-BOT",
-          "stars": 538,
-          "stars_per_day": 107.6,
-          "language": "Python",
-          "html_url": "https://github.com/Justi1980/Dawn-Validator-BOT",
-          "description": "Dawn Validator BOT — Automated node validation bot for Dawn Protocol testnet with multi-account support, proxy rotation,"
-        },
-        {
-          "full_name": "susanudgzf/Aave-Claw",
-          "stars": 74,
-          "stars_per_day": 74,
-          "language": "Rust",
-          "html_url": "https://github.com/susanudgzf/Aave-Claw",
-          "description": "No description"
-        },
-        {
-          "full_name": "asonglin/crypto-liquidity-ai-trading-bot",
-          "stars": 104,
-          "stars_per_day": 52,
-          "language": "JavaScript",
-          "html_url": "https://github.com/asonglin/crypto-liquidity-ai-trading-bot",
-          "description": "Crypto liquidity detection & algorithmic trading bot. Order book analysis, stop-loss clusters, liquidity sweeps. Multi-e"
-        },
-        {
-          "full_name": "marilyn4120shaz3/KiteAI",
-          "stars": 253,
-          "stars_per_day": 50.6,
-          "language": "Python",
-          "html_url": "https://github.com/marilyn4120shaz3/KiteAI",
-          "description": "Automated multi-account farming tool for Kite AI decentralized payment network with faucet claims, token staking, DEX sw"
-        },
-        {
-          "full_name": "martinez88668/MasterCryptoFarmBot",
-          "stars": 243,
-          "stars_per_day": 48.6,
-          "language": "Python",
-          "html_url": "https://github.com/martinez88668/MasterCryptoFarmBot",
-          "description": "MasterCryptoFarmBot CLI — Universal crypto farming bot manager with multi-bot orchestration, automated Telegram mini-app"
-        },
-        {
-          "full_name": "michelleoincx/Bunkr-Downloader-Python",
-          "stars": 167,
-          "stars_per_day": 41.8,
-          "language": "JavaScript",
-          "html_url": "https://github.com/michelleoincx/Bunkr-Downloader-Python",
-          "description": "No description"
-        },
-        {
-          "full_name": "aelf-hzz780/AI-bounty-skill",
-          "stars": 42,
-          "stars_per_day": 14,
-          "language": "Unknown",
-          "html_url": "https://github.com/aelf-hzz780/AI-bounty-skill",
-          "description": "Public Codex skill for claiming AI bounty on aelf tDVV via RewardClaimContract, supporting EOA Claim() and Portkey CA Cl"
-        },
-        {
-          "full_name": "shuvonsec/web3-bug-bounty-hunting-ai-skills",
-          "stars": 6,
-          "stars_per_day": 6,
-          "language": "Unknown",
-          "html_url": "https://github.com/shuvonsec/web3-bug-bounty-hunting-ai-skills",
-          "description": "18 Claude Code skill files for smart contract security — built from 2,749 Immunefi reports, 681 DeFiHack reproductions, "
-        },
-        {
-          "full_name": "Ashutosh0x/rust-finance",
-          "stars": 4,
-          "stars_per_day": 4,
-          "language": "Rust",
-          "html_url": "https://github.com/Ashutosh0x/rust-finance",
-          "description": "A high-performance, low-latency trading terminal and AI-infused daemon built completely in Rust."
-        },
-        {
-          "full_name": "AnimocaMinds/Animoca-Minds-Tips",
-          "stars": 16,
-          "stars_per_day": 4,
-          "language": "Unknown",
-          "html_url": "https://github.com/AnimocaMinds/Animoca-Minds-Tips",
-          "description": "Animoca Minds skills directory and content archive — animocaminds.ai"
-        },
-        {
-          "full_name": "alanisme/deeplens",
-          "stars": 6,
-          "stars_per_day": 3,
-          "language": "TypeScript",
-          "html_url": "https://github.com/alanisme/deeplens",
-          "description": "🔍 EVM blockchain analytics, real-time monitoring, address profiling, entity mapping, fund-path tracing"
-        },
-        {
-          "full_name": "Odessacool1/crypto-security-toolkit",
-          "stars": 3,
-          "stars_per_day": 3,
-          "language": "Unknown",
-          "html_url": "https://github.com/Odessacool1/crypto-security-toolkit",
-          "description": "awesome-crypto-security, Essential tools, security stack and infrastructure every crypto trader should know."
-        },
-        {
-          "full_name": "Scottcjn/rustchain-mcp",
-          "stars": 15,
-          "stars_per_day": 2.5,
-          "language": "Python",
-          "html_url": "https://github.com/Scottcjn/rustchain-mcp",
-          "description": "MCP server for RustChain blockchain and BoTTube video platform — AI agent tools for earning RTC tokens. Built on createk"
-        },
-        {
-          "full_name": "nirholas/pumpfun-claims-bot",
-          "stars": 3,
-          "stars_per_day": 1.5,
-          "language": "TypeScript",
-          "html_url": "https://github.com/nirholas/pumpfun-claims-bot",
-          "description": "PumpFun GitHub social fee claim monitor — real-time Telegram feed for first-time creator fee claims on Solana"
-        },
-        {
-          "full_name": "nirholas/solana-launchpad-ui",
-          "stars": 3,
-          "stars_per_day": 1.5,
-          "language": "HTML",
-          "html_url": "https://github.com/nirholas/solana-launchpad-ui",
-          "description": "Token launchpad UI template inspired by pump.fun — dark theme, bonding curves, trading panel, 4 pages, pure HTML/CSS/JS,"
-        }
-      ],
-      "general": [
-        {
-          "full_name": "garrytan/gstack",
-          "stars": 10897,
-          "stars_per_day": 3632.3,
-          "language": "TypeScript",
-          "html_url": "https://github.com/garrytan/gstack",
-          "description": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engi"
-        },
-        {
-          "full_name": "skernelx/tavily-key-generator",
-          "stars": 687,
-          "stars_per_day": 687,
-          "language": "Python",
-          "html_url": "https://github.com/skernelx/tavily-key-generator",
-          "description": "Auto batch register Tavily API Keys with pluggable email backends"
-        },
-        {
-          "full_name": "upper-up/meta-lobbying-and-other-findings",
-          "stars": 623,
-          "stars_per_day": 623,
-          "language": "HTML",
-          "html_url": "https://github.com/upper-up/meta-lobbying-and-other-findings",
-          "description": "No description"
-        },
-        {
-          "full_name": "davebcn87/pi-autoresearch",
-          "stars": 1638,
-          "stars_per_day": 546,
-          "language": "TypeScript",
-          "html_url": "https://github.com/davebcn87/pi-autoresearch",
-          "description": "Autonomous experiment loop extension for pi"
-        },
-        {
-          "full_name": "pasky/chrome-cdp-skill",
-          "stars": 1004,
-          "stars_per_day": 502,
-          "language": "JavaScript",
-          "html_url": "https://github.com/pasky/chrome-cdp-skill",
-          "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open"
-        },
-        {
-          "full_name": "TianyiDataScience/openclaw-control-center",
-          "stars": 1468,
-          "stars_per_day": 489.3,
-          "language": "TypeScript",
-          "html_url": "https://github.com/TianyiDataScience/openclaw-control-center",
-          "description": "Turn OpenClaw from a black box into a local control center you can see, trust, and control."
-        },
-        {
-          "full_name": "gsd-build/gsd-2",
-          "stars": 1167,
-          "stars_per_day": 389,
-          "language": "TypeScript",
-          "html_url": "https://github.com/gsd-build/gsd-2",
-          "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long p"
-        },
-        {
-          "full_name": "chrisworsey55/atlas-gic",
-          "stars": 784,
-          "stars_per_day": 261.3,
-          "language": "Unknown",
-          "html_url": "https://github.com/chrisworsey55/atlas-gic",
-          "description": "ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch"
-        },
-        {
-          "full_name": "wanshuiyin/Auto-claude-code-research-in-sleep",
-          "stars": 930,
-          "stars_per_day": 232.5,
-          "language": "Python",
-          "html_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-          "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discove"
-        },
-        {
-          "full_name": "aiming-lab/MetaClaw",
-          "stars": 1155,
-          "stars_per_day": 231,
-          "language": "Python",
-          "html_url": "https://github.com/aiming-lab/MetaClaw",
-          "description": "Just talk to your agent — it learns and EVOLVES."
-        },
-        {
-          "full_name": "knowsuchagency/mcp2cli",
-          "stars": 966,
-          "stars_per_day": 193.2,
-          "language": "Python",
-          "html_url": "https://github.com/knowsuchagency/mcp2cli",
-          "description": "Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen"
-        },
-        {
-          "full_name": "larksuite/openclaw-lark",
-          "stars": 929,
-          "stars_per_day": 185.8,
-          "language": "TypeScript",
-          "html_url": "https://github.com/larksuite/openclaw-lark",
-          "description": "飞书官方出品的 OpenClaw 飞书/Lark Channel 插件"
-        },
-        {
-          "full_name": "photon-hq/qclaw-wechat-client",
-          "stars": 723,
-          "stars_per_day": 180.8,
-          "language": "TypeScript",
-          "html_url": "https://github.com/photon-hq/qclaw-wechat-client",
-          "description": "Reverse-engineered TypeScript client for QClaw's WeChat Access API."
-        },
-        {
-          "full_name": "RightNow-AI/autokernel",
-          "stars": 623,
-          "stars_per_day": 155.8,
-          "language": "Python",
-          "html_url": "https://github.com/RightNow-AI/autokernel",
-          "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels."
-        },
-        {
-          "full_name": "dongsheng123132/u-claw",
-          "stars": 667,
-          "stars_per_day": 111.2,
-          "language": "HTML",
-          "html_url": "https://github.com/dongsheng123132/u-claw",
-          "description": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。"
-        }
-      ]
-    },
     "2026-03-16": {
       "ai-llm": [
         {
@@ -13247,29 +12879,377 @@
           "description": "A Palantir-ish dashboard for family trip planning."
         }
       ]
+    },
+    "2026-04-20": {
+      "ai-llm": [
+        {
+          "full_name": "Manavarya09/design-extract",
+          "stars": 1093,
+          "stars_per_day": 273.3,
+          "language": "JavaScript",
+          "html_url": "https://github.com/Manavarya09/design-extract",
+          "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for"
+        },
+        {
+          "full_name": "yzhao062/agent-style",
+          "stars": 49,
+          "stars_per_day": 49,
+          "language": "Python",
+          "html_url": "https://github.com/yzhao062/agent-style",
+          "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their "
+        },
+        {
+          "full_name": "AIScientists-Dev/WorldSeed",
+          "stars": 154,
+          "stars_per_day": 30.8,
+          "language": "Python",
+          "html_url": "https://github.com/AIScientists-Dev/WorldSeed",
+          "description": "A world engine where AI agents live autonomously — physical rules, information asymmetry, any agent can plug in. Define "
+        },
+        {
+          "full_name": "cablate/llm-atomic-wiki",
+          "stars": 72,
+          "stars_per_day": 24,
+          "language": "Shell",
+          "html_url": "https://github.com/cablate/llm-atomic-wiki",
+          "description": "An extension of Karpathy's LLM Wiki pattern: atom layer, topic-branches, two-layer Lint. Distilled from running the patt"
+        },
+        {
+          "full_name": "335234131/agent-browser-mcp",
+          "stars": 87,
+          "stars_per_day": 21.8,
+          "language": "Python",
+          "html_url": "https://github.com/335234131/agent-browser-mcp",
+          "description": "让 Agent 直接操作真实 Chrome 的 MCP 服务，支持页面扫描、CDP、截图与物理输入"
+        },
+        {
+          "full_name": "humanrouter/ddtree-mlx",
+          "stars": 106,
+          "stars_per_day": 21.2,
+          "language": "Python",
+          "html_url": "https://github.com/humanrouter/ddtree-mlx",
+          "description": "Tree-based speculative decoding for Apple Silicon (MLX). ~10-15% faster than DFlash on code, ~1.5x over autoregressive. "
+        },
+        {
+          "full_name": "adrian803/LingXi",
+          "stars": 20,
+          "stars_per_day": 20,
+          "language": "Python",
+          "html_url": "https://github.com/adrian803/LingXi",
+          "description": "LingXi: multi-agent CTF and pentest framework originated from Tencent Security Hackathon"
+        },
+        {
+          "full_name": "KarryViber/Orb",
+          "stars": 44,
+          "stars_per_day": 14.7,
+          "language": "JavaScript",
+          "html_url": "https://github.com/KarryViber/Orb",
+          "description": "Self-evolving AI agent framework — wraps Claude Code CLI with persistent memory, multi-profile isolation, and messaging "
+        },
+        {
+          "full_name": "chrisryugj/korean-dart-mcp",
+          "stars": 26,
+          "stars_per_day": 13,
+          "language": "TypeScript",
+          "html_url": "https://github.com/chrisryugj/korean-dart-mcp",
+          "description": "OpenDART 전자공시MCP | 83개 API → 15 MCP 도구. 공시·재무·지분·XBRL + 버핏급 애널리스트 프레임(내부자 시그널·회계 리스크·퀄리티 체크리스트) + HWP/PDF 첨부 마크다운화 | 83 "
+        },
+        {
+          "full_name": "MatthewK78/Rose",
+          "stars": 22,
+          "stars_per_day": 11,
+          "language": "Python",
+          "html_url": "https://github.com/MatthewK78/Rose",
+          "description": "🌹 Rose: Range-Of-Slice Equilibration PyTorch optimizer. Stateless optimization through range-normalized gradient update"
+        },
+        {
+          "full_name": "java-up-up/super-agent",
+          "stars": 11,
+          "stars_per_day": 11,
+          "language": "Java",
+          "html_url": "https://github.com/java-up-up/super-agent",
+          "description": "企业级 AI 智能体 Agent 平台，覆盖智能对话、文档知识问答、联网搜索、RAG 检索、MCP 工具协议、Skills 扩展等完整能力。三层执行器体系、双通道混合检索、组合式切块引擎、会话记忆管理、全链路可观测，每个环节都经过深 度设计"
+        },
+        {
+          "full_name": "laoposkj/multi-modal-agent-ts",
+          "stars": 21,
+          "stars_per_day": 10.5,
+          "language": "TypeScript",
+          "html_url": "https://github.com/laoposkj/multi-modal-agent-ts",
+          "description": "TypeScript multimodal AI agent: GPT-4o / Claude / Gemini + Whisper + Ollama (LLaVA). REST API, streaming, Docker. Vision"
+        },
+        {
+          "full_name": "TheArcForge/UniClaude",
+          "stars": 30,
+          "stars_per_day": 10,
+          "language": "C#",
+          "html_url": "https://github.com/TheArcForge/UniClaude",
+          "description": "Claude Code, natively inside Unity Editor. A dockable chat window with full project awareness, 60+ MCP tools, and zero a"
+        },
+        {
+          "full_name": "maunappl8/recursive-langgraph-agent",
+          "stars": 20,
+          "stars_per_day": 10,
+          "language": "TypeScript",
+          "html_url": "https://github.com/maunappl8/recursive-langgraph-agent",
+          "description": "Recursive LangGraph.js agent: split huge texts, answer per chunk, merge results. TypeScript, LangChain, OpenAI-compatibl"
+        },
+        {
+          "full_name": "laoposkj/mastra-agentic-rag",
+          "stars": 20,
+          "stars_per_day": 10,
+          "language": "TypeScript",
+          "html_url": "https://github.com/laoposkj/mastra-agentic-rag",
+          "description": "TypeScript AI agent with retrieval-augmented generation (RAG) using Mastra, Vercel AI SDK, OpenAI, and LibSQL/pgvector-r"
+        }
+      ],
+      "crypto-web3": [
+        {
+          "full_name": "bwjoke/BTC-Trading-Since-2020",
+          "stars": 718,
+          "stars_per_day": 359,
+          "language": "Unknown",
+          "html_url": "https://github.com/bwjoke/BTC-Trading-Since-2020",
+          "description": "Public BTC trading context since 2020."
+        },
+        {
+          "full_name": "fciaf420/moonbags",
+          "stars": 18,
+          "stars_per_day": 6,
+          "language": "TypeScript",
+          "html_url": "https://github.com/fciaf420/moonbags",
+          "description": "Solana meme-coin auto-trading bot with MiniMax M2.7 LLM exit advisor, Jupiter Ultra swaps, Telegram control, and a Pepe-"
+        },
+        {
+          "full_name": "jiawern929/Top-AI-Game-Generators-2026",
+          "stars": 5,
+          "stars_per_day": 5,
+          "language": "Unknown",
+          "html_url": "https://github.com/jiawern929/Top-AI-Game-Generators-2026",
+          "description": "A curated list of the best AI game development tools in 2026. Learn how to create games with AI no coding and earn money"
+        },
+        {
+          "full_name": "flashusdt4/Transferable-Flash-USDT-And-Software",
+          "stars": 6,
+          "stars_per_day": 3,
+          "language": "HTML",
+          "html_url": "https://github.com/flashusdt4/Transferable-Flash-USDT-And-Software",
+          "description": "Trc20, Erc20, Bep20 Flash USDT And Flash USDT Making Software Available "
+        },
+        {
+          "full_name": "flashusdt4/Flash-USDT-Sender",
+          "stars": 3,
+          "stars_per_day": 3,
+          "language": "HTML",
+          "html_url": "https://github.com/flashusdt4/Flash-USDT-Sender",
+          "description": "Flash USDT is The Best Solution For Instant, Low-Fee USDT, BTC, and DAI Transfers Across All Major Networks Like TRC20, "
+        },
+        {
+          "full_name": "ersozberk/awesome-turkiye",
+          "stars": 13,
+          "stars_per_day": 2.6,
+          "language": "TypeScript",
+          "html_url": "https://github.com/ersozberk/awesome-turkiye",
+          "description": "🌍 The digital map of Turkey's tech & open-source ecosystem. A community-driven, self-updating database built for develo"
+        },
+        {
+          "full_name": "pink-potat0/Lykeion",
+          "stars": 12,
+          "stars_per_day": 2.4,
+          "language": "HTML",
+          "html_url": "https://github.com/pink-potat0/Lykeion",
+          "description": "lykeion is basicaly udemy for memecoins, it contains a full solana trading course, ai assistant and memcoins analyzer, a"
+        },
+        {
+          "full_name": "FlashDevSamuel5/Flash-USDT-And-Software",
+          "stars": 3,
+          "stars_per_day": 1.5,
+          "language": "HTML",
+          "html_url": "https://github.com/FlashDevSamuel5/Flash-USDT-And-Software",
+          "description": "Flash USDT And Software Available Low Price"
+        },
+        {
+          "full_name": "whiteowl-engine/WhiteOwl-Extension",
+          "stars": 1,
+          "stars_per_day": 1,
+          "language": "JavaScript",
+          "html_url": "https://github.com/whiteowl-engine/WhiteOwl-Extension",
+          "description": "Open-source browser extension and wallet companion for the WhiteOwl panel."
+        },
+        {
+          "full_name": "genoshide/evm-sweeper",
+          "stars": 1,
+          "stars_per_day": 1,
+          "language": "Python",
+          "html_url": "https://github.com/genoshide/evm-sweeper",
+          "description": "Native + ERC20 balance scanner and sweeper across 350+ EVM chains, powered by gas.zip"
+        },
+        {
+          "full_name": "vominh1919/arcremit",
+          "stars": 1,
+          "stars_per_day": 1,
+          "language": "TypeScript",
+          "html_url": "https://github.com/vominh1919/arcremit",
+          "description": "Cross-border USDC remittance on ARC Network - Send money home in seconds. Sub-second finality. 0.3% fee. Built with Soli"
+        },
+        {
+          "full_name": "bizzorotical-ank01/smart-contract-vulnerability-lab",
+          "stars": 1,
+          "stars_per_day": 1,
+          "language": "JavaScript",
+          "html_url": "https://github.com/bizzorotical-ank01/smart-contract-vulnerability-lab",
+          "description": "A curated collection of real-world smart contract vulnerabilities with exploit simulations, designed to demonstrate how "
+        },
+        {
+          "full_name": "cloudcover95/JuniorHome",
+          "stars": 1,
+          "stars_per_day": 1,
+          "language": "Python",
+          "html_url": "https://github.com/cloudcover95/JuniorHome",
+          "description": "JuniorHome —local 1st edge 45W envelope computing home for JuniorCloud LLC. Central hub that orchestrates JuniorStock, J"
+        },
+        {
+          "full_name": "Manar-Elhabbal7/ChainSync-Oracle",
+          "stars": 2,
+          "stars_per_day": 1,
+          "language": "Shell",
+          "html_url": "https://github.com/Manar-Elhabbal7/ChainSync-Oracle",
+          "description": "A cross-chain state synchronization oracle that bridges data between EVM networks using event-driven   Node.js relays"
+        },
+        {
+          "full_name": "cobibean/weekly-content-anchor-system",
+          "stars": 1,
+          "stars_per_day": 1,
+          "language": "Unknown",
+          "html_url": "https://github.com/cobibean/weekly-content-anchor-system",
+          "description": "A weekly narrative anchor system that turns one proof asset into a coherent 7-day content loop. Claude Code skill + plai"
+        }
+      ],
+      "general": [
+        {
+          "full_name": "kyegomez/OpenMythos",
+          "stars": 1733,
+          "stars_per_day": 1733,
+          "language": "Python",
+          "html_url": "https://github.com/kyegomez/OpenMythos",
+          "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research"
+        },
+        {
+          "full_name": "browser-use/browser-harness",
+          "stars": 2447,
+          "stars_per_day": 815.7,
+          "language": "Python",
+          "html_url": "https://github.com/browser-use/browser-harness",
+          "description": "Self-healing browser harness that enables LLMs to complete any task."
+        },
+        {
+          "full_name": "Robbyant/lingbot-map",
+          "stars": 2700,
+          "stars_per_day": 675,
+          "language": "Python",
+          "html_url": "https://github.com/Robbyant/lingbot-map",
+          "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data"
+        },
+        {
+          "full_name": "vercel-labs/wterm",
+          "stars": 2109,
+          "stars_per_day": 421.8,
+          "language": "TypeScript",
+          "html_url": "https://github.com/vercel-labs/wterm",
+          "description": "A terminal emulator for the web"
+        },
+        {
+          "full_name": "Nightmare-Eclipse/RedSun",
+          "stars": 1581,
+          "stars_per_day": 395.3,
+          "language": "C++",
+          "html_url": "https://github.com/Nightmare-Eclipse/RedSun",
+          "description": "The Red Sun vulnerability repository"
+        },
+        {
+          "full_name": "lewislulu/html-ppt-skill",
+          "stars": 1487,
+          "stars_per_day": 371.8,
+          "language": "HTML",
+          "html_url": "https://github.com/lewislulu/html-ppt-skill",
+          "description": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations"
+        },
+        {
+          "full_name": "bwjoke/BTC-Trading-Since-2020",
+          "stars": 718,
+          "stars_per_day": 359,
+          "language": "Unknown",
+          "html_url": "https://github.com/bwjoke/BTC-Trading-Since-2020",
+          "description": "Public BTC trading context since 2020."
+        },
+        {
+          "full_name": "wbh604/UZI-Skill",
+          "stars": 845,
+          "stars_per_day": 281.7,
+          "language": "Python",
+          "html_url": "https://github.com/wbh604/UZI-Skill",
+          "description": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 "
+        },
+        {
+          "full_name": "Manavarya09/design-extract",
+          "stars": 1093,
+          "stars_per_day": 273.3,
+          "language": "JavaScript",
+          "html_url": "https://github.com/Manavarya09/design-extract",
+          "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for"
+        },
+        {
+          "full_name": "cathrynlavery/diagram-design",
+          "stars": 718,
+          "stars_per_day": 239.3,
+          "language": "HTML",
+          "html_url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
+        },
+        {
+          "full_name": "WeaveMindAI/weft",
+          "stars": 884,
+          "stars_per_day": 221,
+          "language": "Rust",
+          "html_url": "https://github.com/WeaveMindAI/weft",
+          "description": "A programming language for AI systems"
+        },
+        {
+          "full_name": "BuilderPulse/BuilderPulse",
+          "stars": 978,
+          "stars_per_day": 195.6,
+          "language": "Unknown",
+          "html_url": "https://github.com/BuilderPulse/BuilderPulse",
+          "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning."
+        },
+        {
+          "full_name": "op7418/logo-generator-skill",
+          "stars": 643,
+          "stars_per_day": 160.8,
+          "language": "HTML",
+          "html_url": "https://github.com/op7418/logo-generator-skill",
+          "description": "logo-generator-skill"
+        },
+        {
+          "full_name": "xataio/xata",
+          "stars": 639,
+          "stars_per_day": 159.8,
+          "language": "Go",
+          "html_url": "https://github.com/xataio/xata",
+          "description": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero"
+        },
+        {
+          "full_name": "Lazarus-AI/clearwing",
+          "stars": 755,
+          "stars_per_day": 151,
+          "language": "Python",
+          "html_url": "https://github.com/Lazarus-AI/clearwing",
+          "description": "No description"
+        }
+      ]
     }
   },
   "repos": {
-    "Kaleighc793/freqtrade-bot": {
-      "first_seen": "2026-03-12",
-      "last_seen": "2026-03-15",
-      "days_seen": 7,
-      "peak_stars": 554,
-      "peak_spd": 273,
-      "language": "Python",
-      "html_url": "https://github.com/Kaleighc793/freqtrade-bot",
-      "description": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting"
-    },
-    "aiming-lab/MetaClaw": {
-      "first_seen": "2026-03-12",
-      "last_seen": "2026-03-15",
-      "days_seen": 8,
-      "peak_stars": 1155,
-      "peak_spd": 248,
-      "language": "Python",
-      "html_url": "https://github.com/aiming-lab/MetaClaw",
-      "description": "Just talk to your agent — it learns and EVOLVES."
-    },
     "wanshuiyin/Auto-claude-code-research-in-sleep": {
       "first_seen": "2026-03-12",
       "last_seen": "2026-03-16",
@@ -13279,16 +13259,6 @@
       "language": "Unknown",
       "html_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
       "description": "Claude Code skills for autonomous ML research: cross-model review loops via Codex MCP"
-    },
-    "get-Lucid/Lucid": {
-      "first_seen": "2026-03-12",
-      "last_seen": "2026-03-15",
-      "days_seen": 5,
-      "peak_stars": 261,
-      "peak_spd": 108.5,
-      "language": "TypeScript",
-      "html_url": "https://github.com/get-Lucid/Lucid",
-      "description": "An intelligence layer grounding autonomous agents in verified, real-time knowledge at scale."
     },
     "michelleoincx/Bunkr-Downloader-Python": {
       "first_seen": "2026-03-12",
@@ -13300,36 +13270,6 @@
       "html_url": "https://github.com/michelleoincx/Bunkr-Downloader-Python",
       "description": "No description"
     },
-    "Justi1980/Dawn-Validator-BOT": {
-      "first_seen": "2026-03-12",
-      "last_seen": "2026-03-15",
-      "days_seen": 5,
-      "peak_stars": 538,
-      "peak_spd": 179,
-      "language": "Python",
-      "html_url": "https://github.com/Justi1980/Dawn-Validator-BOT",
-      "description": "Dawn Validator BOT — Automated node validation bot for Dawn Protocol testnet with multi-account support, proxy rotation,"
-    },
-    "marilyn4120shaz3/KiteAI": {
-      "first_seen": "2026-03-12",
-      "last_seen": "2026-03-15",
-      "days_seen": 5,
-      "peak_stars": 253,
-      "peak_spd": 126.5,
-      "language": "Python",
-      "html_url": "https://github.com/marilyn4120shaz3/KiteAI",
-      "description": "Automated multi-account farming tool for Kite AI decentralized payment network with faucet claims, token staking, DEX sw"
-    },
-    "martinez88668/MasterCryptoFarmBot": {
-      "first_seen": "2026-03-12",
-      "last_seen": "2026-03-15",
-      "days_seen": 5,
-      "peak_stars": 243,
-      "peak_spd": 121.5,
-      "language": "Python",
-      "html_url": "https://github.com/martinez88668/MasterCryptoFarmBot",
-      "description": "MasterCryptoFarmBot CLI — Universal crypto farming bot manager with multi-bot orchestration, automated Telegram mini-app"
-    },
     "proxygate-official/cli": {
       "first_seen": "2026-03-12",
       "last_seen": "2026-03-16",
@@ -13339,16 +13279,6 @@
       "language": "TypeScript",
       "html_url": "https://github.com/proxygate-official/cli",
       "description": "ProxyGate CLI — buy APIs, sell agent capacity, and post jobs on the autonomous agent marketplace. USDC on Solana."
-    },
-    "Scottcjn/rustchain-mcp": {
-      "first_seen": "2026-03-12",
-      "last_seen": "2026-03-15",
-      "days_seen": 3,
-      "peak_stars": 15,
-      "peak_spd": 2.7,
-      "language": "Python",
-      "html_url": "https://github.com/Scottcjn/rustchain-mcp",
-      "description": "MCP server for RustChain blockchain and BoTTube video platform — AI agent tools for earning RTC tokens. Built on createk"
     },
     "photon-hq/qclaw-wechat-client": {
       "first_seen": "2026-03-12",
@@ -13369,26 +13299,6 @@
       "language": "TypeScript",
       "html_url": "https://github.com/gsd-build/gsd-2",
       "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long p"
-    },
-    "larksuite/openclaw-lark": {
-      "first_seen": "2026-03-12",
-      "last_seen": "2026-03-15",
-      "days_seen": 5,
-      "peak_stars": 929,
-      "peak_spd": 294,
-      "language": "TypeScript",
-      "html_url": "https://github.com/larksuite/openclaw-lark",
-      "description": "飞书官方出品的 OpenClaw 飞书/Lark Channel 插件"
-    },
-    "knowsuchagency/mcp2cli": {
-      "first_seen": "2026-03-12",
-      "last_seen": "2026-03-15",
-      "days_seen": 5,
-      "peak_stars": 966,
-      "peak_spd": 232.7,
-      "language": "Python",
-      "html_url": "https://github.com/knowsuchagency/mcp2cli",
-      "description": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen"
     },
     "asonglin/crypto-liquidity-ai-trading-bot": {
       "first_seen": "2026-03-12",
@@ -13470,16 +13380,6 @@
       "html_url": "https://github.com/CopilotKit/OpenGenerativeUI",
       "description": "Open-Source Generative UI Framework"
     },
-    "Rohit24567/HyperLiquid-Claw": {
-      "first_seen": "2026-03-14",
-      "last_seen": "2026-03-15",
-      "days_seen": 2,
-      "peak_stars": 447,
-      "peak_spd": 106,
-      "language": "Rust",
-      "html_url": "https://github.com/Rohit24567/HyperLiquid-Claw",
-      "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX"
-    },
     "moltlaunch/cashclaw": {
       "first_seen": "2026-03-14",
       "last_seen": "2026-03-16",
@@ -13489,16 +13389,6 @@
       "language": "TypeScript",
       "html_url": "https://github.com/moltlaunch/cashclaw",
       "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it."
-    },
-    "flightlesstux/prompt-caching": {
-      "first_seen": "2026-03-14",
-      "last_seen": "2026-03-15",
-      "days_seen": 2,
-      "peak_stars": 71,
-      "peak_spd": 64,
-      "language": "TypeScript",
-      "html_url": "https://github.com/flightlesstux/prompt-caching",
-      "description": "Automatic prompt caching for Claude Code. Cuts token costs by up to 90% on repeated file reads, bug fix sessions, and lo"
     },
     "aelf-hzz780/AI-bounty-skill": {
       "first_seen": "2026-03-14",
@@ -13669,16 +13559,6 @@
       "language": "Python",
       "html_url": "https://github.com/RightNow-AI/autokernel",
       "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels."
-    },
-    "dongsheng123132/u-claw": {
-      "first_seen": "2026-03-15",
-      "last_seen": "2026-03-15",
-      "days_seen": 1,
-      "peak_stars": 667,
-      "peak_spd": 111.2,
-      "language": "HTML",
-      "html_url": "https://github.com/dongsheng123132/u-claw",
-      "description": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。"
     },
     "sstklen/trump-code": {
       "first_seen": "2026-03-16",
@@ -18112,9 +17992,9 @@
     },
     "humanrouter/ddtree-mlx": {
       "first_seen": "2026-04-16",
-      "last_seen": "2026-04-19",
-      "days_seen": 4,
-      "peak_stars": 100,
+      "last_seen": "2026-04-20",
+      "days_seen": 5,
+      "peak_stars": 106,
       "peak_spd": 66,
       "language": "Python",
       "html_url": "https://github.com/humanrouter/ddtree-mlx",
@@ -18132,9 +18012,9 @@
     },
     "335234131/agent-browser-mcp": {
       "first_seen": "2026-04-16",
-      "last_seen": "2026-04-19",
-      "days_seen": 4,
-      "peak_stars": 86,
+      "last_seen": "2026-04-20",
+      "days_seen": 5,
+      "peak_stars": 87,
       "peak_spd": 67,
       "language": "Python",
       "html_url": "https://github.com/335234131/agent-browser-mcp",
@@ -18222,9 +18102,9 @@
     },
     "ersozberk/awesome-turkiye": {
       "first_seen": "2026-04-16",
-      "last_seen": "2026-04-19",
-      "days_seen": 3,
-      "peak_stars": 12,
+      "last_seen": "2026-04-20",
+      "days_seen": 4,
+      "peak_stars": 13,
       "peak_spd": 3.7,
       "language": "TypeScript",
       "html_url": "https://github.com/ersozberk/awesome-turkiye",
@@ -18242,9 +18122,9 @@
     },
     "vercel-labs/wterm": {
       "first_seen": "2026-04-16",
-      "last_seen": "2026-04-19",
-      "days_seen": 4,
-      "peak_stars": 1643,
+      "last_seen": "2026-04-20",
+      "days_seen": 5,
+      "peak_stars": 2109,
       "peak_spd": 546.5,
       "language": "TypeScript",
       "html_url": "https://github.com/vercel-labs/wterm",
@@ -18282,8 +18162,8 @@
     },
     "KarryViber/Orb": {
       "first_seen": "2026-04-17",
-      "last_seen": "2026-04-19",
-      "days_seen": 3,
+      "last_seen": "2026-04-20",
+      "days_seen": 4,
       "peak_stars": 44,
       "peak_spd": 44,
       "language": "JavaScript",
@@ -18292,9 +18172,9 @@
     },
     "AIScientists-Dev/WorldSeed": {
       "first_seen": "2026-04-17",
-      "last_seen": "2026-04-19",
-      "days_seen": 3,
-      "peak_stars": 111,
+      "last_seen": "2026-04-20",
+      "days_seen": 4,
+      "peak_stars": 154,
       "peak_spd": 39.5,
       "language": "Python",
       "html_url": "https://github.com/AIScientists-Dev/WorldSeed",
@@ -18342,8 +18222,8 @@
     },
     "fciaf420/moonbags": {
       "first_seen": "2026-04-17",
-      "last_seen": "2026-04-19",
-      "days_seen": 3,
+      "last_seen": "2026-04-20",
+      "days_seen": 4,
       "peak_stars": 18,
       "peak_spd": 17,
       "language": "TypeScript",
@@ -18412,9 +18292,9 @@
     },
     "Nightmare-Eclipse/RedSun": {
       "first_seen": "2026-04-17",
-      "last_seen": "2026-04-19",
-      "days_seen": 3,
-      "peak_stars": 1508,
+      "last_seen": "2026-04-20",
+      "days_seen": 4,
+      "peak_stars": 1581,
       "peak_spd": 880,
       "language": "C++",
       "html_url": "https://github.com/Nightmare-Eclipse/RedSun",
@@ -18422,9 +18302,9 @@
     },
     "Manavarya09/design-extract": {
       "first_seen": "2026-04-17",
-      "last_seen": "2026-04-19",
-      "days_seen": 4,
-      "peak_stars": 1015,
+      "last_seen": "2026-04-20",
+      "days_seen": 6,
+      "peak_stars": 1093,
       "peak_spd": 697,
       "language": "JavaScript",
       "html_url": "https://github.com/Manavarya09/design-extract",
@@ -18432,9 +18312,9 @@
     },
     "WeaveMindAI/weft": {
       "first_seen": "2026-04-17",
-      "last_seen": "2026-04-19",
-      "days_seen": 3,
-      "peak_stars": 837,
+      "last_seen": "2026-04-20",
+      "days_seen": 4,
+      "peak_stars": 884,
       "peak_spd": 680,
       "language": "Rust",
       "html_url": "https://github.com/WeaveMindAI/weft",
@@ -18442,9 +18322,9 @@
     },
     "lewislulu/html-ppt-skill": {
       "first_seen": "2026-04-17",
-      "last_seen": "2026-04-19",
-      "days_seen": 3,
-      "peak_stars": 1170,
+      "last_seen": "2026-04-20",
+      "days_seen": 4,
+      "peak_stars": 1487,
       "peak_spd": 649,
       "language": "HTML",
       "html_url": "https://github.com/lewislulu/html-ppt-skill",
@@ -18452,9 +18332,9 @@
     },
     "BuilderPulse/BuilderPulse": {
       "first_seen": "2026-04-17",
-      "last_seen": "2026-04-19",
-      "days_seen": 3,
-      "peak_stars": 935,
+      "last_seen": "2026-04-20",
+      "days_seen": 4,
+      "peak_stars": 978,
       "peak_spd": 385,
       "language": "Unknown",
       "html_url": "https://github.com/BuilderPulse/BuilderPulse",
@@ -18462,19 +18342,19 @@
     },
     "cablate/llm-atomic-wiki": {
       "first_seen": "2026-04-18",
-      "last_seen": "2026-04-19",
-      "days_seen": 2,
-      "peak_stars": 44,
-      "peak_spd": 23,
+      "last_seen": "2026-04-20",
+      "days_seen": 3,
+      "peak_stars": 72,
+      "peak_spd": 24,
       "language": "Shell",
       "html_url": "https://github.com/cablate/llm-atomic-wiki",
       "description": "An extension of Karpathy's LLM Wiki pattern: atom layer, topic-branches, two-layer Lint. Distilled from running the patt"
     },
     "TheArcForge/UniClaude": {
       "first_seen": "2026-04-18",
-      "last_seen": "2026-04-19",
-      "days_seen": 2,
-      "peak_stars": 25,
+      "last_seen": "2026-04-20",
+      "days_seen": 3,
+      "peak_stars": 30,
       "peak_spd": 15,
       "language": "C#",
       "html_url": "https://github.com/TheArcForge/UniClaude",
@@ -18502,9 +18382,9 @@
     },
     "bwjoke/BTC-Trading-Since-2020": {
       "first_seen": "2026-04-18",
-      "last_seen": "2026-04-19",
-      "days_seen": 2,
-      "peak_stars": 511,
+      "last_seen": "2026-04-20",
+      "days_seen": 4,
+      "peak_stars": 718,
       "peak_spd": 511,
       "language": "Unknown",
       "html_url": "https://github.com/bwjoke/BTC-Trading-Since-2020",
@@ -18592,10 +18472,10 @@
     },
     "Robbyant/lingbot-map": {
       "first_seen": "2026-04-18",
-      "last_seen": "2026-04-19",
-      "days_seen": 2,
-      "peak_stars": 1997,
-      "peak_spd": 665.7,
+      "last_seen": "2026-04-20",
+      "days_seen": 3,
+      "peak_stars": 2700,
+      "peak_spd": 675,
       "language": "Python",
       "html_url": "https://github.com/Robbyant/lingbot-map",
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data"
@@ -18612,9 +18492,9 @@
     },
     "MatthewK78/Rose": {
       "first_seen": "2026-04-19",
-      "last_seen": "2026-04-19",
-      "days_seen": 1,
-      "peak_stars": 20,
+      "last_seen": "2026-04-20",
+      "days_seen": 2,
+      "peak_stars": 22,
       "peak_spd": 20,
       "language": "Python",
       "html_url": "https://github.com/MatthewK78/Rose",
@@ -18622,9 +18502,9 @@
     },
     "chrisryugj/korean-dart-mcp": {
       "first_seen": "2026-04-19",
-      "last_seen": "2026-04-19",
-      "days_seen": 1,
-      "peak_stars": 19,
+      "last_seen": "2026-04-20",
+      "days_seen": 2,
+      "peak_stars": 26,
       "peak_spd": 19,
       "language": "TypeScript",
       "html_url": "https://github.com/chrisryugj/korean-dart-mcp",
@@ -18642,19 +18522,19 @@
     },
     "adrian803/LingXi": {
       "first_seen": "2026-04-19",
-      "last_seen": "2026-04-19",
-      "days_seen": 1,
-      "peak_stars": 12,
-      "peak_spd": 12,
+      "last_seen": "2026-04-20",
+      "days_seen": 2,
+      "peak_stars": 20,
+      "peak_spd": 20,
       "language": "Python",
       "html_url": "https://github.com/adrian803/LingXi",
       "description": "LingXi: multi-agent CTF and pentest framework originated from Tencent Security Hackathon"
     },
     "laoposkj/multi-modal-agent-ts": {
       "first_seen": "2026-04-19",
-      "last_seen": "2026-04-19",
-      "days_seen": 1,
-      "peak_stars": 11,
+      "last_seen": "2026-04-20",
+      "days_seen": 2,
+      "peak_stars": 21,
       "peak_spd": 11,
       "language": "TypeScript",
       "html_url": "https://github.com/laoposkj/multi-modal-agent-ts",
@@ -18662,8 +18542,8 @@
     },
     "flashusdt4/Transferable-Flash-USDT-And-Software": {
       "first_seen": "2026-04-19",
-      "last_seen": "2026-04-19",
-      "days_seen": 1,
+      "last_seen": "2026-04-20",
+      "days_seen": 2,
       "peak_stars": 6,
       "peak_spd": 6,
       "language": "HTML",
@@ -18672,8 +18552,8 @@
     },
     "flashusdt4/Flash-USDT-Sender": {
       "first_seen": "2026-04-19",
-      "last_seen": "2026-04-19",
-      "days_seen": 1,
+      "last_seen": "2026-04-20",
+      "days_seen": 2,
       "peak_stars": 3,
       "peak_spd": 3,
       "language": "HTML",
@@ -18702,8 +18582,8 @@
     },
     "genoshide/evm-sweeper": {
       "first_seen": "2026-04-19",
-      "last_seen": "2026-04-19",
-      "days_seen": 1,
+      "last_seen": "2026-04-20",
+      "days_seen": 2,
       "peak_stars": 1,
       "peak_spd": 1,
       "language": "Python",
@@ -18732,8 +18612,8 @@
     },
     "cobibean/weekly-content-anchor-system": {
       "first_seen": "2026-04-19",
-      "last_seen": "2026-04-19",
-      "days_seen": 1,
+      "last_seen": "2026-04-20",
+      "days_seen": 2,
       "peak_stars": 1,
       "peak_spd": 1,
       "language": "Unknown",
@@ -18752,9 +18632,9 @@
     },
     "wbh604/UZI-Skill": {
       "first_seen": "2026-04-19",
-      "last_seen": "2026-04-19",
-      "days_seen": 1,
-      "peak_stars": 765,
+      "last_seen": "2026-04-20",
+      "days_seen": 2,
+      "peak_stars": 845,
       "peak_spd": 382.5,
       "language": "Python",
       "html_url": "https://github.com/wbh604/UZI-Skill",
@@ -18762,9 +18642,9 @@
     },
     "xataio/xata": {
       "first_seen": "2026-04-19",
-      "last_seen": "2026-04-19",
-      "days_seen": 1,
-      "peak_stars": 611,
+      "last_seen": "2026-04-20",
+      "days_seen": 2,
+      "peak_stars": 639,
       "peak_spd": 203.7,
       "language": "Go",
       "html_url": "https://github.com/xataio/xata",
@@ -18772,13 +18652,173 @@
     },
     "Lazarus-AI/clearwing": {
       "first_seen": "2026-04-19",
-      "last_seen": "2026-04-19",
-      "days_seen": 1,
-      "peak_stars": 656,
+      "last_seen": "2026-04-20",
+      "days_seen": 2,
+      "peak_stars": 755,
       "peak_spd": 164,
       "language": "Python",
       "html_url": "https://github.com/Lazarus-AI/clearwing",
       "description": "No description"
+    },
+    "yzhao062/agent-style": {
+      "first_seen": "2026-04-20",
+      "last_seen": "2026-04-20",
+      "days_seen": 1,
+      "peak_stars": 49,
+      "peak_spd": 49,
+      "language": "Python",
+      "html_url": "https://github.com/yzhao062/agent-style",
+      "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their "
+    },
+    "java-up-up/super-agent": {
+      "first_seen": "2026-04-20",
+      "last_seen": "2026-04-20",
+      "days_seen": 1,
+      "peak_stars": 11,
+      "peak_spd": 11,
+      "language": "Java",
+      "html_url": "https://github.com/java-up-up/super-agent",
+      "description": "企业级 AI 智能体 Agent 平台，覆盖智能对话、文档知识问答、联网搜索、RAG 检索、MCP 工具协议、Skills 扩展等完整能力。三层执行器体系、双通道混合检索、组合式切块引擎、会话记忆管理、全链路可观测，每个环节都经过深 度设计"
+    },
+    "maunappl8/recursive-langgraph-agent": {
+      "first_seen": "2026-04-20",
+      "last_seen": "2026-04-20",
+      "days_seen": 1,
+      "peak_stars": 20,
+      "peak_spd": 10,
+      "language": "TypeScript",
+      "html_url": "https://github.com/maunappl8/recursive-langgraph-agent",
+      "description": "Recursive LangGraph.js agent: split huge texts, answer per chunk, merge results. TypeScript, LangChain, OpenAI-compatibl"
+    },
+    "laoposkj/mastra-agentic-rag": {
+      "first_seen": "2026-04-20",
+      "last_seen": "2026-04-20",
+      "days_seen": 1,
+      "peak_stars": 20,
+      "peak_spd": 10,
+      "language": "TypeScript",
+      "html_url": "https://github.com/laoposkj/mastra-agentic-rag",
+      "description": "TypeScript AI agent with retrieval-augmented generation (RAG) using Mastra, Vercel AI SDK, OpenAI, and LibSQL/pgvector-r"
+    },
+    "jiawern929/Top-AI-Game-Generators-2026": {
+      "first_seen": "2026-04-20",
+      "last_seen": "2026-04-20",
+      "days_seen": 1,
+      "peak_stars": 5,
+      "peak_spd": 5,
+      "language": "Unknown",
+      "html_url": "https://github.com/jiawern929/Top-AI-Game-Generators-2026",
+      "description": "A curated list of the best AI game development tools in 2026. Learn how to create games with AI no coding and earn money"
+    },
+    "pink-potat0/Lykeion": {
+      "first_seen": "2026-04-20",
+      "last_seen": "2026-04-20",
+      "days_seen": 1,
+      "peak_stars": 12,
+      "peak_spd": 2.4,
+      "language": "HTML",
+      "html_url": "https://github.com/pink-potat0/Lykeion",
+      "description": "lykeion is basicaly udemy for memecoins, it contains a full solana trading course, ai assistant and memcoins analyzer, a"
+    },
+    "FlashDevSamuel5/Flash-USDT-And-Software": {
+      "first_seen": "2026-04-20",
+      "last_seen": "2026-04-20",
+      "days_seen": 1,
+      "peak_stars": 3,
+      "peak_spd": 1.5,
+      "language": "HTML",
+      "html_url": "https://github.com/FlashDevSamuel5/Flash-USDT-And-Software",
+      "description": "Flash USDT And Software Available Low Price"
+    },
+    "whiteowl-engine/WhiteOwl-Extension": {
+      "first_seen": "2026-04-20",
+      "last_seen": "2026-04-20",
+      "days_seen": 1,
+      "peak_stars": 1,
+      "peak_spd": 1,
+      "language": "JavaScript",
+      "html_url": "https://github.com/whiteowl-engine/WhiteOwl-Extension",
+      "description": "Open-source browser extension and wallet companion for the WhiteOwl panel."
+    },
+    "vominh1919/arcremit": {
+      "first_seen": "2026-04-20",
+      "last_seen": "2026-04-20",
+      "days_seen": 1,
+      "peak_stars": 1,
+      "peak_spd": 1,
+      "language": "TypeScript",
+      "html_url": "https://github.com/vominh1919/arcremit",
+      "description": "Cross-border USDC remittance on ARC Network - Send money home in seconds. Sub-second finality. 0.3% fee. Built with Soli"
+    },
+    "bizzorotical-ank01/smart-contract-vulnerability-lab": {
+      "first_seen": "2026-04-20",
+      "last_seen": "2026-04-20",
+      "days_seen": 1,
+      "peak_stars": 1,
+      "peak_spd": 1,
+      "language": "JavaScript",
+      "html_url": "https://github.com/bizzorotical-ank01/smart-contract-vulnerability-lab",
+      "description": "A curated collection of real-world smart contract vulnerabilities with exploit simulations, designed to demonstrate how "
+    },
+    "cloudcover95/JuniorHome": {
+      "first_seen": "2026-04-20",
+      "last_seen": "2026-04-20",
+      "days_seen": 1,
+      "peak_stars": 1,
+      "peak_spd": 1,
+      "language": "Python",
+      "html_url": "https://github.com/cloudcover95/JuniorHome",
+      "description": "JuniorHome —local 1st edge 45W envelope computing home for JuniorCloud LLC. Central hub that orchestrates JuniorStock, J"
+    },
+    "Manar-Elhabbal7/ChainSync-Oracle": {
+      "first_seen": "2026-04-20",
+      "last_seen": "2026-04-20",
+      "days_seen": 1,
+      "peak_stars": 2,
+      "peak_spd": 1,
+      "language": "Shell",
+      "html_url": "https://github.com/Manar-Elhabbal7/ChainSync-Oracle",
+      "description": "A cross-chain state synchronization oracle that bridges data between EVM networks using event-driven   Node.js relays"
+    },
+    "kyegomez/OpenMythos": {
+      "first_seen": "2026-04-20",
+      "last_seen": "2026-04-20",
+      "days_seen": 1,
+      "peak_stars": 1733,
+      "peak_spd": 1733,
+      "language": "Python",
+      "html_url": "https://github.com/kyegomez/OpenMythos",
+      "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research"
+    },
+    "browser-use/browser-harness": {
+      "first_seen": "2026-04-20",
+      "last_seen": "2026-04-20",
+      "days_seen": 1,
+      "peak_stars": 2447,
+      "peak_spd": 815.7,
+      "language": "Python",
+      "html_url": "https://github.com/browser-use/browser-harness",
+      "description": "Self-healing browser harness that enables LLMs to complete any task."
+    },
+    "cathrynlavery/diagram-design": {
+      "first_seen": "2026-04-20",
+      "last_seen": "2026-04-20",
+      "days_seen": 1,
+      "peak_stars": 718,
+      "peak_spd": 239.3,
+      "language": "HTML",
+      "html_url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
+    },
+    "op7418/logo-generator-skill": {
+      "first_seen": "2026-04-20",
+      "last_seen": "2026-04-20",
+      "days_seen": 1,
+      "peak_stars": 643,
+      "peak_spd": 160.8,
+      "language": "HTML",
+      "html_url": "https://github.com/op7418/logo-generator-skill",
+      "description": "logo-generator-skill"
     }
   }
 }
